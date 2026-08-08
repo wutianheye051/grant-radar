@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# ローカルで蓄積するデータベース。収集結果そのものは data/ にコミットする
+*.sqlite3
+*.sqlite3-journal
+
+.env
+.vscode/
+.idea/

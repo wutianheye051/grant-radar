@@ -1,0 +1,64 @@
+name: 公募情報の収集
+
+# 毎日 00:00 UTC（日本時間 09:00）に実行する。
+# 手動実行もできるようにしているのは、障害時に次の定時まで待たないため。
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+# data/ にコミットするための権限。必要な範囲だけ与える。
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: 依存関係をインストール
+        run: pip install -e .
+
+      # 差分検知には前回の状態が必要になる。
+      # 毎回まっさらだと、すべての公募が「新規」として報告されてしまう。
+      - name: 前回のデータベースを復元
+        uses: actions/cache@v4
+        with:
+          path: grant_radar.sqlite3
+          key: grant-radar-db-${{ github.run_id }}
+          restore-keys: grant-radar-db-
+
+      - name: 収集
+        id: collect
+        run: python -m grant_radar.cli collect --export
+        # 一部の収集元が失敗しても（終了コード1）、取得できた分は出力する。
+        # 全部が失敗した場合（終了コード2）はジョブを失敗させる。
+        continue-on-error: true
+
+      - name: 収集そのものが失敗した場合は落とす
+        if: steps.collect.outcome == 'failure'
+        run: |
+          echo "収集に失敗しました。ログを確認してください。"
+          exit 1
+
+      - name: 変更があればコミット
+        run: |
+          if [ -z "$(git status --porcelain data/)" ]; then
+            echo "公募情報に変更はありませんでした。"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "chore: 公募情報を更新 ($(date -u '+%Y-%m-%d'))"
+          git push
