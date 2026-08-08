@@ -43,7 +43,7 @@ jGrants は画面のクロールを禁止していますが、デジタル庁が
 
 ```python
 fetcher = RobotsAwareFetcher(client)
-body = fetcher.get(url)   # 禁止されていれば None を返し、理由を記録する
+body = fetcher.get(url)  # 禁止されていれば None を返し、理由を記録する
 ```
 
 判断に迷う状況では、**取得しない側に倒しています。**
