@@ -1,19 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDcNyMAL",
-    "code": "S-00009427",
-    "title": "「カーボンリサイクル実現を加速するバイオ由来製品生産技術の開発に関する調査」の公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-07-13T01:00:00Z",
-    "accepts_until": "2026-08-10T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcNyMAL"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDdbOMAT",
     "code": "S-00009541",
     "title": "「経済安全保障重要技術育成プログラム／先進的サイバー防御機能・分析能力強化／サイバーセキュリティにかかる国内外の動向調査」の公募",
@@ -362,6 +349,19 @@
     "accepts_from": "2026-05-01T00:00:00Z",
     "accepts_until": "2026-08-31T08:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYEHMA5"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDXugMAH",
+    "code": "S-00008307",
+    "title": "令和８年度ゼロエミ推進製品・サービス等の販路拡大助成事業",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 1500000,
+    "accepts_from": "2026-08-10T01:00:00Z",
+    "accepts_until": "2026-08-31T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXugMAH"
   },
   {
     "source": "jgrants",

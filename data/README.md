@@ -1,17 +1,20 @@
 # 受付中の公募一覧
 
-最終更新: 2026-08-09 04:42 (UTC)  
+最終更新: 2026-08-10 05:10 (UTC)  
 件数: 157  
-前回からの差分: 新規 0 / 更新 0 / 掲載終了 0
+前回からの差分: 新規 1 / 更新 0 / 掲載終了 1
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
+
+## 新着
+
+- [令和８年度ゼロエミ推進製品・サービス等の販路拡大助成事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXugMAH)（〜2026-08-31）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-08-10 | [「カーボンリサイクル実現を加速するバイオ由来製品生産技術の開発に関する調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcNyMAL) | — | 全国 | — |
 | 2026-08-12 | [「経済安全保障重要技術育成プログラム／先進的サイバー防御機能・分析能力強化／サイバーセキュリティにかかる国内外の動向調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdbOMAT) | — | 全国 | — |
 | 2026-08-14 | [「国内外における土木・建設工事を含む事業実施の適正評価手法の調査業務」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdRhMAL) | — | 全国 | — |
 | 2026-08-14 | [令和８年度展示会出展助成事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkTMAX) | — | 東京都 | 1,500,000円 |
@@ -39,6 +42,7 @@
 | 2026-08-28 | [令和８年度カーボンニュートラルコンビナート構築促進補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdPLMA1) | — | 山口県 | 100,000,000円 |
 | 2026-08-31 | [【６次公募】令和7年度補正予算 中堅・中小・スタートアップの賃上げに向けた省力化等の大規模成長投資補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcfDMAT) | — | 全国 | 5,000,000,000円 |
 | 2026-08-31 | [令和8年度中小企業生産性向上促進事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYEHMA5) | — | 神奈川県 | — |
+| 2026-08-31 | [令和８年度ゼロエミ推進製品・サービス等の販路拡大助成事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXugMAH) | — | 東京都 | 1,500,000円 |
 | 2026-09-01 | [GX地域共創補助金2026](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdJhMAL) | — | 全国 | 25,000,000,000円 |
 | 2026-09-04 | [令和８年度「蓄電池等の製品の持続可能性向上に向けた基盤整備・実証事業」](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDctfMAD) | — | 全国 | 720,000,000円 |
 | 2026-09-07 | [2026年度第2回「新エネルギー等のシーズ発掘・事業化に向けた技術研究開発事業」（新エネ中小・スタートアップ支援制度）の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd5cMAD) | — | 全国 | — |
