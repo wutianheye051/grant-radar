@@ -1,15 +1,11 @@
 # 受付中の公募一覧
 
-最終更新: 2026-08-10 05:10 (UTC)  
+最終更新: 2026-08-11 04:50 (UTC)  
 件数: 157  
-前回からの差分: 新規 1 / 更新 0 / 掲載終了 1
+前回からの差分: 新規 0 / 更新 0 / 掲載終了 1
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
-
-## 新着
-
-- [令和８年度ゼロエミ推進製品・サービス等の販路拡大助成事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXugMAH)（〜2026-08-31）
 
 ## すべて
 
