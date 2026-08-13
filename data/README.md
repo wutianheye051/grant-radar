@@ -1,16 +1,11 @@
 # 受付中の公募一覧
 
-最終更新: 2026-08-12 05:20 (UTC)  
+最終更新: 2026-08-13 05:49 (UTC)  
 件数: 158  
-前回からの差分: 新規 2 / 更新 0 / 掲載終了 2
+前回からの差分: 新規 0 / 更新 0 / 掲載終了 2
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
-
-## 新着
-
-- [令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYDcMAP)（〜2026-09-01）
-- [【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtMMAT)（〜2028-03-31）
 
 ## すべて
 
