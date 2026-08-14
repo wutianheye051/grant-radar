@@ -1,19 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDdRhMAL",
-    "code": "S-00009532",
-    "title": "「国内外における土木・建設工事を含む事業実施の適正評価手法の調査業務」の公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-07-31T01:00:00Z",
-    "accepts_until": "2026-08-14T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdRhMAL"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDXkTMAX",
     "code": "S-00008193",
     "title": "令和８年度展示会出展助成事業",
@@ -375,6 +362,19 @@
     "accepts_from": "2026-08-12T02:00:00Z",
     "accepts_until": "2026-09-01T14:59:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYDcMAP"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDZkYMAX",
+    "code": "S-00009240",
+    "title": "令和８年度TOKYO戦略的イノベーション促進事業",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 80000000,
+    "accepts_from": "2026-08-14T00:00:00Z",
+    "accepts_until": "2026-09-03T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZkYMAX"
   },
   {
     "source": "jgrants",
@@ -1181,6 +1181,32 @@
     "accepts_from": "2026-04-09T05:00:00Z",
     "accepts_until": "2027-01-14T14:59:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDK7NMAX"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDe4nMAD",
+    "code": "S-00009697",
+    "title": "令和8年度 中小企業の外国人従業員に対する研修等支援助成金（ウクライナ避難民採用企業コース）",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 500000,
+    "accepts_from": "2026-04-09T05:00:00Z",
+    "accepts_until": "2027-01-14T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe4nMAD"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDe4iMAD",
+    "code": "S-00009696",
+    "title": "令和8年度 中小企業の外国人従業員に対する研修等支援助成金（一般コース）",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "300名以下",
+    "max_amount": 250000,
+    "accepts_from": "2026-04-09T05:00:00Z",
+    "accepts_until": "2027-01-14T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe4iMAD"
   },
   {
     "source": "jgrants",

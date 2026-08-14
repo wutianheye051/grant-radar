@@ -1,17 +1,22 @@
 # 受付中の公募一覧
 
-最終更新: 2026-08-13 05:49 (UTC)  
-件数: 158  
-前回からの差分: 新規 0 / 更新 0 / 掲載終了 2
+最終更新: 2026-08-14 05:44 (UTC)  
+件数: 160  
+前回からの差分: 新規 3 / 更新 0 / 掲載終了 3
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
+
+## 新着
+
+- [令和８年度TOKYO戦略的イノベーション促進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZkYMAX)（〜2026-09-03）
+- [令和8年度 中小企業の外国人従業員に対する研修等支援助成金（ウクライナ避難民採用企業コース）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe4nMAD)（〜2027-01-14）
+- [令和8年度 中小企業の外国人従業員に対する研修等支援助成金（一般コース）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe4iMAD)（〜2027-01-14）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-08-14 | [「国内外における土木・建設工事を含む事業実施の適正評価手法の調査業務」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdRhMAL) | — | 全国 | — |
 | 2026-08-14 | [令和８年度展示会出展助成事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkTMAX) | — | 東京都 | 1,500,000円 |
 | 2026-08-14 | [令和8年度 航空宇宙産業への参入支援事業（宇宙製品等開発経費助成）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZBgMAP) | — | 東京都 | 100,000,000円 |
 | 2026-08-17 | [「次世代冷却に係るマテリアル・デバイスの開発動向に関する調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDc0sMAD) | — | 全国 | — |
@@ -40,6 +45,7 @@
 | 2026-08-31 | [令和８年度ゼロエミ推進製品・サービス等の販路拡大助成事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXugMAH) | — | 東京都 | 1,500,000円 |
 | 2026-09-01 | [GX地域共創補助金2026](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdJhMAL) | — | 全国 | 25,000,000,000円 |
 | 2026-09-01 | [令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYDcMAP) | — | 全国 | — |
+| 2026-09-03 | [令和８年度TOKYO戦略的イノベーション促進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZkYMAX) | — | 東京都 | 80,000,000円 |
 | 2026-09-04 | [令和８年度「蓄電池等の製品の持続可能性向上に向けた基盤整備・実証事業」](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDctfMAD) | — | 全国 | 720,000,000円 |
 | 2026-09-07 | [2026年度第2回「新エネルギー等のシーズ発掘・事業化に向けた技術研究開発事業」（新エネ中小・スタートアップ支援制度）の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd5cMAD) | — | 全国 | — |
 | 2026-09-07 | [2026年度第2回「新エネルギー等のシーズ発掘・事業化に向けた技術研究開発事業」（未来型新エネ実証制度）の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdA1MAL) | — | 全国 | — |
@@ -102,6 +108,8 @@
 | 2026-12-30 | [令和７年度ＮＢＣ災害・テロ対策設備整備補助事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDQuHMAX) | — | 東京都 | 33,762,000円 |
 | 2027-01-14 | [中小企業の外国人従業員に対する研修等支援助成金（ウクライナ避難民採用企業コース）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDK7OMAX) | — | 東京都 | 500,000円 |
 | 2027-01-14 | [中小企業の外国人従業員に対する研修等支援助成金（一般コース）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDK7NMAX) | — | 東京都 | 250,000円 |
+| 2027-01-14 | [令和8年度 中小企業の外国人従業員に対する研修等支援助成金（ウクライナ避難民採用企業コース）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe4nMAD) | — | 東京都 | 500,000円 |
+| 2027-01-14 | [令和8年度 中小企業の外国人従業員に対する研修等支援助成金（一般コース）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe4iMAD) | — | 東京都 | 250,000円 |
 | 2027-01-15 | [令和７年度補正予算　商用車等の電動化促進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDWZ9MAP) | — | 全国 | 17,500,000,000円 |
 | 2027-01-29 | [ゼロエミッション実現に向けた経営推進支援事業 助成金](https://www.jgrants-portal.go.jp/subsidy/a0W5h00000ZuemGEAR) | — | 東京都 | 15,000,000円 |
 | 2027-01-29 | [令和７年度（補正）　商用車等の電動化促進事業（建設機械）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXRpMAP) | — | 全国 / 北海道 / 青森県 / 岩手県 / 宮城県 / 秋田県 / 山形県 / 福島県 / 茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 新潟県 / 山梨県 / 長野県 / 富山県 / 石川県 / 福井県 / 岐阜県 / 静岡県 / 愛知県 / 三重県 / 滋賀県 / 京都府 / 大阪府 / 兵庫県 / 奈良県 / 和歌山県 / 鳥取県 / 島根県 / 岡山県 / 広島県 / 山口県 / 徳島県 / 香川県 / 愛媛県 / 高知県 / 福岡県 / 佐賀県 / 長崎県 / 熊本県 / 大分県 / 宮崎県 / 鹿児島県 / 沖縄県 | 1,431,000,000円 |
