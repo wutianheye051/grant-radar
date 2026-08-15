@@ -1,24 +1,20 @@
 # 受付中の公募一覧
 
-最終更新: 2026-08-14 05:44 (UTC)  
-件数: 160  
-前回からの差分: 新規 3 / 更新 0 / 掲載終了 3
+最終更新: 2026-08-15 03:02 (UTC)  
+件数: 159  
+前回からの差分: 新規 1 / 更新 0 / 掲載終了 5
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
 
 ## 新着
 
-- [令和８年度TOKYO戦略的イノベーション促進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZkYMAX)（〜2026-09-03）
-- [令和8年度 中小企業の外国人従業員に対する研修等支援助成金（ウクライナ避難民採用企業コース）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe4nMAD)（〜2027-01-14）
-- [令和8年度 中小企業の外国人従業員に対する研修等支援助成金（一般コース）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe4iMAD)（〜2027-01-14）
+- [小規模事業者持続化補助金＜共同・協業型＞ 第３回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcQOMA1)（〜2026-09-30）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-08-14 | [令和８年度展示会出展助成事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkTMAX) | — | 東京都 | 1,500,000円 |
-| 2026-08-14 | [令和8年度 航空宇宙産業への参入支援事業（宇宙製品等開発経費助成）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZBgMAP) | — | 東京都 | 100,000,000円 |
 | 2026-08-17 | [「次世代冷却に係るマテリアル・デバイスの開発動向に関する調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDc0sMAD) | — | 全国 | — |
 | 2026-08-17 | [令和８年度酒類業振興支援事業費補助金（第３期）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcFAMA1) | — | 北海道 / 青森県 / 岩手県 / 宮城県 / 秋田県 / 山形県 / 福島県 / 茨城県 / 栃木県 / 群馬県 / 埼玉県 / 新潟県 / 長野県 / 千葉県 / 東京都 / 神奈川県 / 山梨県 / 岐阜県 / 静岡県 / 愛知県 / 三重県 / 滋賀県 / 京都府 / 大阪府 / 兵庫県 / 奈良県 / 和歌山県 / 鳥取県 / 島根県 / 岡山県 / 広島県 / 山口県 / 徳島県 / 香川県 / 愛媛県 / 高知県 / 富山県 / 石川県 / 福井県 / 福岡県 / 佐賀県 / 長崎県 / 熊本県 / 大分県 / 宮崎県 / 鹿児島県 / 沖縄県 | 15,000,000円 |
 | 2026-08-17 | [令和８年度　ＺＥＢ実証事業（二次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdbJMAT) | — | 全国 | 700,000,000円 |
@@ -66,6 +62,7 @@
 | 2026-09-30 | [「賃上げ環境整備補助金2026」](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYr0MAH) | — | 北海道 | 3,000,000円 |
 | 2026-09-30 | [令和8年度 生放送字幕番組普及促進助成金（第３期）](https://www.jgrants-portal.go.jp/subsidy/a0W2x000004PhCHEA0) | — | 全国 | — |
 | 2026-09-30 | [令和8年度神奈川県小規模事業者デジタル化支援推進事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYEIMA5) | — | 神奈川県 | 500,000円 |
+| 2026-09-30 | [小規模事業者持続化補助金＜共同・協業型＞ 第３回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcQOMA1) | — | 全国 | 30,000,000円 |
 | 2026-10-08 | [「海外研究者招へい事業（STeP JAPAN）」2027年度海外招へい研究者受入機関の募集](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaooMAD) | — | 全国 | — |
 | 2026-10-16 | [⼩規模事業者持続化補助⾦＜⼀般型 災害⽀援枠（令和６年能登半島地震等）＞10次公募【商⼯会地区】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDWp3MAH) | — | 石川県 | 2,000,000円 |
 | 2026-10-16 | [小規模事業者持続化補助金＜一般型 災害支援枠（令和６年能登半島地震等）＞１０次公募【商工会議所地区】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdALMA1) | — | 石川県 | 2,000,000円 |

@@ -1,32 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDXkTMAX",
-    "code": "S-00008193",
-    "title": "令和８年度展示会出展助成事業",
-    "institution": null,
-    "target_area": "東京都",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 1500000,
-    "accepts_from": "2026-07-31T15:00:00Z",
-    "accepts_until": "2026-08-14T07:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkTMAX"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDZBgMAP",
-    "code": "S-00009189",
-    "title": "令和8年度 航空宇宙産業への参入支援事業（宇宙製品等開発経費助成）",
-    "institution": null,
-    "target_area": "東京都",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 100000000,
-    "accepts_from": "2026-06-25T05:00:00Z",
-    "accepts_until": "2026-08-14T08:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZBgMAP"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDc0sMAD",
     "code": "S-00009418",
     "title": "「次世代冷却に係るマテリアル・デバイスの開発動向に関する調査」の公募",
@@ -635,6 +609,19 @@
     "accepts_from": "2026-04-15T00:00:00Z",
     "accepts_until": "2026-09-30T08:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYEIMA5"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDcQOMA1",
+    "code": "S-00009432",
+    "title": "小規模事業者持続化補助金＜共同・協業型＞ 第３回公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 30000000,
+    "accepts_from": "2026-08-14T06:00:00Z",
+    "accepts_until": "2026-09-30T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcQOMA1"
   },
   {
     "source": "jgrants",
