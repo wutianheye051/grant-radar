@@ -1,15 +1,11 @@
 # 受付中の公募一覧
 
-最終更新: 2026-08-15 03:02 (UTC)  
+最終更新: 2026-08-16 03:15 (UTC)  
 件数: 159  
-前回からの差分: 新規 1 / 更新 0 / 掲載終了 5
+前回からの差分: 新規 0 / 更新 0 / 掲載終了 5
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
-
-## 新着
-
-- [小規模事業者持続化補助金＜共同・協業型＞ 第３回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcQOMA1)（〜2026-09-30）
 
 ## すべて
 
