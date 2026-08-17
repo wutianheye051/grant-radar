@@ -1,32 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDc0sMAD",
-    "code": "S-00009418",
-    "title": "「次世代冷却に係るマテリアル・デバイスの開発動向に関する調査」の公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-07-14T01:00:00Z",
-    "accepts_until": "2026-08-17T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDc0sMAD"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDcFAMA1",
-    "code": "S-00009424",
-    "title": "令和８年度酒類業振興支援事業費補助金（第３期）",
-    "institution": null,
-    "target_area": "北海道 / 青森県 / 岩手県 / 宮城県 / 秋田県 / 山形県 / 福島県 / 茨城県 / 栃木県 / 群馬県 / 埼玉県 / 新潟県 / 長野県 / 千葉県 / 東京都 / 神奈川県 / 山梨県 / 岐阜県 / 静岡県 / 愛知県 / 三重県 / 滋賀県 / 京都府 / 大阪府 / 兵庫県 / 奈良県 / 和歌山県 / 鳥取県 / 島根県 / 岡山県 / 広島県 / 山口県 / 徳島県 / 香川県 / 愛媛県 / 高知県 / 富山県 / 石川県 / 福井県 / 福岡県 / 佐賀県 / 長崎県 / 熊本県 / 大分県 / 宮崎県 / 鹿児島県 / 沖縄県",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 15000000,
-    "accepts_from": "2026-07-27T01:00:00Z",
-    "accepts_until": "2026-08-17T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcFAMA1"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDdbJMAT",
     "code": "S-00009540",
     "title": "令和８年度　ＺＥＢ実証事業（二次公募）",
@@ -274,6 +248,45 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDdAkMAL",
+    "code": "S-00009490",
+    "title": "【令和８年度】介護ロボット・ICT導入支援事業費補助金（パッケージ型）",
+    "institution": null,
+    "target_area": "神奈川県",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 10630000,
+    "accepts_from": "2026-08-17T01:00:00Z",
+    "accepts_until": "2026-08-31T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdAkMAL"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDdAfMAL",
+    "code": "S-00009489",
+    "title": "【令和８年度】介護ロボット・ICT導入支援事業費補助金（介護ソフト等）",
+    "institution": null,
+    "target_area": "神奈川県",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 3180000,
+    "accepts_from": "2026-08-17T01:00:00Z",
+    "accepts_until": "2026-08-31T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdAfMAL"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDdqoMAD",
+    "code": "S-00009623",
+    "title": "【令和８年度】介護ロボット・ICT導入支援事業費補助金（介護ロボット等）",
+    "institution": null,
+    "target_area": "神奈川県",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 5480000,
+    "accepts_from": "2026-08-17T01:00:00Z",
+    "accepts_until": "2026-08-31T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdqoMAD"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDcfDMAT",
     "code": "S-00009445",
     "title": "【６次公募】令和7年度補正予算 中堅・中小・スタートアップの賃上げに向けた省力化等の大規模成長投資補助金",
@@ -430,6 +443,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDZi6MAH",
+    "code": "S-00009232",
+    "title": "令和8年度 高度人材インターンシップ受入支援費補助金",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "300名以下",
+    "max_amount": 5000,
+    "accepts_from": "2026-08-16T15:00:00Z",
+    "accepts_until": "2026-09-09T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZi6MAH"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDWngMAH",
     "code": "S-00007730",
     "title": "【令和８年度】経営力強化に向けた創意工夫チャレンジ促進事業(飲食事業者向け経営基盤強化支援（受動喫煙防止対策支援コース）)助成金",
@@ -479,6 +505,19 @@
     "accepts_from": "2026-07-28T06:00:00Z",
     "accepts_until": "2026-09-14T06:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYlTMAX"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDO8eMAH",
+    "code": "S-00006645",
+    "title": "交通システムの省CO2 化に向けた設備整備事業（鉄道事業等におけるネットワーク型低炭素化促進事業）（二次公募）",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-08-17T01:00:00Z",
+    "accepts_until": "2026-09-14T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDO8eMAH"
   },
   {
     "source": "jgrants",
@@ -557,6 +596,19 @@
     "accepts_from": "2026-04-30T02:49:00Z",
     "accepts_until": "2026-09-30T02:49:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdgEMAT"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDcy9MAD",
+    "code": "S-00009458",
+    "title": "「GXイノベーション・エコシステム構築事業推進に向けたフロンティア領域の探索・重点支援のためのマネジメント手法の構築」の公募",
+    "institution": "P24012_フロンティア領域の探索・重点支援のためのＧＸイノベーション・エコシステム構築事業推進に係る検討",
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-08-17T01:00:00Z",
+    "accepts_until": "2026-09-30T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcy9MAD"
   },
   {
     "source": "jgrants",
@@ -1532,6 +1584,19 @@
     "accepts_from": "2026-04-01T00:00:00Z",
     "accepts_until": "2027-03-31T08:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZz2MAH"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDdtHMAT",
+    "code": "S-00009638",
+    "title": "がんばろう赤磐中小企業省エネ設備更新支援補助金",
+    "institution": null,
+    "target_area": "岡山県",
+    "target_employees": "900名以下",
+    "max_amount": null,
+    "accepts_from": "2026-08-16T15:00:00Z",
+    "accepts_until": "2027-03-31T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtHMAT"
   },
   {
     "source": "jgrants",
