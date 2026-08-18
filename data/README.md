@@ -1,28 +1,21 @@
 # 受付中の公募一覧
 
-最終更新: 2026-08-17 03:16 (UTC)  
+最終更新: 2026-08-18 03:09 (UTC)  
 件数: 164  
-前回からの差分: 新規 7 / 更新 0 / 掲載終了 7
+前回からの差分: 新規 2 / 更新 0 / 掲載終了 9
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
 
 ## 新着
 
-- [がんばろう赤磐中小企業省エネ設備更新支援補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtHMAT)（〜2027-03-31）
-- [【令和８年度】介護ロボット・ICT導入支援事業費補助金（介護ロボット等）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdqoMAD)（〜2026-08-31）
-- [【令和８年度】介護ロボット・ICT導入支援事業費補助金（パッケージ型）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdAkMAL)（〜2026-08-31）
-- [【令和８年度】介護ロボット・ICT導入支援事業費補助金（介護ソフト等）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdAfMAL)（〜2026-08-31）
-- [交通システムの省CO2 化に向けた設備整備事業（鉄道事業等におけるネットワーク型低炭素化促進事業）（二次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDO8eMAH)（〜2026-09-14）
-- [「GXイノベーション・エコシステム構築事業推進に向けたフロンティア領域の探索・重点支援のためのマネジメント手法の構築」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcy9MAD)（〜2026-09-30）
-- [令和8年度 高度人材インターンシップ受入支援費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZi6MAH)（〜2026-09-09）
+- [【埼玉県】令和8年度 企業等における省エネ・再エネ活用設備導入補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUSMA5)（〜2026-09-14）
+- [令和８年度酒類業振興支援事業費補助金（第５期）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdRmMAL)（〜2026-10-07）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-08-17 | [令和８年度　ＺＥＢ実証事業（二次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdbJMAT) | — | 全国 | 700,000,000円 |
-| 2026-08-17 | [令和８年度地域資源活用製品等の開発・販売促進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdapMAD) | — | 東京都 | 15,000,000円 |
 | 2026-08-19 | [2026年度「地域課題解決型起業支援事業」（2次募集）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYirMAH) | — | 北海道 | 2,000,000円 |
 | 2026-08-21 | [「ポスト5G情報通信システム基盤強化研究開発事業／AI用データセンターにおけるソフトウェア技術ニーズ分析とテストベッド運営基盤に関する調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDckaMAD) | — | 全国 | — |
 | 2026-08-21 | [「省電力・高速情報処理を実現するフロンティア技術等に関する俯瞰調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdNyMAL) | P24012_フロンティア領域の探索・重点支援のためのＧＸイノベーション・エコシステム構築事業推進に係る検討 | 全国 | — |
@@ -60,6 +53,7 @@
 | 2026-09-11 | [令和８年度医療機関診療情報サイバーセキュリティ対策支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXuqMAH) | — | 東京都 | — |
 | 2026-09-14 | [令和８年度 脱炭素成長型経済構造移行推進対策費補助金（自律型資源 循環システム強靱化促進事業）（事前着手届出）【一次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd5SMAT) | — | 全国 | — |
 | 2026-09-14 | [令和８年度 脱炭素成長型経済構造移行推進対策費補助金（自律型資源循環システム強靱化促進事業）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYlTMAX) | — | 全国 | 20,000,000,000円 |
+| 2026-09-14 | [【埼玉県】令和8年度 企業等における省エネ・再エネ活用設備導入補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUSMA5) | — | 埼玉県 | — |
 | 2026-09-14 | [交通システムの省CO2 化に向けた設備整備事業（鉄道事業等におけるネットワーク型低炭素化促進事業）（二次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDO8eMAH) | — | 全国 | — |
 | 2026-09-15 | [【応募事業者】令和８年度 プラスチック等資源循環システム構築実証事業　＜三次公募＞](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdqyMAD) | — | 全国 / 北海道 / 青森県 / 岩手県 / 宮城県 / 秋田県 / 山形県 / 福島県 / 茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 新潟県 / 山梨県 / 長野県 / 富山県 / 石川県 / 福井県 / 岐阜県 / 静岡県 / 愛知県 / 三重県 / 滋賀県 / 京都府 / 大阪府 / 兵庫県 / 奈良県 / 和歌山県 / 鳥取県 / 島根県 / 岡山県 / 広島県 / 山口県 / 徳島県 / 香川県 / 愛媛県 / 高知県 / 福岡県 / 佐賀県 / 長崎県 / 熊本県 / 大分県 / 宮崎県 / 鹿児島県 / 沖縄県 | — |
 | 2026-09-18 | [【令和７年度】二酸化炭素排出抑制対策事業費等補助金（水インフラにおける脱炭素化推進事業）［四次公募］](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDb6JMAT) | — | 全国 | — |
@@ -73,6 +67,7 @@
 | 2026-09-30 | [令和8年度 生放送字幕番組普及促進助成金（第３期）](https://www.jgrants-portal.go.jp/subsidy/a0W2x000004PhCHEA0) | — | 全国 | — |
 | 2026-09-30 | [令和8年度神奈川県小規模事業者デジタル化支援推進事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYEIMA5) | — | 神奈川県 | 500,000円 |
 | 2026-09-30 | [小規模事業者持続化補助金＜共同・協業型＞ 第３回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcQOMA1) | — | 全国 | 30,000,000円 |
+| 2026-10-07 | [令和８年度酒類業振興支援事業費補助金（第５期）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdRmMAL) | — | 北海道 / 青森県 / 岩手県 / 宮城県 / 秋田県 / 山形県 / 福島県 / 茨城県 / 栃木県 / 群馬県 / 埼玉県 / 新潟県 / 長野県 / 沖縄県 / 千葉県 / 東京都 / 神奈川県 / 山梨県 / 富山県 / 石川県 / 福井県 / 岐阜県 / 静岡県 / 愛知県 / 三重県 / 滋賀県 / 京都府 / 大阪府 / 兵庫県 / 奈良県 / 和歌山県 / 鳥取県 / 島根県 / 岡山県 / 広島県 / 山口県 / 徳島県 / 香川県 / 愛媛県 / 高知県 / 福岡県 / 佐賀県 / 長崎県 / 熊本県 / 大分県 / 宮崎県 / 鹿児島県 | 15,000,000円 |
 | 2026-10-08 | [「海外研究者招へい事業（STeP JAPAN）」2027年度海外招へい研究者受入機関の募集](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaooMAD) | — | 全国 | — |
 | 2026-10-16 | [⼩規模事業者持続化補助⾦＜⼀般型 災害⽀援枠（令和６年能登半島地震等）＞10次公募【商⼯会地区】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDWp3MAH) | — | 石川県 | 2,000,000円 |
 | 2026-10-16 | [小規模事業者持続化補助金＜一般型 災害支援枠（令和６年能登半島地震等）＞１０次公募【商工会議所地区】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdALMA1) | — | 石川県 | 2,000,000円 |
