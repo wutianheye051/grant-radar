@@ -1,16 +1,11 @@
 # 受付中の公募一覧
 
-最終更新: 2026-08-18 03:09 (UTC)  
+最終更新: 2026-08-19 03:13 (UTC)  
 件数: 164  
-前回からの差分: 新規 2 / 更新 0 / 掲載終了 9
+前回からの差分: 新規 0 / 更新 0 / 掲載終了 9
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
-
-## 新着
-
-- [【埼玉県】令和8年度 企業等における省エネ・再エネ活用設備導入補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUSMA5)（〜2026-09-14）
-- [令和８年度酒類業振興支援事業費補助金（第５期）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdRmMAL)（〜2026-10-07）
 
 ## すべて
 
