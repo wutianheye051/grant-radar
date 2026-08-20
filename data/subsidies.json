@@ -1,19 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDYirMAH",
-    "code": "S-00008990",
-    "title": "2026年度「地域課題解決型起業支援事業」（2次募集）",
-    "institution": null,
-    "target_area": "北海道",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 2000000,
-    "accepts_from": "2026-07-14T00:00:00Z",
-    "accepts_until": "2026-08-19T08:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYirMAH"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDckaMAD",
     "code": "S-00009452",
     "title": "「ポスト5G情報通信システム基盤強化研究開発事業／AI用データセンターにおけるソフトウェア技術ニーズ分析とテストベッド運営基盤に関する調査」の公募",
@@ -417,6 +404,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDe7xMAD",
+    "code": "S-00009731",
+    "title": "令和８年度運輸部門におけるエネルギーの使用合理化・非化石エネルギー転換推進事業費補助金（内航船革新的運航効率化・非化石エネルギー転換推進事業）（三次公募）",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 500000000,
+    "accepts_from": "2026-08-19T05:00:00Z",
+    "accepts_until": "2026-09-09T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe7xMAD"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDZi6MAH",
     "code": "S-00009232",
     "title": "令和8年度 高度人材インターンシップ受入支援費補助金",
@@ -557,6 +557,19 @@
     "accepts_from": "2025-02-14T08:00:00Z",
     "accepts_until": "2026-09-28T08:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDdtWMAT",
+    "code": "S-00009641",
+    "title": "2026年度「木質バイオマス燃料等の安定的・効率的な供給・利用システム構築支援事業」の第２回公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-08-20T01:00:00Z",
+    "accepts_until": "2026-09-29T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtWMAT"
   },
   {
     "source": "jgrants",
