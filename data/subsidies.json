@@ -1,32 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDckaMAD",
-    "code": "S-00009452",
-    "title": "「ポスト5G情報通信システム基盤強化研究開発事業／AI用データセンターにおけるソフトウェア技術ニーズ分析とテストベッド運営基盤に関する調査」の公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-07-16T01:00:00Z",
-    "accepts_until": "2026-08-21T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDckaMAD"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDdNyMAL",
-    "code": "S-00009512",
-    "title": "「省電力・高速情報処理を実現するフロンティア技術等に関する俯瞰調査」の公募",
-    "institution": "P24012_フロンティア領域の探索・重点支援のためのＧＸイノベーション・エコシステム構築事業推進に係る検討",
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-07-28T01:00:00Z",
-    "accepts_until": "2026-08-21T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdNyMAL"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDdSBMA1",
     "code": "S-00009535",
     "title": "令和7年度補正　デジタルライフライン整備加速事業（ドローン航路整備事業）",
@@ -323,6 +297,19 @@
     "accepts_from": "2026-08-14T00:00:00Z",
     "accepts_until": "2026-09-03T08:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZkYMAX"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDdu5MAD",
+    "code": "S-00009648",
+    "title": "「バーチャルエコノミーにおける社会実装に向けた戦略検討、グローバルベンチマーク調査及び提供財の社会実装への取組提言」の公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-08-21T01:00:00Z",
+    "accepts_until": "2026-09-04T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdu5MAD"
   },
   {
     "source": "jgrants",

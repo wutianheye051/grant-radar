@@ -1,23 +1,20 @@
 # 受付中の公募一覧
 
-最終更新: 2026-08-20 03:12 (UTC)  
-件数: 165  
-前回からの差分: 新規 2 / 更新 0 / 掲載終了 10
+最終更新: 2026-08-21 03:30 (UTC)  
+件数: 164  
+前回からの差分: 新規 1 / 更新 0 / 掲載終了 12
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
 
 ## 新着
 
-- [2026年度「木質バイオマス燃料等の安定的・効率的な供給・利用システム構築支援事業」の第２回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtWMAT)（〜2026-09-29）
-- [令和８年度運輸部門におけるエネルギーの使用合理化・非化石エネルギー転換推進事業費補助金（内航船革新的運航効率化・非化石エネルギー転換推進事業）（三次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe7xMAD)（〜2026-09-09）
+- [「バーチャルエコノミーにおける社会実装に向けた戦略検討、グローバルベンチマーク調査及び提供財の社会実装への取組提言」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdu5MAD)（〜2026-09-04）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-08-21 | [「ポスト5G情報通信システム基盤強化研究開発事業／AI用データセンターにおけるソフトウェア技術ニーズ分析とテストベッド運営基盤に関する調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDckaMAD) | — | 全国 | — |
-| 2026-08-21 | [「省電力・高速情報処理を実現するフロンティア技術等に関する俯瞰調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdNyMAL) | P24012_フロンティア領域の探索・重点支援のためのＧＸイノベーション・エコシステム構築事業推進に係る検討 | 全国 | — |
 | 2026-08-21 | [令和7年度補正　デジタルライフライン整備加速事業（ドローン航路整備事業）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdSBMA1) | — | 全国 | — |
 | 2026-08-24 | [「ポスト5G情報通信システム基盤強化研究開発事業／フィジカルAIに向けた再帰的自己改善型AIに関する研究開発事業」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdQnMAL) | — | 全国 | — |
 | 2026-08-24 | [令和8年度 洋上風力発電人材育成事業費補助金（第2次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDb8QMAT) | — | 全国 | 500,000,000円 |
@@ -41,6 +38,7 @@
 | 2026-09-01 | [GX地域共創補助金2026](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdJhMAL) | — | 全国 | 25,000,000,000円 |
 | 2026-09-01 | [令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYDcMAP) | — | 全国 | — |
 | 2026-09-03 | [令和８年度TOKYO戦略的イノベーション促進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZkYMAX) | — | 東京都 | 80,000,000円 |
+| 2026-09-04 | [「バーチャルエコノミーにおける社会実装に向けた戦略検討、グローバルベンチマーク調査及び提供財の社会実装への取組提言」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdu5MAD) | — | 全国 | — |
 | 2026-09-04 | [令和８年度「蓄電池等の製品の持続可能性向上に向けた基盤整備・実証事業」](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDctfMAD) | — | 全国 | 720,000,000円 |
 | 2026-09-07 | [2026年度第2回「新エネルギー等のシーズ発掘・事業化に向けた技術研究開発事業」（新エネ中小・スタートアップ支援制度）の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd5cMAD) | — | 全国 | — |
 | 2026-09-07 | [2026年度第2回「新エネルギー等のシーズ発掘・事業化に向けた技術研究開発事業」（未来型新エネ実証制度）の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdA1MAL) | — | 全国 | — |
