@@ -1,23 +1,11 @@
 # 受付中の公募一覧
 
-最終更新: 2026-08-22 03:07 (UTC)  
+最終更新: 2026-08-23 03:30 (UTC)  
 件数: 172  
-前回からの差分: 新規 9 / 更新 0 / 掲載終了 13
+前回からの差分: 新規 0 / 更新 0 / 掲載終了 13
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
-
-## 新着
-
-- [【令和７年度補正予算・令和８年度】二酸化炭素排出抑制対策事業費等補助金（民間建築物等における省CO2改修支援事業（令和７年度補正三次公募・令和８年度二次公募））](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtlMAD)（〜2026-09-30）
-- [【令和７年度補正予算・令和８年度】二酸化炭素排出抑制対策事業費等補助金（ライフサイクルカーボン削減型の先導的な新築ZEB支援事業（令和７年度補正予算三次公募・令和８年度二次公募））](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtbMAD)（〜2026-09-30）
-- [【令和７年度補正予算・令和８年度】二酸化炭素排出抑制対策事業費等補助金（新築建築物のZEB普及促進支援事業/既存建築物のZEB化普及促進支援事業（令和７年度補正予算三次公募・令和８年度二次公募））](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtRMAT)（〜2026-09-30）
-- [令和７年度(補正予算) ゼロエミッション船等の建造促進事業 2次公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdnJMAT)（〜2026-10-09）
-- [【令和８年度】二酸化炭素排出抑制対策事業費等補助金（低炭素型建材活用新築ZEB支援事業）（二次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaT7MAL)（〜2026-09-30）
-- [【令和７年度補正予算・令和８年度】二酸化炭素排出抑制対策事業費等補助金（空き家等における省CO2改修支援事業（令和７年度補正三次公募・令和８年度二次公募））](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdu0MAD)（〜2026-09-30）
-- [【令和７年度補正予算・令和８年度】二酸化炭素排出抑制対策事業費等補助金（テナントビルの省CO2改修支援事業（令和７年度補正三次公募・令和８年度二次公募））](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtvMAD)（〜2026-09-30）
-- [【令和８年度】フェーズフリーの省CO2独立型施設支援事業（２次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbq0MAD)（〜2026-09-30）
-- [【令和８年度】サステナブル倉庫モデル促進事業（２次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbpvMAD)（〜2026-09-30）
 
 ## すべて
 
