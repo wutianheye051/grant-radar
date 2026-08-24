@@ -1,19 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDdQnMAL",
-    "code": "S-00009524",
-    "title": "「ポスト5G情報通信システム基盤強化研究開発事業／フィジカルAIに向けた再帰的自己改善型AIに関する研究開発事業」の公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-07-24T01:00:00Z",
-    "accepts_until": "2026-08-24T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdQnMAL"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDb8QMAT",
     "code": "S-00009371",
     "title": "令和8年度 洋上風力発電人材育成事業費補助金（第2次公募）",
@@ -339,6 +326,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDeA1MAL",
+    "code": "S-00009737",
+    "title": "「競争的な水素サプライチェーン構築に向けた技術開発事業／総合調査研究／水素キャリアに係る船陸インターフェースの国際標準化に向けた基礎調査」の公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-08-24T01:00:00Z",
+    "accepts_until": "2026-09-07T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeA1MAL"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDdNKMA1",
     "code": "S-00009508",
     "title": "令和８年度 エネルギー使用合理化設備導入促進対策費補助金（資源自律経済確立産官学連携加速化事業）【二次公募】",
@@ -505,6 +505,45 @@
     "accepts_from": "2026-06-18T07:00:00Z",
     "accepts_until": "2026-09-18T08:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDb6JMAT"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDdmfMAD",
+    "code": "S-00009587",
+    "title": "令和８年度　熱利活用事業（単年度事業分）　第３次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-08-24T00:00:00Z",
+    "accepts_until": "2026-09-18T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdmfMAD"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDdmVMAT",
+    "code": "S-00009586",
+    "title": "令和８年度　電力利活用事業（単年度事業分）　第３次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-08-24T00:00:00Z",
+    "accepts_until": "2026-09-18T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdmVMAT"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDdmpMAD",
+    "code": "S-00009588",
+    "title": "令和８年度　ＦＳ調査事業　第３次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-08-24T00:00:00Z",
+    "accepts_until": "2026-09-18T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdmpMAD"
   },
   {
     "source": "jgrants",
