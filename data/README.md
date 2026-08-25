@@ -1,25 +1,26 @@
 # 受付中の公募一覧
 
-最終更新: 2026-08-24 03:32 (UTC)  
-件数: 175  
-前回からの差分: 新規 4 / 更新 0 / 掲載終了 14
+最終更新: 2026-08-25 03:15 (UTC)  
+件数: 180  
+前回からの差分: 新規 7 / 更新 0 / 掲載終了 16
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
 
 ## 新着
 
-- [令和８年度　熱利活用事業（単年度事業分）　第３次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdmfMAD)（〜2026-09-18）
-- [令和８年度　電力利活用事業（単年度事業分）　第３次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdmVMAT)（〜2026-09-18）
-- [令和８年度　ＦＳ調査事業　第３次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdmpMAD)（〜2026-09-18）
-- [「競争的な水素サプライチェーン構築に向けた技術開発事業／総合調査研究／水素キャリアに係る船陸インターフェースの国際標準化に向けた基礎調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeA1MAL)（〜2026-09-07）
+- [令和８年度ゼロエミッション船等の導入支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbyjMAD)（〜2026-12-03）
+- [令和8年度　ふくいの逸品創造ファンド事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeF3MAL)（〜2026-09-30）
+- [④リチウム蓄電池リサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び令和８年度第３次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYkHMAX)（〜2026-09-25）
+- [③太陽光パネルリサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び令和８年度第３次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYkCMAX)（〜2026-09-25）
+- [⑤金属破砕・選別設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び第８年度第３次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYk0MAH)（〜2026-09-25）
+- [②化石資源由来プラスチックを代替する再生可能資源由来素材 の省CO2型製造設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び令和８年度第３次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYjRMAX)（〜2026-09-25）
+- [①省CO2型プラスチック高度リサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）４次公募及び令和８年度３次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYiwMAH)（〜2026-09-25）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-08-24 | [令和8年度 洋上風力発電人材育成事業費補助金（第2次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDb8QMAT) | — | 全国 | 500,000,000円 |
-| 2026-08-24 | [【岐阜県・2次募集】令和８年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdfVMAT) | — | 岐阜県 | 3,000,000円 |
 | 2026-08-25 | [【第二回公募】令和8年度災害時に備えた社会的重要インフラへの自衛的な燃料備蓄の推進事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdR2MAL) | — | 全国 | — |
 | 2026-08-25 | [令和８年度_グリーンスローモビリティ等導入促進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDKZFMA5) | — | 全国 | — |
 | 2026-08-26 | [【令和8年度】DX型CO2削減対策実行支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaMLMA1) | — | 全国 | 2,000,000円 |
@@ -60,6 +61,11 @@
 | 2026-09-18 | [令和８年度　熱利活用事業（単年度事業分）　第３次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdmfMAD) | — | 全国 | — |
 | 2026-09-18 | [令和８年度　電力利活用事業（単年度事業分）　第３次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdmVMAT) | — | 全国 | — |
 | 2026-09-18 | [令和８年度　ＦＳ調査事業　第３次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdmpMAD) | — | 全国 | — |
+| 2026-09-25 | [①省CO2型プラスチック高度リサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）４次公募及び令和８年度３次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYiwMAH) | — | 全国 | 7,297,000,000円 |
+| 2026-09-25 | [②化石資源由来プラスチックを代替する再生可能資源由来素材 の省CO2型製造設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び令和８年度第３次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYjRMAX) | — | 全国 | 7,297,000,000円 |
+| 2026-09-25 | [③太陽光パネルリサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び令和８年度第３次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYkCMAX) | — | 全国 | 7,297,000,000円 |
+| 2026-09-25 | [④リチウム蓄電池リサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び令和８年度第３次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYkHMAX) | — | 全国 | 7,297,000,000円 |
+| 2026-09-25 | [⑤金属破砕・選別設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び第８年度第３次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYk0MAH) | — | 全国 | 7,297,000,000円 |
 | 2026-09-25 | [令和８年度「水力発電導入促進支援事業費補助金（事業性評価支援事業）」（新規事業　３次締切分）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcODMA1) | — | 全国 | 20,000,000円 |
 | 2026-09-28 | [【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX) | — | 全国 | 40,000,000円 |
 | 2026-09-29 | [2026年度「木質バイオマス燃料等の安定的・効率的な供給・利用システム構築支援事業」の第２回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtWMAT) | — | 全国 | — |
@@ -77,6 +83,7 @@
 | 2026-09-30 | [【令和８年度】フェーズフリーの省CO2独立型施設支援事業（２次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbq0MAD) | — | 全国 | 35,000,000円 |
 | 2026-09-30 | [【令和８年度】二酸化炭素排出抑制対策事業費等補助金（低炭素型建材活用新築ZEB支援事業）（二次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaT7MAL) | — | 全国 | 500,000,000円 |
 | 2026-09-30 | [令和8年度 生放送字幕番組普及促進助成金（第３期）](https://www.jgrants-portal.go.jp/subsidy/a0W2x000004PhCHEA0) | — | 全国 | — |
+| 2026-09-30 | [令和8年度　ふくいの逸品創造ファンド事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeF3MAL) | — | 福井県 | 2,000,000円 |
 | 2026-09-30 | [令和8年度神奈川県小規模事業者デジタル化支援推進事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYEIMA5) | — | 神奈川県 | 500,000円 |
 | 2026-09-30 | [小規模事業者持続化補助金＜共同・協業型＞ 第３回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcQOMA1) | — | 全国 | 30,000,000円 |
 | 2026-10-07 | [令和８年度酒類業振興支援事業費補助金（第５期）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdRmMAL) | — | 北海道 / 青森県 / 岩手県 / 宮城県 / 秋田県 / 山形県 / 福島県 / 茨城県 / 栃木県 / 群馬県 / 埼玉県 / 新潟県 / 長野県 / 沖縄県 / 千葉県 / 東京都 / 神奈川県 / 山梨県 / 富山県 / 石川県 / 福井県 / 岐阜県 / 静岡県 / 愛知県 / 三重県 / 滋賀県 / 京都府 / 大阪府 / 兵庫県 / 奈良県 / 和歌山県 / 鳥取県 / 島根県 / 岡山県 / 広島県 / 山口県 / 徳島県 / 香川県 / 愛媛県 / 高知県 / 福岡県 / 佐賀県 / 長崎県 / 熊本県 / 大分県 / 宮崎県 / 鹿児島県 | 15,000,000円 |
@@ -107,6 +114,7 @@
 | 2026-11-30 | [令和８年度東京都医療ＤＸ人材育成支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXvUMAX) | — | 東京都 | 500,000円 |
 | 2026-12-01 | [令和８年度海外商標対策支援助成事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYR2MAP) | — | 東京都 | 5,000,000円 |
 | 2026-12-01 | [【農林水産省】中山間地域所得確保推進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYDCMA5) | — | 全国 | 5,000,000円 |
+| 2026-12-03 | [令和８年度ゼロエミッション船等の導入支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbyjMAD) | — | 全国 | — |
 | 2026-12-14 | [【令和８年度】INPIT外国出願補助金（中間手続補助）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXmVMAX) | INPIT外国出願補助金（中間手続補助） | 全国 | 500,000円 |
 | 2026-12-17 | [中小企業人材確保のための奨学金返還支援事業【令和８年度企業登録】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX1KMAX) | — | 東京都 | — |
 | 2026-12-18 | [INPIT事業再編計画支援事業補助金（令和８年度）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYBxMAP) | INPIT事業再編計画支援事業補助金 | 全国 | 6,500,000円 |

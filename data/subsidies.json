@@ -1,32 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDb8QMAT",
-    "code": "S-00009371",
-    "title": "令和8年度 洋上風力発電人材育成事業費補助金（第2次公募）",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 500000000,
-    "accepts_from": "2026-07-13T00:00:00Z",
-    "accepts_until": "2026-08-24T06:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDb8QMAT"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDdfVMAT",
-    "code": "S-00009561",
-    "title": "【岐阜県・2次募集】令和８年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）",
-    "institution": null,
-    "target_area": "岐阜県",
-    "target_employees": "300名以下",
-    "max_amount": 3000000,
-    "accepts_from": "2026-07-24T01:00:00Z",
-    "accepts_until": "2026-08-24T08:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdfVMAT"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDdR2MAL",
     "code": "S-00009527",
     "title": "【第二回公募】令和8年度災害時に備えた社会的重要インフラへの自衛的な燃料備蓄の推進事業費補助金",
@@ -547,6 +521,71 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDYiwMAH",
+    "code": "S-00008991",
+    "title": "①省CO2型プラスチック高度リサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）４次公募及び令和８年度３次公募】",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 7297000000,
+    "accepts_from": "2026-08-25T02:00:00Z",
+    "accepts_until": "2026-09-25T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYiwMAH"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDYjRMAX",
+    "code": "S-00008997",
+    "title": "②化石資源由来プラスチックを代替する再生可能資源由来素材 の省CO2型製造設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び令和８年度第３次公募】",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 7297000000,
+    "accepts_from": "2026-08-25T02:00:00Z",
+    "accepts_until": "2026-09-25T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYjRMAX"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDYkCMAX",
+    "code": "S-00009012",
+    "title": "③太陽光パネルリサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び令和８年度第３次公募】",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 7297000000,
+    "accepts_from": "2026-08-25T02:00:00Z",
+    "accepts_until": "2026-09-25T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYkCMAX"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDYkHMAX",
+    "code": "S-00009013",
+    "title": "④リチウム蓄電池リサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び令和８年度第３次公募】",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 7297000000,
+    "accepts_from": "2026-08-25T02:00:00Z",
+    "accepts_until": "2026-09-25T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYkHMAX"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDYk0MAH",
+    "code": "S-00009004",
+    "title": "⑤金属破砕・選別設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び第８年度第３次公募】",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 7297000000,
+    "accepts_from": "2026-08-25T02:00:00Z",
+    "accepts_until": "2026-09-25T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYk0MAH"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDcODMA1",
     "code": "S-00009431",
     "title": "令和８年度「水力発電導入促進支援事業費補助金（事業性評価支援事業）」（新規事業　３次締切分）",
@@ -765,6 +804,19 @@
     "accepts_from": "2026-06-30T23:45:00Z",
     "accepts_until": "2026-09-30T08:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000004PhCHEA0"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDeF3MAL",
+    "code": "S-00009752",
+    "title": "令和8年度　ふくいの逸品創造ファンド事業",
+    "institution": null,
+    "target_area": "福井県",
+    "target_employees": "300名以下",
+    "max_amount": 2000000,
+    "accepts_from": "2026-08-10T00:00:00Z",
+    "accepts_until": "2026-09-30T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeF3MAL"
   },
   {
     "source": "jgrants",
@@ -1155,6 +1207,19 @@
     "accepts_from": "2025-12-16T00:00:00Z",
     "accepts_until": "2026-12-01T08:15:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYDCMA5"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDbyjMAD",
+    "code": "S-00009407",
+    "title": "令和８年度ゼロエミッション船等の導入支援事業",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-08-24T05:00:00Z",
+    "accepts_until": "2026-12-03T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbyjMAD"
   },
   {
     "source": "jgrants",
