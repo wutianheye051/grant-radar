@@ -1,30 +1,21 @@
 # 受付中の公募一覧
 
-最終更新: 2026-08-25 03:15 (UTC)  
-件数: 180  
-前回からの差分: 新規 7 / 更新 0 / 掲載終了 16
+最終更新: 2026-08-26 03:34 (UTC)  
+件数: 178  
+前回からの差分: 新規 2 / 更新 0 / 掲載終了 20
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
 
 ## 新着
 
-- [令和８年度ゼロエミッション船等の導入支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbyjMAD)（〜2026-12-03）
-- [令和8年度　ふくいの逸品創造ファンド事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeF3MAL)（〜2026-09-30）
-- [④リチウム蓄電池リサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び令和８年度第３次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYkHMAX)（〜2026-09-25）
-- [③太陽光パネルリサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び令和８年度第３次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYkCMAX)（〜2026-09-25）
-- [⑤金属破砕・選別設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び第８年度第３次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYk0MAH)（〜2026-09-25）
-- [②化石資源由来プラスチックを代替する再生可能資源由来素材 の省CO2型製造設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び令和８年度第３次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYjRMAX)（〜2026-09-25）
-- [①省CO2型プラスチック高度リサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）４次公募及び令和８年度３次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYiwMAH)（〜2026-09-25）
+- [「GX分野の大企業等のスタートアップ連携・調達加速化事業／市場創出及び本格調達・購買の実現可能性の検証（GX_CPP）」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdmLMAT)（〜2026-09-30）
+- [「ディープテック・スタートアップ支援基金／大企業等のスタートアップ連携・調達加速化事業／市場創出及び本格調達・購買の実現可能性の検証（CPP）」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdmGMAT)（〜2026-09-30）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-08-25 | [【第二回公募】令和8年度災害時に備えた社会的重要インフラへの自衛的な燃料備蓄の推進事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdR2MAL) | — | 全国 | — |
-| 2026-08-25 | [令和８年度_グリーンスローモビリティ等導入促進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDKZFMA5) | — | 全国 | — |
-| 2026-08-26 | [【令和8年度】DX型CO2削減対策実行支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaMLMA1) | — | 全国 | 2,000,000円 |
-| 2026-08-26 | [【令和8年度】省CO2型システムへの改修支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaMQMA1) | — | 全国 | 500,000,000円 |
 | 2026-08-26 | [【令和８年度】二酸化炭素排出抑制対策事業費等補助金 （国内資源循環体制構築に向けた再エネ関連製品及びベース素材の全体最適化実証事業）（第２次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdAaMAL) | — | 全国 | — |
 | 2026-08-28 | [令和８年度カーボンニュートラルコンビナート構築促進補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdPVMA1) | — | 山口県 | 500,000,000円 |
 | 2026-08-28 | [令和８年度カーボンニュートラルコンビナート構築促進補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdPGMA1) | — | 山口県 | 500,000,000円 |
@@ -72,6 +63,8 @@
 | 2026-09-29 | [令和８年度　水力発電導入促進支援事業費補助金（既存設備有効活用強化支援事業）公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYcpMAH) | — | 全国 | 1,474,350,000円 |
 | 2026-09-30 | [東京都商店街デジタル化推進事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdgEMAT) | — | 東京都 | 15,000,000円 |
 | 2026-09-30 | [「GXイノベーション・エコシステム構築事業推進に向けたフロンティア領域の探索・重点支援のためのマネジメント手法の構築」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcy9MAD) | P24012_フロンティア領域の探索・重点支援のためのＧＸイノベーション・エコシステム構築事業推進に係る検討 | 全国 | — |
+| 2026-09-30 | [「GX分野の大企業等のスタートアップ連携・調達加速化事業／市場創出及び本格調達・購買の実現可能性の検証（GX_CPP）」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdmLMAT) | — | 全国 | — |
+| 2026-09-30 | [「ディープテック・スタートアップ支援基金／大企業等のスタートアップ連携・調達加速化事業／市場創出及び本格調達・購買の実現可能性の検証（CPP）」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdmGMAT) | — | 全国 | — |
 | 2026-09-30 | [地域社会ＤＸ推進パッケージ事業（補助事業）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdjzMAD) | — | 全国 | — |
 | 2026-09-30 | [「賃上げ環境整備補助金2026」](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYr0MAH) | — | 北海道 | 3,000,000円 |
 | 2026-09-30 | [【令和７年度補正予算・令和８年度】二酸化炭素排出抑制対策事業費等補助金（テナントビルの省CO2改修支援事業（令和７年度補正三次公募・令和８年度二次公募））](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtvMAD) | — | 全国 | 40,000,000円 |
