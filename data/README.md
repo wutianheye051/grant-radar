@@ -1,22 +1,23 @@
 # 受付中の公募一覧
 
-最終更新: 2026-08-26 03:34 (UTC)  
-件数: 178  
-前回からの差分: 新規 2 / 更新 0 / 掲載終了 20
+最終更新: 2026-08-28 06:17 (UTC)  
+件数: 181  
+前回からの差分: 新規 4 / 更新 0 / 掲載終了 21
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
 
 ## 新着
 
-- [「GX分野の大企業等のスタートアップ連携・調達加速化事業／市場創出及び本格調達・購買の実現可能性の検証（GX_CPP）」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdmLMAT)（〜2026-09-30）
-- [「ディープテック・スタートアップ支援基金／大企業等のスタートアップ連携・調達加速化事業／市場創出及び本格調達・購買の実現可能性の検証（CPP）」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdmGMAT)（〜2026-09-30）
+- [「特定半導体生産施設整備に係る建設工事の現状及び国内投資促進に向けた課題に関する調査・分析事業」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe3bMAD)（〜2026-09-11）
+- [小郡市企業立地優遇制度](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTAMA1)（〜2027-03-31）
+- [令和8年度当初予算　二次公募　民間企業等による再エネの導入及び地域共生加速化事業のうち、ストレージパリティの達成に向けた太陽光発電設備等の価格低減促進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeSJMA1)（〜2026-10-02）
+- [「グリーンイノベーション基金事業／次世代型地熱技術の開発」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkJMAX)（〜2026-11-10）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-08-26 | [【令和８年度】二酸化炭素排出抑制対策事業費等補助金 （国内資源循環体制構築に向けた再エネ関連製品及びベース素材の全体最適化実証事業）（第２次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdAaMAL) | — | 全国 | — |
 | 2026-08-28 | [令和８年度カーボンニュートラルコンビナート構築促進補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdPVMA1) | — | 山口県 | 500,000,000円 |
 | 2026-08-28 | [令和８年度カーボンニュートラルコンビナート構築促進補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdPGMA1) | — | 山口県 | 500,000,000円 |
 | 2026-08-28 | [令和８年度カーボンニュートラルコンビナート構築促進補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdP1MAL) | — | 山口県 | 50,000,000円 |
@@ -41,6 +42,7 @@
 | 2026-09-09 | [令和８年度酒類業振興支援事業費補助金（第４期）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdQxMAL) | — | 北海道 / 青森県 / 岩手県 / 宮城県 / 秋田県 / 山形県 / 福島県 / 茨城県 / 栃木県 / 群馬県 / 埼玉県 / 新潟県 / 長野県 / 岐阜県 / 静岡県 / 愛知県 / 三重県 / 滋賀県 / 京都府 / 大阪府 / 兵庫県 / 奈良県 / 和歌山県 / 鳥取県 / 島根県 / 岡山県 / 広島県 / 山口県 / 徳島県 / 香川県 / 愛媛県 / 高知県 / 福岡県 / 佐賀県 / 長崎県 / 熊本県 / 大分県 / 宮崎県 / 鹿児島県 / 沖縄県 / 千葉県 / 東京都 / 神奈川県 / 山梨県 / 富山県 / 石川県 / 福井県 | 15,000,000円 |
 | 2026-09-09 | [令和８年度運輸部門におけるエネルギーの使用合理化・非化石エネルギー転換推進事業費補助金（内航船革新的運航効率化・非化石エネルギー転換推進事業）（三次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe7xMAD) | — | 全国 | 500,000,000円 |
 | 2026-09-09 | [令和8年度 高度人材インターンシップ受入支援費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZi6MAH) | — | 東京都 | 5,000円 |
+| 2026-09-11 | [「特定半導体生産施設整備に係る建設工事の現状及び国内投資促進に向けた課題に関する調査・分析事業」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe3bMAD) | — | 全国 | — |
 | 2026-09-11 | [【令和８年度】経営力強化に向けた創意工夫チャレンジ促進事業(飲食事業者向け経営基盤強化支援（受動喫煙防止対策支援コース）)助成金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDWngMAH) | — | 東京都 | 4,000,000円 |
 | 2026-09-11 | [令和８年度医療機関診療情報サイバーセキュリティ対策支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXuqMAH) | — | 東京都 | — |
 | 2026-09-14 | [令和８年度 脱炭素成長型経済構造移行推進対策費補助金（自律型資源 循環システム強靱化促進事業）（事前着手届出）【一次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd5SMAT) | — | 全国 | — |
@@ -79,6 +81,7 @@
 | 2026-09-30 | [令和8年度　ふくいの逸品創造ファンド事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeF3MAL) | — | 福井県 | 2,000,000円 |
 | 2026-09-30 | [令和8年度神奈川県小規模事業者デジタル化支援推進事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYEIMA5) | — | 神奈川県 | 500,000円 |
 | 2026-09-30 | [小規模事業者持続化補助金＜共同・協業型＞ 第３回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcQOMA1) | — | 全国 | 30,000,000円 |
+| 2026-10-02 | [令和8年度当初予算　二次公募　民間企業等による再エネの導入及び地域共生加速化事業のうち、ストレージパリティの達成に向けた太陽光発電設備等の価格低減促進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeSJMA1) | — | 全国 | 60,000,000円 |
 | 2026-10-07 | [令和８年度酒類業振興支援事業費補助金（第５期）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdRmMAL) | — | 北海道 / 青森県 / 岩手県 / 宮城県 / 秋田県 / 山形県 / 福島県 / 茨城県 / 栃木県 / 群馬県 / 埼玉県 / 新潟県 / 長野県 / 沖縄県 / 千葉県 / 東京都 / 神奈川県 / 山梨県 / 富山県 / 石川県 / 福井県 / 岐阜県 / 静岡県 / 愛知県 / 三重県 / 滋賀県 / 京都府 / 大阪府 / 兵庫県 / 奈良県 / 和歌山県 / 鳥取県 / 島根県 / 岡山県 / 広島県 / 山口県 / 徳島県 / 香川県 / 愛媛県 / 高知県 / 福岡県 / 佐賀県 / 長崎県 / 熊本県 / 大分県 / 宮崎県 / 鹿児島県 | 15,000,000円 |
 | 2026-10-08 | [「海外研究者招へい事業（STeP JAPAN）」2027年度海外招へい研究者受入機関の募集](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaooMAD) | — | 全国 | — |
 | 2026-10-09 | [令和７年度(補正予算) ゼロエミッション船等の建造促進事業 2次公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdnJMAT) | — | 全国 | — |
@@ -91,6 +94,7 @@
 | 2026-10-30 | [令和8年度医療機関診療情報デジタル導入支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY6uMAH) | — | 東京都 | — |
 | 2026-10-30 | [令和７年度補正 業務産業用蓄電システム導入支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY4mMAH) | — | 全国 | 15,000,000円 |
 | 2026-10-31 | [エイジフレンドリー補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYbNMAX) | — | 全国 | 1,000,000円 |
+| 2026-11-10 | [「グリーンイノベーション基金事業／次世代型地熱技術の開発」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkJMAX) | — | 全国 | — |
 | 2026-11-13 | [令和８年度_Scope3排出量削減のための企業間連携による省CO2設備投資促進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDNDnMAP) | — | 全国 | 1,500,000,000円 |
 | 2026-11-13 | [産業車両等の脱炭素化促進事業のうち、空港における脱炭素化促進事業②空港におけるEV・FCV型車両導入事業（二酸化炭素排出抑制対策事業費等補助金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZDHMA5) | — | 全国 | — |
 | 2026-11-20 | [令和７年度（補正予算）地域脱炭素実現に向けた具体的施策実装支援事業（四次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3OMAT) | — | 全国 | — |
@@ -156,6 +160,7 @@
 | 2027-03-31 | [令和8年度省エネ型VOC排出削減設備導入促進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY9gMAH) | — | 東京都 | 20,000,000円 |
 | 2027-03-31 | [古賀市温室効果ガス排出量可視化システム導入費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYfwMAH) | — | 福岡県 | 150,000円 |
 | 2027-03-31 | [地上基幹放送ネットワーク整備等事業（令和７年度補正予算及び令和８年度当初予算）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXORMA5) | — | 全国 | — |
+| 2027-03-31 | [小郡市企業立地優遇制度](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTAMA1) | — | 福岡県 | — |
 | 2027-03-31 | [深谷市起業家支援事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXqMMAX) | — | 埼玉県 | 200,000円 |
 | 2027-03-31 | [【令和８年度】医療機関等におけるマイナンバーカード利活用推進事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbHxMAL) | — | 東京都 | 141,000円 |
 | 2027-03-31 | [【長野県茅野市】インターンシップ等促進事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY1uMAH) | — | 長野県 | — |

@@ -1,19 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDdAaMAL",
-    "code": "S-00009488",
-    "title": "【令和８年度】二酸化炭素排出抑制対策事業費等補助金 （国内資源循環体制構築に向けた再エネ関連製品及びベース素材の全体最適化実証事業）（第２次公募）",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-07-16T02:00:00Z",
-    "accepts_until": "2026-08-26T04:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdAaMAL"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDdPVMA1",
     "code": "S-00009522",
     "title": "令和８年度カーボンニュートラルコンビナート構築促進補助金",
@@ -323,6 +310,19 @@
     "accepts_from": "2026-08-16T15:00:00Z",
     "accepts_until": "2026-09-09T14:59:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZi6MAH"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDe3bMAD",
+    "code": "S-00009684",
+    "title": "「特定半導体生産施設整備に係る建設工事の現状及び国内投資促進に向けた課題に関する調査・分析事業」の公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-08-28T01:00:00Z",
+    "accepts_until": "2026-09-11T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe3bMAD"
   },
   {
     "source": "jgrants",
@@ -820,6 +820,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDeSJMA1",
+    "code": "S-00009771",
+    "title": "令和8年度当初予算　二次公募　民間企業等による再エネの導入及び地域共生加速化事業のうち、ストレージパリティの達成に向けた太陽光発電設備等の価格低減促進事業",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 60000000,
+    "accepts_from": "2026-08-27T06:00:00Z",
+    "accepts_until": "2026-10-02T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeSJMA1"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDdRmMAL",
     "code": "S-00009533",
     "title": "令和８年度酒類業振興支援事業費補助金（第５期）",
@@ -973,6 +986,19 @@
     "accepts_from": "2026-05-20T00:00:00Z",
     "accepts_until": "2026-10-31T14:59:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYbNMAX"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDXkJMAX",
+    "code": "S-00008191",
+    "title": "「グリーンイノベーション基金事業／次世代型地熱技術の開発」の公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-08-28T01:00:00Z",
+    "accepts_until": "2026-11-10T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkJMAX"
   },
   {
     "source": "jgrants",
@@ -1818,6 +1844,19 @@
     "accepts_from": "2026-01-30T05:00:00Z",
     "accepts_until": "2027-03-31T08:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXORMA5"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDeTAMA1",
+    "code": "S-00009778",
+    "title": "小郡市企業立地優遇制度",
+    "institution": null,
+    "target_area": "福岡県",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-08-27T00:00:00Z",
+    "accepts_until": "2027-03-31T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTAMA1"
   },
   {
     "source": "jgrants",
