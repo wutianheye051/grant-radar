@@ -1,28 +1,16 @@
 # 受付中の公募一覧
 
-最終更新: 2026-08-28 06:17 (UTC)  
-件数: 181  
-前回からの差分: 新規 4 / 更新 0 / 掲載終了 21
+最終更新: 2026-08-29 00:01 (UTC)  
+件数: 176  
+前回からの差分: 新規 0 / 更新 0 / 掲載終了 26
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
-
-## 新着
-
-- [「特定半導体生産施設整備に係る建設工事の現状及び国内投資促進に向けた課題に関する調査・分析事業」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe3bMAD)（〜2026-09-11）
-- [小郡市企業立地優遇制度](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTAMA1)（〜2027-03-31）
-- [令和8年度当初予算　二次公募　民間企業等による再エネの導入及び地域共生加速化事業のうち、ストレージパリティの達成に向けた太陽光発電設備等の価格低減促進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeSJMA1)（〜2026-10-02）
-- [「グリーンイノベーション基金事業／次世代型地熱技術の開発」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkJMAX)（〜2026-11-10）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-08-28 | [令和８年度カーボンニュートラルコンビナート構築促進補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdPVMA1) | — | 山口県 | 500,000,000円 |
-| 2026-08-28 | [令和８年度カーボンニュートラルコンビナート構築促進補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdPGMA1) | — | 山口県 | 500,000,000円 |
-| 2026-08-28 | [令和８年度カーボンニュートラルコンビナート構築促進補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdP1MAL) | — | 山口県 | 50,000,000円 |
-| 2026-08-28 | [令和８年度カーボンニュートラルコンビナート構築促進補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdPQMA1) | — | 山口県 | 300,000,000円 |
-| 2026-08-28 | [令和８年度カーボンニュートラルコンビナート構築促進補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdPLMA1) | — | 山口県 | 100,000,000円 |
 | 2026-08-31 | [【令和８年度】介護ロボット・ICT導入支援事業費補助金（パッケージ型）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdAkMAL) | — | 神奈川県 | 10,630,000円 |
 | 2026-08-31 | [【令和８年度】介護ロボット・ICT導入支援事業費補助金（介護ソフト等）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdAfMAL) | — | 神奈川県 | 3,180,000円 |
 | 2026-08-31 | [【令和８年度】介護ロボット・ICT導入支援事業費補助金（介護ロボット等）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdqoMAD) | — | 神奈川県 | 5,480,000円 |
