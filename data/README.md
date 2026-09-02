@@ -1,69 +1,27 @@
 # 受付中の公募一覧
 
-最終更新: 2026-09-01 00:02 (UTC)  
-件数: 219  
-前回からの差分: 新規 48 / 更新 1 / 掲載終了 31
+最終更新: 2026-09-02 00:03 (UTC)  
+件数: 225  
+前回からの差分: 新規 8 / 更新 0 / 掲載終了 34
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
 
 ## 新着
 
-- [【岡山】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6OMAT)（〜2028-03-31）
-- [【沖縄】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6cMAD)（〜2028-03-31）
-- [【鹿児島】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6bMAD)（〜2028-03-31）
-- [【宮崎】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6aMAD)（〜2028-03-31）
-- [【大分】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6ZMAT)（〜2028-03-31）
-- [【熊本】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6YMAT)（〜2028-03-31）
-- [【長崎】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6XMAT)（〜2028-03-31）
-- [【佐賀】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6WMAT)（〜2028-03-31）
-- [【福岡】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6VMAT)（〜2028-03-31）
-- [【高知】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6UMAT)（〜2028-03-31）
-- [【愛媛】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6TMAT)（〜2028-03-31）
-- [【香川】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6SMAT)（〜2028-03-31）
-- [【徳島】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6RMAT)（〜2028-03-31）
-- [【山口】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6QMAT)（〜2028-03-31）
-- [【広島】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6PMAT)（〜2028-03-31）
-- [【福井】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe64MAD)（〜2028-03-31）
-- [【島根】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6IMAT)（〜2028-03-31）
-- [【鳥取】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6HMAT)（〜2028-03-31）
-- [【和歌山】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6GMAT)（〜2028-03-31）
-- [【奈良】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6FMAT)（〜2028-03-31）
-- [【兵庫】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6EMAT)（〜2028-03-31）
-- [【大阪】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6DMAT)（〜2028-03-31）
-- [【京都】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6CMAT)（〜2028-03-31）
-- [【滋賀】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6BMAT)（〜2028-03-31）
-- [【三重】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6AMAT)（〜2028-03-31）
-- [【愛知】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe69MAD)（〜2028-03-31）
-- [【静岡】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe68MAD)（〜2028-03-31）
-- [【岐阜】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe67MAD)（〜2028-03-31）
-- [【長野】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe66MAD)（〜2028-03-31）
-- [【山梨】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe65MAD)（〜2028-03-31）
-- [【北海道】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDducMAD)（〜2028-03-31）
-- [【石川】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdusMAD)（〜2028-03-31）
-- [【富山】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdurMAD)（〜2028-03-31）
-- [【新潟】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDduqMAD)（〜2028-03-31）
-- [【神奈川】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdupMAD)（〜2028-03-31）
-- [【東京】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDduoMAD)（〜2028-03-31）
-- [【千葉】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdunMAD)（〜2028-03-31）
-- [【埼玉】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdumMAD)（〜2028-03-31）
-- [【群馬】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdulMAD)（〜2028-03-31）
-- [【栃木】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdukMAD)（〜2028-03-31）
-- [【茨城】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdujMAD)（〜2028-03-31）
-- [【福島】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDduiMAD)（〜2028-03-31）
-- [【山形】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDduhMAD)（〜2028-03-31）
-- [【秋田】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdugMAD)（〜2028-03-31）
-- [【宮城】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdufMAD)（〜2028-03-31）
-- [【岩手】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdueMAD)（〜2028-03-31）
-- [【青森】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdudMAD)（〜2028-03-31）
-- [「地熱ポテンシャル高度利活用技術開発」の追加公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdoxMAD)（〜2026-10-05）
+- [【二次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeXgMAL)（〜2026-09-24）
+- [【第２回】中東情勢による原材料価格高騰に伴う経営基盤安定化緊急対策事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe9hMAD)（〜2026-09-30）
+- [令和７年度（補正予算）地域共生を目指したデータセンター脱炭素化設備導入支援事業（三次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeS9MAL)（〜2026-10-09）
+- [伝統的工芸品産業支援補助金（令和8年度第2回災害復興事業）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeQmMAL)（〜2026-10-09）
+- [令和8年度_産油国石油精製技術等対策事業費補助金（石油天然ガス権益・安定供給の確保に向けた資源国との関係強化支援事業のうち産油・産ガス国産業協力等事業に係るもの）_第3回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeO6MAL)（〜2026-09-25）
+- [令和8年度_資源国脱炭素化・エネルギー転換技術等支援事業費補助金_第3回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeO1MAL)（〜2026-09-25）
+- [令和7年度_産油国石油精製技術等対策事業費補助金（石油天然ガス権益・安定供給の確保に向けた資源国との関係強化支援事業のうち産油・産ガス国産業協力等事業に係るもの）_第5回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeNwMAL)（〜2026-09-25）
+- [令和7年度_資源国脱炭素化・エネルギー転換技術等支援事業費補助金_第5回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeNSMA1)（〜2026-09-25）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-09-01 | [GX地域共創補助金2026](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdJhMAL) | — | 全国 | 25,000,000,000円 |
-| 2026-09-01 | [令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYDcMAP) | — | 全国 | — |
 | 2026-09-03 | [令和８年度TOKYO戦略的イノベーション促進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZkYMAX) | — | 東京都 | 80,000,000円 |
 | 2026-09-04 | [「バーチャルエコノミーにおける社会実装に向けた戦略検討、グローバルベンチマーク調査及び提供財の社会実装への取組提言」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdu5MAD) | — | 全国 | — |
 | 2026-09-04 | [令和８年度「蓄電池等の製品の持続可能性向上に向けた基盤整備・実証事業」](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDctfMAD) | — | 全国 | 720,000,000円 |
@@ -88,11 +46,16 @@
 | 2026-09-18 | [令和８年度　熱利活用事業（単年度事業分）　第３次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdmfMAD) | — | 全国 | — |
 | 2026-09-18 | [令和８年度　電力利活用事業（単年度事業分）　第３次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdmVMAT) | — | 全国 | — |
 | 2026-09-18 | [令和８年度　ＦＳ調査事業　第３次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdmpMAD) | — | 全国 | — |
+| 2026-09-24 | [【二次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeXgMAL) | — | 全国 | — |
 | 2026-09-25 | [①省CO2型プラスチック高度リサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）４次公募及び令和８年度３次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYiwMAH) | — | 全国 | 7,297,000,000円 |
 | 2026-09-25 | [②化石資源由来プラスチックを代替する再生可能資源由来素材 の省CO2型製造設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び令和８年度第３次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYjRMAX) | — | 全国 | 7,297,000,000円 |
 | 2026-09-25 | [③太陽光パネルリサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び令和８年度第３次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYkCMAX) | — | 全国 | 7,297,000,000円 |
 | 2026-09-25 | [④リチウム蓄電池リサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び令和８年度第３次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYkHMAX) | — | 全国 | 7,297,000,000円 |
 | 2026-09-25 | [⑤金属破砕・選別設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び第８年度第３次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYk0MAH) | — | 全国 | 7,297,000,000円 |
+| 2026-09-25 | [令和7年度_産油国石油精製技術等対策事業費補助金（石油天然ガス権益・安定供給の確保に向けた資源国との関係強化支援事業のうち産油・産ガス国産業協力等事業に係るもの）_第5回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeNwMAL) | — | 全国 | 340,000,000円 |
+| 2026-09-25 | [令和7年度_資源国脱炭素化・エネルギー転換技術等支援事業費補助金_第5回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeNSMA1) | — | 全国 | 660,000,000円 |
+| 2026-09-25 | [令和8年度_産油国石油精製技術等対策事業費補助金（石油天然ガス権益・安定供給の確保に向けた資源国との関係強化支援事業のうち産油・産ガス国産業協力等事業に係るもの）_第3回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeO6MAL) | — | 全国 | 2,900,000,000円 |
+| 2026-09-25 | [令和8年度_資源国脱炭素化・エネルギー転換技術等支援事業費補助金_第3回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeO1MAL) | — | 全国 | 1,200,000,000円 |
 | 2026-09-25 | [令和８年度「水力発電導入促進支援事業費補助金（事業性評価支援事業）」（新規事業　３次締切分）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcODMA1) | — | 全国 | 20,000,000円 |
 | 2026-09-28 | [【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX) | — | 全国 | 40,000,000円 |
 | 2026-09-29 | [2026年度「木質バイオマス燃料等の安定的・効率的な供給・利用システム構築支援事業」の第２回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtWMAT) | — | 全国 | — |
@@ -102,6 +65,7 @@
 | 2026-09-30 | [「GX分野の大企業等のスタートアップ連携・調達加速化事業／市場創出及び本格調達・購買の実現可能性の検証（GX_CPP）」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdmLMAT) | — | 全国 | — |
 | 2026-09-30 | [「ディープテック・スタートアップ支援基金／大企業等のスタートアップ連携・調達加速化事業／市場創出及び本格調達・購買の実現可能性の検証（CPP）」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdmGMAT) | — | 全国 | — |
 | 2026-09-30 | [地域社会ＤＸ推進パッケージ事業（補助事業）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdjzMAD) | — | 全国 | — |
+| 2026-09-30 | [【第２回】中東情勢による原材料価格高騰に伴う経営基盤安定化緊急対策事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe9hMAD) | — | 東京都 | 20,000,000円 |
 | 2026-09-30 | [「賃上げ環境整備補助金2026」](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYr0MAH) | — | 北海道 | 3,000,000円 |
 | 2026-09-30 | [【令和７年度補正予算・令和８年度】二酸化炭素排出抑制対策事業費等補助金（テナントビルの省CO2改修支援事業（令和７年度補正三次公募・令和８年度二次公募））](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtvMAD) | — | 全国 | 40,000,000円 |
 | 2026-09-30 | [【令和７年度補正予算・令和８年度】二酸化炭素排出抑制対策事業費等補助金（ライフサイクルカーボン削減型の先導的な新築ZEB支援事業（令和７年度補正予算三次公募・令和８年度二次公募））](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtbMAD) | — | 全国 | 500,000,000円 |
@@ -120,6 +84,8 @@
 | 2026-10-07 | [令和８年度酒類業振興支援事業費補助金（第５期）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdRmMAL) | — | 北海道 / 青森県 / 岩手県 / 宮城県 / 秋田県 / 山形県 / 福島県 / 茨城県 / 栃木県 / 群馬県 / 埼玉県 / 新潟県 / 長野県 / 沖縄県 / 千葉県 / 東京都 / 神奈川県 / 山梨県 / 富山県 / 石川県 / 福井県 / 岐阜県 / 静岡県 / 愛知県 / 三重県 / 滋賀県 / 京都府 / 大阪府 / 兵庫県 / 奈良県 / 和歌山県 / 鳥取県 / 島根県 / 岡山県 / 広島県 / 山口県 / 徳島県 / 香川県 / 愛媛県 / 高知県 / 福岡県 / 佐賀県 / 長崎県 / 熊本県 / 大分県 / 宮崎県 / 鹿児島県 | 15,000,000円 |
 | 2026-10-08 | [「海外研究者招へい事業（STeP JAPAN）」2027年度海外招へい研究者受入機関の募集](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaooMAD) | — | 全国 | — |
 | 2026-10-09 | [令和７年度(補正予算) ゼロエミッション船等の建造促進事業 2次公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdnJMAT) | — | 全国 | — |
+| 2026-10-09 | [令和７年度（補正予算）地域共生を目指したデータセンター脱炭素化設備導入支援事業（三次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeS9MAL) | — | 全国 | — |
+| 2026-10-09 | [伝統的工芸品産業支援補助金（令和8年度第2回災害復興事業）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeQmMAL) | — | 新潟県 / 福井県 / 富山県 / 石川県 | 10,000,000円 |
 | 2026-10-16 | [⼩規模事業者持続化補助⾦＜⼀般型 災害⽀援枠（令和６年能登半島地震等）＞10次公募【商⼯会地区】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDWp3MAH) | — | 石川県 | 2,000,000円 |
 | 2026-10-16 | [小規模事業者持続化補助金＜一般型 災害支援枠（令和６年能登半島地震等）＞１０次公募【商工会議所地区】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdALMA1) | — | 石川県 | 2,000,000円 |
 | 2026-10-30 | [【令和８年度】二酸化炭素排出抑制対策事業費等補助金（再エネ等由来水素を活用した自立・分散型エネルギーシステム構築等事業）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaotMAD) | — | 全国 | 300,000,000円 |

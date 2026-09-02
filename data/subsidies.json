@@ -1,32 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDdJhMAL",
-    "code": "S-00009494",
-    "title": "GX地域共創補助金2026",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 25000000000,
-    "accepts_from": "2026-07-17T07:00:00Z",
-    "accepts_until": "2026-09-01T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdJhMAL"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDYDcMAP",
-    "code": "S-00008586",
-    "title": "令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-08-12T02:00:00Z",
-    "accepts_until": "2026-09-01T14:59:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYDcMAP"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDZkYMAX",
     "code": "S-00009240",
     "title": "令和８年度TOKYO戦略的イノベーション促進事業",
@@ -339,6 +313,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDeXgMAL",
+    "code": "S-00009805",
+    "title": "【二次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-09-02T00:00:00Z",
+    "accepts_until": "2026-09-24T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeXgMAL"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDYiwMAH",
     "code": "S-00008991",
     "title": "①省CO2型プラスチック高度リサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）４次公募及び令和８年度３次公募】",
@@ -401,6 +388,58 @@
     "accepts_from": "2026-08-25T02:00:00Z",
     "accepts_until": "2026-09-25T03:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYk0MAH"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDeNwMAL",
+    "code": "S-00009759",
+    "title": "令和7年度_産油国石油精製技術等対策事業費補助金（石油天然ガス権益・安定供給の確保に向けた資源国との関係強化支援事業のうち産油・産ガス国産業協力等事業に係るもの）_第5回公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 340000000,
+    "accepts_from": "2026-09-01T00:00:00Z",
+    "accepts_until": "2026-09-25T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeNwMAL"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDeNSMA1",
+    "code": "S-00009757",
+    "title": "令和7年度_資源国脱炭素化・エネルギー転換技術等支援事業費補助金_第5回公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 660000000,
+    "accepts_from": "2026-09-01T00:00:00Z",
+    "accepts_until": "2026-09-25T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeNSMA1"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDeO6MAL",
+    "code": "S-00009761",
+    "title": "令和8年度_産油国石油精製技術等対策事業費補助金（石油天然ガス権益・安定供給の確保に向けた資源国との関係強化支援事業のうち産油・産ガス国産業協力等事業に係るもの）_第3回公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 2900000000,
+    "accepts_from": "2026-09-01T00:00:00Z",
+    "accepts_until": "2026-09-25T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeO6MAL"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDeO1MAL",
+    "code": "S-00009760",
+    "title": "令和8年度_資源国脱炭素化・エネルギー転換技術等支援事業費補助金_第3回公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 1200000000,
+    "accepts_from": "2026-09-01T00:00:00Z",
+    "accepts_until": "2026-09-25T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeO1MAL"
   },
   {
     "source": "jgrants",
@@ -518,6 +557,19 @@
     "accepts_from": "2026-08-04T05:00:00Z",
     "accepts_until": "2026-09-30T03:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdjzMAD"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDe9hMAD",
+    "code": "S-00009736",
+    "title": "【第２回】中東情勢による原材料価格高騰に伴う経営基盤安定化緊急対策事業",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 20000000,
+    "accepts_from": "2026-09-01T05:00:00Z",
+    "accepts_until": "2026-09-30T07:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe9hMAD"
   },
   {
     "source": "jgrants",
@@ -752,6 +804,32 @@
     "accepts_from": "2026-08-21T05:00:00Z",
     "accepts_until": "2026-10-09T03:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdnJMAT"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDeS9MAL",
+    "code": "S-00009770",
+    "title": "令和７年度（補正予算）地域共生を目指したデータセンター脱炭素化設備導入支援事業（三次公募）",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-09-01T05:00:00Z",
+    "accepts_until": "2026-10-09T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeS9MAL"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDeQmMAL",
+    "code": "S-00009766",
+    "title": "伝統的工芸品産業支援補助金（令和8年度第2回災害復興事業）",
+    "institution": null,
+    "target_area": "新潟県 / 福井県 / 富山県 / 石川県",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 10000000,
+    "accepts_from": "2026-08-28T05:00:00Z",
+    "accepts_until": "2026-10-09T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeQmMAL"
   },
   {
     "source": "jgrants",
