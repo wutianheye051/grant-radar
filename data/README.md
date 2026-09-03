@@ -1,22 +1,15 @@
 # 受付中の公募一覧
 
-最終更新: 2026-09-02 00:03 (UTC)  
-件数: 225  
-前回からの差分: 新規 8 / 更新 0 / 掲載終了 34
+最終更新: 2026-09-03 00:03 (UTC)  
+件数: 226  
+前回からの差分: 新規 1 / 更新 0 / 掲載終了 34
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
 
 ## 新着
 
-- [【二次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeXgMAL)（〜2026-09-24）
-- [【第２回】中東情勢による原材料価格高騰に伴う経営基盤安定化緊急対策事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe9hMAD)（〜2026-09-30）
-- [令和７年度（補正予算）地域共生を目指したデータセンター脱炭素化設備導入支援事業（三次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeS9MAL)（〜2026-10-09）
-- [伝統的工芸品産業支援補助金（令和8年度第2回災害復興事業）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeQmMAL)（〜2026-10-09）
-- [令和8年度_産油国石油精製技術等対策事業費補助金（石油天然ガス権益・安定供給の確保に向けた資源国との関係強化支援事業のうち産油・産ガス国産業協力等事業に係るもの）_第3回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeO6MAL)（〜2026-09-25）
-- [令和8年度_資源国脱炭素化・エネルギー転換技術等支援事業費補助金_第3回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeO1MAL)（〜2026-09-25）
-- [令和7年度_産油国石油精製技術等対策事業費補助金（石油天然ガス権益・安定供給の確保に向けた資源国との関係強化支援事業のうち産油・産ガス国産業協力等事業に係るもの）_第5回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeNwMAL)（〜2026-09-25）
-- [令和7年度_資源国脱炭素化・エネルギー転換技術等支援事業費補助金_第5回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeNSMA1)（〜2026-09-25）
+- [東京都認定制度を活用した医師少数区域における勤務の推進事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UcWryEAF)（〜2026-09-15）
 
 ## すべて
 
@@ -42,6 +35,7 @@
 | 2026-09-14 | [【埼玉県】令和8年度 企業等における省エネ・再エネ活用設備導入補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUSMA5) | — | 埼玉県 | — |
 | 2026-09-14 | [交通システムの省CO2 化に向けた設備整備事業（鉄道事業等におけるネットワーク型低炭素化促進事業）（二次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDO8eMAH) | — | 全国 | — |
 | 2026-09-15 | [【応募事業者】令和８年度 プラスチック等資源循環システム構築実証事業　＜三次公募＞](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdqyMAD) | — | 全国 / 北海道 / 青森県 / 岩手県 / 宮城県 / 秋田県 / 山形県 / 福島県 / 茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 新潟県 / 山梨県 / 長野県 / 富山県 / 石川県 / 福井県 / 岐阜県 / 静岡県 / 愛知県 / 三重県 / 滋賀県 / 京都府 / 大阪府 / 兵庫県 / 奈良県 / 和歌山県 / 鳥取県 / 島根県 / 岡山県 / 広島県 / 山口県 / 徳島県 / 香川県 / 愛媛県 / 高知県 / 福岡県 / 佐賀県 / 長崎県 / 熊本県 / 大分県 / 宮崎県 / 鹿児島県 / 沖縄県 | — |
+| 2026-09-15 | [東京都認定制度を活用した医師少数区域における勤務の推進事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UcWryEAF) | — | 東京都 | — |
 | 2026-09-18 | [【令和７年度】二酸化炭素排出抑制対策事業費等補助金（水インフラにおける脱炭素化推進事業）［四次公募］](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDb6JMAT) | — | 全国 | — |
 | 2026-09-18 | [令和８年度　熱利活用事業（単年度事業分）　第３次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdmfMAD) | — | 全国 | — |
 | 2026-09-18 | [令和８年度　電力利活用事業（単年度事業分）　第３次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdmVMAT) | — | 全国 | — |
