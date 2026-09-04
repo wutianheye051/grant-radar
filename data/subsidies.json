@@ -1,19 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDZkYMAX",
-    "code": "S-00009240",
-    "title": "令和８年度TOKYO戦略的イノベーション促進事業",
-    "institution": null,
-    "target_area": "東京都",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 80000000,
-    "accepts_from": "2026-08-14T00:00:00Z",
-    "accepts_until": "2026-09-03T08:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZkYMAX"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDdu5MAD",
     "code": "S-00009648",
     "title": "「バーチャルエコノミーにおける社会実装に向けた戦略検討、グローバルベンチマーク調査及び提供財の社会実装への取組提言」の公募",
@@ -89,6 +76,32 @@
     "accepts_from": "2026-08-06T05:00:00Z",
     "accepts_until": "2026-09-07T06:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdNKMA1"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDaMaMAL",
+    "code": "S-00009300",
+    "title": "GX分野のディープテック・スタートアップに対する 実用化研究開発・量産化実証支援事業第7回公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-09-03T01:00:00Z",
+    "accepts_until": "2026-09-08T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaMaMAL"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDaMfMAL",
+    "code": "S-00009301",
+    "title": "ディープテック・スタートアップ支援基金／ディープテック・スタートアップ支援事業第10回公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-09-03T01:00:00Z",
+    "accepts_until": "2026-09-08T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaMfMAL"
   },
   {
     "source": "jgrants",
@@ -336,6 +349,19 @@
     "accepts_from": "2026-09-02T00:00:00Z",
     "accepts_until": "2026-09-24T14:59:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeXgMAL"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0W5h00000UcWrwEAF",
+    "code": "S-00004124",
+    "title": "東京都専門医認定支援事業補助金",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-09-02T00:00:00Z",
+    "accepts_until": "2026-09-24T15:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UcWrwEAF"
   },
   {
     "source": "jgrants",
