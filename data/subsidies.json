@@ -1,32 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDdu5MAD",
-    "code": "S-00009648",
-    "title": "「バーチャルエコノミーにおける社会実装に向けた戦略検討、グローバルベンチマーク調査及び提供財の社会実装への取組提言」の公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-08-21T01:00:00Z",
-    "accepts_until": "2026-09-04T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdu5MAD"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDctfMAD",
-    "code": "S-00009455",
-    "title": "令和８年度「蓄電池等の製品の持続可能性向上に向けた基盤整備・実証事業」",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 720000000,
-    "accepts_from": "2026-08-07T05:00:00Z",
-    "accepts_until": "2026-09-04T06:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDctfMAD"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDd5cMAD",
     "code": "S-00009478",
     "title": "2026年度第2回「新エネルギー等のシーズ発掘・事業化に向けた技術研究開発事業」（新エネ中小・スタートアップ支援制度）の公募",
@@ -807,6 +781,32 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDe8tMAD",
+    "code": "S-00009735",
+    "title": "「風車生産技術研究開発」の公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-09-04T01:00:00Z",
+    "accepts_until": "2026-10-05T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe8tMAD"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDdonMAD",
+    "code": "S-00009612",
+    "title": "経済安全保障重要技術育成プログラム／航空機エンジン向け先進材料技術の開発・実証/研究開発項目〔3〕「国産ニッケル基超合金における評価システム基盤整備」の公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-09-04T05:00:00Z",
+    "accepts_until": "2026-10-05T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdonMAD"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDdRmMAL",
     "code": "S-00009533",
     "title": "令和８年度酒類業振興支援事業費補助金（第５期）",
@@ -986,6 +986,19 @@
     "accepts_from": "2026-05-20T00:00:00Z",
     "accepts_until": "2026-10-31T14:59:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYbNMAX"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDe4JMAT",
+    "code": "S-00009688",
+    "title": "令和７年度補正　再生可能エネルギー導入拡大・系統用蓄電池等電力貯蔵システム導入支援事業費補助金　系統用蓄電システム等導入支援事業",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 4000000000,
+    "accepts_from": "2026-09-04T08:00:00Z",
+    "accepts_until": "2026-11-04T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe4JMAT"
   },
   {
     "source": "jgrants",
