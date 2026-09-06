@@ -1,17 +1,11 @@
 # 受付中の公募一覧
 
-最終更新: 2026-09-05 00:03 (UTC)  
+最終更新: 2026-09-06 00:02 (UTC)  
 件数: 229  
-前回からの差分: 新規 3 / 更新 0 / 掲載終了 37
+前回からの差分: 新規 0 / 更新 0 / 掲載終了 37
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
-
-## 新着
-
-- [令和７年度補正　再生可能エネルギー導入拡大・系統用蓄電池等電力貯蔵システム導入支援事業費補助金　系統用蓄電システム等導入支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe4JMAT)（〜2026-11-04）
-- [経済安全保障重要技術育成プログラム／航空機エンジン向け先進材料技術の開発・実証/研究開発項目〔3〕「国産ニッケル基超合金における評価システム基盤整備」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdonMAD)（〜2026-10-05）
-- [「風車生産技術研究開発」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe8tMAD)（〜2026-10-05）
 
 ## すべて
 
