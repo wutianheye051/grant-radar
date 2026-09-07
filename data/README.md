@@ -1,11 +1,16 @@
 # 受付中の公募一覧
 
-最終更新: 2026-09-06 00:02 (UTC)  
-件数: 229  
-前回からの差分: 新規 0 / 更新 0 / 掲載終了 37
+最終更新: 2026-09-07 00:02 (UTC)  
+件数: 231  
+前回からの差分: 新規 2 / 更新 0 / 掲載終了 37
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
+
+## 新着
+
+- [令和８年度製品改良／規格適合・認証取得支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDW8bMAH)（〜2026-09-30）
+- [令和８年_設備投資_事業化状況報告](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaTCMA1)（〜2026-12-31）
 
 ## すべて
 
@@ -68,6 +73,7 @@
 | 2026-09-30 | [令和8年度 生放送字幕番組普及促進助成金（第３期）](https://www.jgrants-portal.go.jp/subsidy/a0W2x000004PhCHEA0) | — | 全国 | — |
 | 2026-09-30 | [令和8年度　ふくいの逸品創造ファンド事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeF3MAL) | — | 福井県 | 2,000,000円 |
 | 2026-09-30 | [令和8年度神奈川県小規模事業者デジタル化支援推進事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYEIMA5) | — | 神奈川県 | 500,000円 |
+| 2026-09-30 | [令和８年度製品改良／規格適合・認証取得支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDW8bMAH) | — | 東京都 | 5,000,000円 |
 | 2026-09-30 | [小規模事業者持続化補助金＜共同・協業型＞ 第３回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcQOMA1) | — | 全国 | 30,000,000円 |
 | 2026-10-02 | [令和8年度当初予算　二次公募　民間企業等による再エネの導入及び地域共生加速化事業のうち、ストレージパリティの達成に向けた太陽光発電設備等の価格低減促進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeSJMA1) | — | 全国 | 60,000,000円 |
 | 2026-10-05 | [「地熱ポテンシャル高度利活用技術開発」の追加公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdoxMAD) | — | 全国 | — |
@@ -120,6 +126,7 @@
 | 2026-12-28 | [在宅人工呼吸器使用難病患者非常用電源設備整備事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDHQZMA5) | — | 全国 | — |
 | 2026-12-28 | [【久留米市】中小企業止水板等設置事業費補助金（令和8年度）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYZ7MAP) | 久留米市中小企業先端設備等導入支援補助金（令和8年度） | 福岡県 | 500,000円 |
 | 2026-12-30 | [令和７年度ＮＢＣ災害・テロ対策設備整備補助事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDQuHMAX) | — | 東京都 | 33,762,000円 |
+| 2026-12-31 | [令和８年_設備投資_事業化状況報告](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaTCMA1) | — | 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県 | 200,000,000円 |
 | 2027-01-14 | [中小企業の外国人従業員に対する研修等支援助成金（ウクライナ避難民採用企業コース）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDK7OMAX) | — | 東京都 | 500,000円 |
 | 2027-01-14 | [中小企業の外国人従業員に対する研修等支援助成金（一般コース）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDK7NMAX) | — | 東京都 | 250,000円 |
 | 2027-01-14 | [令和8年度 中小企業の外国人従業員に対する研修等支援助成金（ウクライナ避難民採用企業コース）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe4nMAD) | — | 東京都 | 500,000円 |

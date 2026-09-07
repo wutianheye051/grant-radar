@@ -742,6 +742,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDW8bMAH",
+    "code": "S-00007574",
+    "title": "令和８年度製品改良／規格適合・認証取得支援事業",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 5000000,
+    "accepts_from": "2026-09-06T15:00:00Z",
+    "accepts_until": "2026-09-30T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDW8bMAH"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDcQOMA1",
     "code": "S-00009432",
     "title": "小規模事業者持続化補助金＜共同・協業型＞ 第３回公募",
@@ -1415,6 +1428,19 @@
     "accepts_from": "2025-11-03T15:00:00Z",
     "accepts_until": "2026-12-30T15:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDQuHMAX"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDaTCMA1",
+    "code": "S-00009311",
+    "title": "令和８年_設備投資_事業化状況報告",
+    "institution": null,
+    "target_area": "栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 200000000,
+    "accepts_from": "2026-09-07T00:00:00Z",
+    "accepts_until": "2026-12-31T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaTCMA1"
   },
   {
     "source": "jgrants",
