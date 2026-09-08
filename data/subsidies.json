@@ -1,58 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDd5cMAD",
-    "code": "S-00009478",
-    "title": "2026年度第2回「新エネルギー等のシーズ発掘・事業化に向けた技術研究開発事業」（新エネ中小・スタートアップ支援制度）の公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-08-07T01:00:00Z",
-    "accepts_until": "2026-09-07T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd5cMAD"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDdA1MAL",
-    "code": "S-00009480",
-    "title": "2026年度第2回「新エネルギー等のシーズ発掘・事業化に向けた技術研究開発事業」（未来型新エネ実証制度）の公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-08-07T01:00:00Z",
-    "accepts_until": "2026-09-07T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdA1MAL"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDeA1MAL",
-    "code": "S-00009737",
-    "title": "「競争的な水素サプライチェーン構築に向けた技術開発事業／総合調査研究／水素キャリアに係る船陸インターフェースの国際標準化に向けた基礎調査」の公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-08-24T01:00:00Z",
-    "accepts_until": "2026-09-07T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeA1MAL"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDdNKMA1",
-    "code": "S-00009508",
-    "title": "令和８年度 エネルギー使用合理化設備導入促進対策費補助金（資源自律経済確立産官学連携加速化事業）【二次公募】",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 40000000,
-    "accepts_from": "2026-08-06T05:00:00Z",
-    "accepts_until": "2026-09-07T06:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdNKMA1"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDaMaMAL",
     "code": "S-00009300",
     "title": "GX分野のディープテック・スタートアップに対する 実用化研究開発・量産化実証支援事業第7回公募",
@@ -469,6 +417,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDe3zMAD",
+    "code": "S-00009687",
+    "title": "【令和８年度・第４回】INPIT外国出願補助金",
+    "institution": "INPIT外国出願補助金",
+    "target_area": "全国",
+    "target_employees": "300名以下",
+    "max_amount": 3000000,
+    "accepts_from": "2026-09-07T01:00:00Z",
+    "accepts_until": "2026-09-28T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe3zMAD"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDTzMMAX",
     "code": "S-00007152",
     "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
@@ -882,6 +843,19 @@
     "accepts_from": "2026-08-28T05:00:00Z",
     "accepts_until": "2026-10-09T08:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeQmMAL"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDKZFMA5",
+    "code": "S-00006173",
+    "title": "令和８年度_グリーンスローモビリティ等導入促進事業（二次公募）",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-09-07T01:00:00Z",
+    "accepts_until": "2026-10-16T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDKZFMA5"
   },
   {
     "source": "jgrants",
