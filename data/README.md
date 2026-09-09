@@ -1,23 +1,23 @@
 # 受付中の公募一覧
 
-最終更新: 2026-09-08 00:02 (UTC)  
-件数: 229  
-前回からの差分: 新規 1 / 更新 1 / 掲載終了 40
+最終更新: 2026-09-09 01:51 (UTC)  
+件数: 230  
+前回からの差分: 新規 4 / 更新 0 / 掲載終了 43
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
 
 ## 新着
 
-- [【令和８年度・第４回】INPIT外国出願補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe3zMAD)（〜2026-09-28）
+- [令和８年度 第２回BCP実践促進助成金 連携型（R82BCPREN）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTVMA1)（〜2026-09-15）
+- [令和８年度 第２回BCP実践促進助成金（R82BCP）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTUMA1)（〜2026-09-15）
+- [「デジタル社会の将来像の実現に向けた技術課題及び社会実装方策に関する調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeNDMA1)（〜2026-09-28）
+- [令和８年度 第２回サイバーセキュリティ対策促進助成金（R82CYB）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTWMA1)（〜2026-09-15）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-09-08 | [GX分野のディープテック・スタートアップに対する 実用化研究開発・量産化実証支援事業第7回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaMaMAL) | — | 全国 | — |
-| 2026-09-08 | [ディープテック・スタートアップ支援基金／ディープテック・スタートアップ支援事業第10回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaMfMAL) | — | 全国 | — |
-| 2026-09-08 | [令和８年度ゼロエミッション推進に向けた事業転換支援事業（製品開発助成）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUNMA5) | — | 東京都 | — |
 | 2026-09-09 | [令和８年度酒類業振興支援事業費補助金（第４期）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdQxMAL) | — | 北海道 / 青森県 / 岩手県 / 宮城県 / 秋田県 / 山形県 / 福島県 / 茨城県 / 栃木県 / 群馬県 / 埼玉県 / 新潟県 / 長野県 / 岐阜県 / 静岡県 / 愛知県 / 三重県 / 滋賀県 / 京都府 / 大阪府 / 兵庫県 / 奈良県 / 和歌山県 / 鳥取県 / 島根県 / 岡山県 / 広島県 / 山口県 / 徳島県 / 香川県 / 愛媛県 / 高知県 / 福岡県 / 佐賀県 / 長崎県 / 熊本県 / 大分県 / 宮崎県 / 鹿児島県 / 沖縄県 / 千葉県 / 東京都 / 神奈川県 / 山梨県 / 富山県 / 石川県 / 福井県 | 15,000,000円 |
 | 2026-09-09 | [令和８年度運輸部門におけるエネルギーの使用合理化・非化石エネルギー転換推進事業費補助金（内航船革新的運航効率化・非化石エネルギー転換推進事業）（三次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe7xMAD) | — | 全国 | 500,000,000円 |
 | 2026-09-09 | [令和8年度 高度人材インターンシップ受入支援費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZi6MAH) | — | 東京都 | 5,000円 |
@@ -30,6 +30,9 @@
 | 2026-09-14 | [【埼玉県】令和8年度 企業等における省エネ・再エネ活用設備導入補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUSMA5) | — | 埼玉県 | — |
 | 2026-09-14 | [交通システムの省CO2 化に向けた設備整備事業（鉄道事業等におけるネットワーク型低炭素化促進事業）（二次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDO8eMAH) | — | 全国 | — |
 | 2026-09-15 | [【応募事業者】令和８年度 プラスチック等資源循環システム構築実証事業　＜三次公募＞](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdqyMAD) | — | 全国 / 北海道 / 青森県 / 岩手県 / 宮城県 / 秋田県 / 山形県 / 福島県 / 茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 新潟県 / 山梨県 / 長野県 / 富山県 / 石川県 / 福井県 / 岐阜県 / 静岡県 / 愛知県 / 三重県 / 滋賀県 / 京都府 / 大阪府 / 兵庫県 / 奈良県 / 和歌山県 / 鳥取県 / 島根県 / 岡山県 / 広島県 / 山口県 / 徳島県 / 香川県 / 愛媛県 / 高知県 / 福岡県 / 佐賀県 / 長崎県 / 熊本県 / 大分県 / 宮崎県 / 鹿児島県 / 沖縄県 | — |
+| 2026-09-15 | [令和８年度 第２回BCP実践促進助成金 連携型（R82BCPREN）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTVMA1) | — | 茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県 | 10,000,000円 |
+| 2026-09-15 | [令和８年度 第２回BCP実践促進助成金（R82BCP）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTUMA1) | — | 茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県 | 5,000,000円 |
+| 2026-09-15 | [令和８年度 第２回サイバーセキュリティ対策促進助成金（R82CYB）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTWMA1) | — | 茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県 | 5,000,000円 |
 | 2026-09-15 | [東京都認定制度を活用した医師少数区域における勤務の推進事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UcWryEAF) | — | 東京都 | — |
 | 2026-09-18 | [【令和７年度】二酸化炭素排出抑制対策事業費等補助金（水インフラにおける脱炭素化推進事業）［四次公募］](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDb6JMAT) | — | 全国 | — |
 | 2026-09-18 | [令和８年度　熱利活用事業（単年度事業分）　第３次公募　【　廃棄物処理施設を核とした地域循環共生圏構築促進事業　】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdmfMAD) | — | 全国 | — |
@@ -47,6 +50,7 @@
 | 2026-09-25 | [令和8年度_産油国石油精製技術等対策事業費補助金（石油天然ガス権益・安定供給の確保に向けた資源国との関係強化支援事業のうち産油・産ガス国産業協力等事業に係るもの）_第3回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeO6MAL) | — | 全国 | 2,900,000,000円 |
 | 2026-09-25 | [令和8年度_資源国脱炭素化・エネルギー転換技術等支援事業費補助金_第3回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeO1MAL) | — | 全国 | 1,200,000,000円 |
 | 2026-09-25 | [令和８年度「水力発電導入促進支援事業費補助金（事業性評価支援事業）」（新規事業　３次締切分）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcODMA1) | — | 全国 | 20,000,000円 |
+| 2026-09-28 | [「デジタル社会の将来像の実現に向けた技術課題及び社会実装方策に関する調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeNDMA1) | — | 全国 | — |
 | 2026-09-28 | [【令和８年度・第４回】INPIT外国出願補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe3zMAD) | INPIT外国出願補助金 | 全国 | 3,000,000円 |
 | 2026-09-28 | [【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX) | — | 全国 | 40,000,000円 |
 | 2026-09-29 | [2026年度「木質バイオマス燃料等の安定的・効率的な供給・利用システム構築支援事業」の第２回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtWMAT) | — | 全国 | — |

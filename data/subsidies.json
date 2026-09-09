@@ -1,45 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDaMaMAL",
-    "code": "S-00009300",
-    "title": "GX分野のディープテック・スタートアップに対する 実用化研究開発・量産化実証支援事業第7回公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-09-03T01:00:00Z",
-    "accepts_until": "2026-09-08T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaMaMAL"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDaMfMAL",
-    "code": "S-00009301",
-    "title": "ディープテック・スタートアップ支援基金／ディープテック・スタートアップ支援事業第10回公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-09-03T01:00:00Z",
-    "accepts_until": "2026-09-08T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaMfMAL"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDYUNMA5",
-    "code": "S-00008721",
-    "title": "令和８年度ゼロエミッション推進に向けた事業転換支援事業（製品開発助成）",
-    "institution": null,
-    "target_area": "東京都",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-05-31T15:00:00Z",
-    "accepts_until": "2026-09-08T08:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUNMA5"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDdQxMAL",
     "code": "S-00009526",
     "title": "令和８年度酒類業振興支援事業費補助金（第４期）",
@@ -193,6 +154,45 @@
     "accepts_from": "2026-08-07T05:00:00Z",
     "accepts_until": "2026-09-15T07:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdqyMAD"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDeTVMA1",
+    "code": "S-00009780",
+    "title": "令和８年度 第２回BCP実践促進助成金 連携型（R82BCPREN）",
+    "institution": null,
+    "target_area": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 10000000,
+    "accepts_from": "2026-09-09T00:00:00Z",
+    "accepts_until": "2026-09-15T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTVMA1"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDeTUMA1",
+    "code": "S-00009779",
+    "title": "令和８年度 第２回BCP実践促進助成金（R82BCP）",
+    "institution": null,
+    "target_area": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 5000000,
+    "accepts_from": "2026-09-09T00:00:00Z",
+    "accepts_until": "2026-09-15T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTUMA1"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDeTWMA1",
+    "code": "S-00009781",
+    "title": "令和８年度 第２回サイバーセキュリティ対策促進助成金（R82CYB）",
+    "institution": null,
+    "target_area": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 5000000,
+    "accepts_from": "2026-09-09T00:00:00Z",
+    "accepts_until": "2026-09-15T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTWMA1"
   },
   {
     "source": "jgrants",
@@ -414,6 +414,19 @@
     "accepts_from": "2026-06-27T00:00:00Z",
     "accepts_until": "2026-09-25T08:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcODMA1"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDeNDMA1",
+    "code": "S-00009754",
+    "title": "「デジタル社会の将来像の実現に向けた技術課題及び社会実装方策に関する調査」の公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-09-08T01:00:00Z",
+    "accepts_until": "2026-09-28T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeNDMA1"
   },
   {
     "source": "jgrants",
