@@ -378,6 +378,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDZi6MAH",
+    "code": "S-00009232",
+    "title": "令和8年度 高度人材インターンシップ受入支援費補助金",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "300名以下",
+    "max_amount": 5000,
+    "accepts_from": "2026-08-16T15:00:00Z",
+    "accepts_until": "2026-09-25T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZi6MAH"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDeNDMA1",
     "code": "S-00009754",
     "title": "「デジタル社会の将来像の実現に向けた技術課題及び社会実装方策に関する調査」の公募",

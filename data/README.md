@@ -1,16 +1,11 @@
 # 受付中の公募一覧
 
-最終更新: 2026-09-10 01:47 (UTC)  
-件数: 229  
-前回からの差分: 新規 2 / 更新 0 / 掲載終了 46
+最終更新: 2026-09-11 01:46 (UTC)  
+件数: 230  
+前回からの差分: 新規 0 / 更新 1 / 掲載終了 45
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
-
-## 新着
-
-- [【追加募集】神奈川県障害福祉サービス事業所等及び障害福祉施設等に対するサービス継続支援事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003BzWHUA0)（〜2026-10-02）
-- [「地域未利用バイオマスを活用したバイオガスの産業熱利用推進に向けた動向調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeN8MAL)（〜2026-10-19）
 
 ## すべて
 
@@ -45,6 +40,7 @@
 | 2026-09-25 | [令和8年度_産油国石油精製技術等対策事業費補助金（石油天然ガス権益・安定供給の確保に向けた資源国との関係強化支援事業のうち産油・産ガス国産業協力等事業に係るもの）_第3回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeO6MAL) | — | 全国 | 2,900,000,000円 |
 | 2026-09-25 | [令和8年度_資源国脱炭素化・エネルギー転換技術等支援事業費補助金_第3回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeO1MAL) | — | 全国 | 1,200,000,000円 |
 | 2026-09-25 | [令和８年度「水力発電導入促進支援事業費補助金（事業性評価支援事業）」（新規事業　３次締切分）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcODMA1) | — | 全国 | 20,000,000円 |
+| 2026-09-25 | [令和8年度 高度人材インターンシップ受入支援費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZi6MAH) | — | 東京都 | 5,000円 |
 | 2026-09-28 | [「デジタル社会の将来像の実現に向けた技術課題及び社会実装方策に関する調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeNDMA1) | — | 全国 | — |
 | 2026-09-28 | [【令和８年度・第４回】INPIT外国出願補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe3zMAD) | INPIT外国出願補助金 | 全国 | 3,000,000円 |
 | 2026-09-28 | [【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX) | — | 全国 | 40,000,000円 |
