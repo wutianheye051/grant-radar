@@ -1,45 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDe3bMAD",
-    "code": "S-00009684",
-    "title": "「特定半導体生産施設整備に係る建設工事の現状及び国内投資促進に向けた課題に関する調査・分析事業」の公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-08-28T01:00:00Z",
-    "accepts_until": "2026-09-11T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe3bMAD"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDWngMAH",
-    "code": "S-00007730",
-    "title": "【令和８年度】経営力強化に向けた創意工夫チャレンジ促進事業(飲食事業者向け経営基盤強化支援（受動喫煙防止対策支援コース）)助成金",
-    "institution": null,
-    "target_area": "東京都",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 4000000,
-    "accepts_from": "2026-04-13T01:00:00Z",
-    "accepts_until": "2026-09-11T07:45:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDWngMAH"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDXuqMAH",
-    "code": "S-00008309",
-    "title": "令和８年度医療機関診療情報サイバーセキュリティ対策支援事業",
-    "institution": null,
-    "target_area": "東京都",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-04-14T15:00:00Z",
-    "accepts_until": "2026-09-11T14:59:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXuqMAH"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDd5SMAT",
     "code": "S-00009476",
     "title": "令和８年度 脱炭素成長型経済構造移行推進対策費補助金（自律型資源 循環システム強靱化促進事業）（事前着手届出）【一次公募】",
@@ -843,6 +804,32 @@
     "accepts_from": "2026-08-28T05:00:00Z",
     "accepts_until": "2026-10-09T08:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeQmMAL"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ000003BrAXUA0",
+    "code": "S-00009821",
+    "title": "【令和8年度】DX型CO2削減対策実行支援事業（二次公募）",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 2000000,
+    "accepts_from": "2026-09-11T03:00:00Z",
+    "accepts_until": "2026-10-15T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003BrAXUA0"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ000003BpWvUAK",
+    "code": "S-00009820",
+    "title": "【令和8年度】省CO2型システムへの改修支援事業（三次公募）",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 500000000,
+    "accepts_from": "2026-09-11T03:00:00Z",
+    "accepts_until": "2026-10-15T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003BpWvUAK"
   },
   {
     "source": "jgrants",

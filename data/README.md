@@ -1,19 +1,21 @@
 # 受付中の公募一覧
 
-最終更新: 2026-09-11 01:46 (UTC)  
-件数: 230  
-前回からの差分: 新規 0 / 更新 1 / 掲載終了 45
+最終更新: 2026-09-12 01:51 (UTC)  
+件数: 229  
+前回からの差分: 新規 2 / 更新 0 / 掲載終了 48
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
+
+## 新着
+
+- [【令和8年度】DX型CO2削減対策実行支援事業（二次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003BrAXUA0)（〜2026-10-15）
+- [【令和8年度】省CO2型システムへの改修支援事業（三次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003BpWvUAK)（〜2026-10-15）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-09-11 | [「特定半導体生産施設整備に係る建設工事の現状及び国内投資促進に向けた課題に関する調査・分析事業」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe3bMAD) | — | 全国 | — |
-| 2026-09-11 | [【令和８年度】経営力強化に向けた創意工夫チャレンジ促進事業(飲食事業者向け経営基盤強化支援（受動喫煙防止対策支援コース）)助成金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDWngMAH) | — | 東京都 | 4,000,000円 |
-| 2026-09-11 | [令和８年度医療機関診療情報サイバーセキュリティ対策支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXuqMAH) | — | 東京都 | — |
 | 2026-09-14 | [令和８年度 脱炭素成長型経済構造移行推進対策費補助金（自律型資源 循環システム強靱化促進事業）（事前着手届出）【一次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd5SMAT) | — | 全国 | — |
 | 2026-09-14 | [令和８年度 脱炭素成長型経済構造移行推進対策費補助金（自律型資源循環システム強靱化促進事業）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYlTMAX) | — | 全国 | 20,000,000,000円 |
 | 2026-09-14 | [令和８年度展示会出展助成事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkTMAX) | — | 東京都 | 1,500,000円 |
@@ -76,6 +78,8 @@
 | 2026-10-09 | [令和７年度(補正予算) ゼロエミッション船等の建造促進事業 2次公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdnJMAT) | — | 全国 | — |
 | 2026-10-09 | [令和７年度（補正予算）地域共生を目指したデータセンター脱炭素化設備導入支援事業（三次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeS9MAL) | — | 全国 | — |
 | 2026-10-09 | [伝統的工芸品産業支援補助金（令和8年度第2回災害復興事業）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeQmMAL) | — | 新潟県 / 福井県 / 富山県 / 石川県 | 10,000,000円 |
+| 2026-10-15 | [【令和8年度】DX型CO2削減対策実行支援事業（二次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003BrAXUA0) | — | 全国 | 2,000,000円 |
+| 2026-10-15 | [【令和8年度】省CO2型システムへの改修支援事業（三次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003BpWvUAK) | — | 全国 | 500,000,000円 |
 | 2026-10-16 | [令和８年度_グリーンスローモビリティ等導入促進事業（二次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDKZFMA5) | — | 全国 | — |
 | 2026-10-16 | [⼩規模事業者持続化補助⾦＜⼀般型 災害⽀援枠（令和６年能登半島地震等）＞10次公募【商⼯会地区】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDWp3MAH) | — | 石川県 | 2,000,000円 |
 | 2026-10-16 | [小規模事業者持続化補助金＜一般型 災害支援枠（令和６年能登半島地震等）＞１０次公募【商工会議所地区】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdALMA1) | — | 石川県 | 2,000,000円 |
