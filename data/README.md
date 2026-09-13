@@ -1,16 +1,11 @@
 # 受付中の公募一覧
 
-最終更新: 2026-09-12 01:51 (UTC)  
+最終更新: 2026-09-13 01:43 (UTC)  
 件数: 229  
-前回からの差分: 新規 2 / 更新 0 / 掲載終了 48
+前回からの差分: 新規 0 / 更新 0 / 掲載終了 48
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
-
-## 新着
-
-- [【令和8年度】DX型CO2削減対策実行支援事業（二次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003BrAXUA0)（〜2026-10-15）
-- [【令和8年度】省CO2型システムへの改修支援事業（三次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003BpWvUAK)（〜2026-10-15）
 
 ## すべて
 
