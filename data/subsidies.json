@@ -469,6 +469,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDeTjMAL",
+    "code": "S-00009784",
+    "title": "「情報基盤システムの基本構想に関する分析調査」の公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-09-14T01:00:00Z",
+    "accepts_until": "2026-09-30T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTjMAL"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDdjzMAD",
     "code": "S-00009575",
     "title": "地域社会ＤＸ推進パッケージ事業（補助事業）",
@@ -677,6 +690,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDeT0MAL",
+    "code": "S-00009776",
+    "title": "「2026年度NEDO情報セキュリティ監査業務」の公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-09-14T01:00:00Z",
+    "accepts_until": "2026-10-02T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeT0MAL"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDeSJMA1",
     "code": "S-00009771",
     "title": "令和8年度当初予算　二次公募　民間企業等による再エネの導入及び地域共生加速化事業のうち、ストレージパリティの達成に向けた太陽光発電設備等の価格低減促進事業",
@@ -882,6 +908,19 @@
     "accepts_from": "2026-09-10T01:00:00Z",
     "accepts_until": "2026-10-19T03:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeN8MAL"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDeVeMAL",
+    "code": "S-00009793",
+    "title": "「『ディープテック・スタートアップ支援基金／国際共同研究開発』新規採択支援業務及び潜在的案件発掘促進を目的とした情報発信手法に関する調査」の公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-09-14T01:00:00Z",
+    "accepts_until": "2026-10-20T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeVeMAL"
   },
   {
     "source": "jgrants",
