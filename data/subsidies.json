@@ -1,71 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDd5SMAT",
-    "code": "S-00009476",
-    "title": "令和８年度 脱炭素成長型経済構造移行推進対策費補助金（自律型資源 循環システム強靱化促進事業）（事前着手届出）【一次公募】",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-07-28T06:00:00Z",
-    "accepts_until": "2026-09-14T06:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd5SMAT"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDYlTMAX",
-    "code": "S-00009026",
-    "title": "令和８年度 脱炭素成長型経済構造移行推進対策費補助金（自律型資源循環システム強靱化促進事業）",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 20000000000,
-    "accepts_from": "2026-07-28T06:00:00Z",
-    "accepts_until": "2026-09-14T06:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYlTMAX"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDXkTMAX",
-    "code": "S-00008193",
-    "title": "令和８年度展示会出展助成事業",
-    "institution": null,
-    "target_area": "東京都",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 1500000,
-    "accepts_from": "2026-08-31T15:00:00Z",
-    "accepts_until": "2026-09-14T07:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkTMAX"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDYUSMA5",
-    "code": "S-00008726",
-    "title": "【埼玉県】令和8年度 企業等における省エネ・再エネ活用設備導入補助金",
-    "institution": null,
-    "target_area": "埼玉県",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-08-16T23:30:00Z",
-    "accepts_until": "2026-09-14T08:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUSMA5"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDO8eMAH",
-    "code": "S-00006645",
-    "title": "交通システムの省CO2 化に向けた設備整備事業（鉄道事業等におけるネットワーク型低炭素化促進事業）（二次公募）",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-08-17T01:00:00Z",
-    "accepts_until": "2026-09-14T08:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDO8eMAH"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDdqyMAD",
     "code": "S-00009624",
     "title": "【応募事業者】令和８年度 プラスチック等資源循環システム構築実証事業　＜三次公募＞",
@@ -833,6 +768,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDdMRMA1",
+    "code": "S-00009504",
+    "title": "「再生可能エネルギー熱利用に係る導入可能性等技術動向等調査」の公募",
+    "institution": "P24010_再生可能エネルギー熱の面的利用システム構築に向けた技術開発",
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-09-15T01:00:00Z",
+    "accepts_until": "2026-10-15T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdMRMA1"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WfQ000003BrAXUA0",
     "code": "S-00009821",
     "title": "【令和8年度】DX型CO2削減対策実行支援事業（二次公募）",
@@ -1064,6 +1012,19 @@
     "accepts_from": "2026-07-02T07:00:00Z",
     "accepts_until": "2026-11-13T09:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZDHMA5"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDeUgMAL",
+    "code": "S-00009792",
+    "title": "令和8年度東京都臨床調査個人票電子化等推進事業補助金",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 50000,
+    "accepts_from": "2026-09-14T15:00:00Z",
+    "accepts_until": "2026-11-15T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeUgMAL"
   },
   {
     "source": "jgrants",
