@@ -1,71 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDdqyMAD",
-    "code": "S-00009624",
-    "title": "【応募事業者】令和８年度 プラスチック等資源循環システム構築実証事業　＜三次公募＞",
-    "institution": null,
-    "target_area": "全国 / 北海道 / 青森県 / 岩手県 / 宮城県 / 秋田県 / 山形県 / 福島県 / 茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 新潟県 / 山梨県 / 長野県 / 富山県 / 石川県 / 福井県 / 岐阜県 / 静岡県 / 愛知県 / 三重県 / 滋賀県 / 京都府 / 大阪府 / 兵庫県 / 奈良県 / 和歌山県 / 鳥取県 / 島根県 / 岡山県 / 広島県 / 山口県 / 徳島県 / 香川県 / 愛媛県 / 高知県 / 福岡県 / 佐賀県 / 長崎県 / 熊本県 / 大分県 / 宮崎県 / 鹿児島県 / 沖縄県",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-08-07T05:00:00Z",
-    "accepts_until": "2026-09-15T07:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdqyMAD"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDeTVMA1",
-    "code": "S-00009780",
-    "title": "令和８年度 第２回BCP実践促進助成金 連携型（R82BCPREN）",
-    "institution": null,
-    "target_area": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 10000000,
-    "accepts_from": "2026-09-09T00:00:00Z",
-    "accepts_until": "2026-09-15T08:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTVMA1"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDeTUMA1",
-    "code": "S-00009779",
-    "title": "令和８年度 第２回BCP実践促進助成金（R82BCP）",
-    "institution": null,
-    "target_area": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 5000000,
-    "accepts_from": "2026-09-09T00:00:00Z",
-    "accepts_until": "2026-09-15T08:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTUMA1"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDeTWMA1",
-    "code": "S-00009781",
-    "title": "令和８年度 第２回サイバーセキュリティ対策促進助成金（R82CYB）",
-    "institution": null,
-    "target_area": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 5000000,
-    "accepts_from": "2026-09-09T00:00:00Z",
-    "accepts_until": "2026-09-15T08:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTWMA1"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0W5h00000UcWryEAF",
-    "code": "S-00004126",
-    "title": "東京都認定制度を活用した医師少数区域における勤務の推進事業補助金",
-    "institution": null,
-    "target_area": "東京都",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-08-24T03:00:00Z",
-    "accepts_until": "2026-09-15T14:45:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UcWryEAF"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDb6JMAT",
     "code": "S-00009353",
     "title": "【令和７年度】二酸化炭素排出抑制対策事業費等補助金（水インフラにおける脱炭素化推進事業）［四次公募］",
@@ -76,6 +11,19 @@
     "accepts_from": "2026-06-18T07:00:00Z",
     "accepts_until": "2026-09-18T08:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDb6JMAT"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ000003I7MHUA0",
+    "code": "S-00009857",
+    "title": "【山形県】令和8年度中小企業等海外展開支援事業費補助金（海外出願支援事業）２次公募",
+    "institution": null,
+    "target_area": "山形県",
+    "target_employees": "300名以下",
+    "max_amount": 3000000,
+    "accepts_from": "2026-08-24T01:00:00Z",
+    "accepts_until": "2026-09-18T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003I7MHUA0"
   },
   {
     "source": "jgrants",
@@ -625,6 +573,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDWQzMAP",
+    "code": "S-00007621",
+    "title": "令和５年度病院勤務者勤務環境改善事業・救急医療体制強化事業【仕入控除税額報告】",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2025-10-29T00:00:00Z",
+    "accepts_until": "2026-09-30T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDWQzMAP"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDeT0MAL",
     "code": "S-00009776",
     "title": "「2026年度NEDO情報セキュリティ監査業務」の公募",
@@ -651,6 +612,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDW2EMAX",
+    "code": "S-00007523",
+    "title": "×令和６年度地域医療勤務環境改善体制整備特別事業【仕入控除税額報告】",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2025-10-29T00:00:00Z",
+    "accepts_until": "2026-10-02T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDW2EMAX"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WfQ000003BzWHUA0",
     "code": "S-00009823",
     "title": "【追加募集】神奈川県障害福祉サービス事業所等及び障害福祉施設等に対するサービス継続支援事業補助金",
@@ -661,6 +635,32 @@
     "accepts_from": "2026-09-09T15:00:00Z",
     "accepts_until": "2026-10-02T14:59:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003BzWHUA0"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ000003IBL3UAO",
+    "code": "S-00009863",
+    "title": "令和６年度　勤務環境改善医師派遣等推進事業【仕入控除税額報告】",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2025-10-29T00:00:00Z",
+    "accepts_until": "2026-10-02T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003IBL3UAO"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ000003I9xZUAS",
+    "code": "S-00009862",
+    "title": "令和６年度地域医療勤務環境改善体制整備特別事業【仕入控除税額報告】",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2025-10-29T00:00:00Z",
+    "accepts_until": "2026-10-02T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003I9xZUAS"
   },
   {
     "source": "jgrants",
@@ -947,6 +947,19 @@
     "accepts_from": "2026-03-24T04:00:00Z",
     "accepts_until": "2026-10-30T15:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY4mMAH"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDXjwMAH",
+    "code": "S-00008168",
+    "title": "【福井県】令和８年度企業の太陽光・蓄電池設備導入促進事業補助金",
+    "institution": null,
+    "target_area": "福井県",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 11300000,
+    "accepts_from": "2026-04-16T15:00:00Z",
+    "accepts_until": "2026-10-31T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXjwMAH"
   },
   {
     "source": "jgrants",
@@ -1311,6 +1324,32 @@
     "accepts_from": "2026-04-01T00:00:00Z",
     "accepts_until": "2026-12-25T08:15:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDddWMAT"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDXjxMAH",
+    "code": "S-00008169",
+    "title": "【福井県】令和８年度 Ｖ２Ｈ充放電設備設置支援事業補助金",
+    "institution": null,
+    "target_area": "福井県",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 100000,
+    "accepts_from": "2026-04-16T15:00:00Z",
+    "accepts_until": "2026-12-25T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXjxMAH"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDXjyMAH",
+    "code": "S-00008170",
+    "title": "【福井県】電気自動車用充電インフラ整備促進事業補助金",
+    "institution": null,
+    "target_area": "福井県",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 1500000,
+    "accepts_from": "2026-04-16T15:00:00Z",
+    "accepts_until": "2026-12-25T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXjyMAH"
   },
   {
     "source": "jgrants",
@@ -2169,6 +2208,19 @@
     "accepts_from": "2026-07-10T03:00:00Z",
     "accepts_until": "2027-05-31T10:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdL9MAL"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ000003DRDZUA4",
+    "code": "S-00009842",
+    "title": "令和８年度病院勤務者勤務環境改善事業・救急医療体制強化事業",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-09-16T00:00:00Z",
+    "accepts_until": "2027-05-31T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003DRDZUA4"
   },
   {
     "source": "jgrants",
