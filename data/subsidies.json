@@ -664,6 +664,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDVu7MAH",
+    "code": "S-00007470",
+    "title": "令和７年度勤務環境改善体制医師派遣等推進事業",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2025-10-29T00:00:00Z",
+    "accepts_until": "2026-10-02T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVu7MAH"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDdoxMAD",
     "code": "S-00009613",
     "title": "「地熱ポテンシャル高度利活用技術開発」の追加公募",
@@ -807,6 +820,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDeTZMA1",
+    "code": "S-00009782",
+    "title": "「ポスト5G情報通信システム基盤強化研究開発事業／ロボティクス分野におけるソフトウェア開発基盤構築」の公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-09-17T01:00:00Z",
+    "accepts_until": "2026-10-16T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTZMA1"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDKZFMA5",
     "code": "S-00006173",
     "title": "令和８年度_グリーンスローモビリティ等導入促進事業（二次公募）",
@@ -833,6 +859,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDeYyMAL",
+    "code": "S-00009814",
+    "title": "⼩規模事業者持続化補助⾦＜⼀般型 災害支援枠（令和8年熊本地震）＞1次公募【商⼯会地区】",
+    "institution": null,
+    "target_area": "熊本県",
+    "target_employees": "20名以下",
+    "max_amount": 2000000,
+    "accepts_from": "2026-09-16T08:00:00Z",
+    "accepts_until": "2026-10-16T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeYyMAL"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDdALMA1",
     "code": "S-00009485",
     "title": "小規模事業者持続化補助金＜一般型 災害支援枠（令和６年能登半島地震等）＞１０次公募【商工会議所地区】",
@@ -843,6 +882,19 @@
     "accepts_from": "2026-07-27T06:00:00Z",
     "accepts_until": "2026-10-16T08:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdALMA1"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDeToMAL",
+    "code": "S-00009785",
+    "title": "小規模事業者持続化補助金＜一般型 災害支援枠（令和８年熊本地震）＞１次公募【商工会議所地区】",
+    "institution": null,
+    "target_area": "熊本県",
+    "target_employees": "20名以下",
+    "max_amount": 2000000,
+    "accepts_from": "2026-09-16T08:00:00Z",
+    "accepts_until": "2026-10-16T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeToMAL"
   },
   {
     "source": "jgrants",

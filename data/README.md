@@ -1,23 +1,18 @@
 # 受付中の公募一覧
 
-最終更新: 2026-09-16 02:01 (UTC)  
-件数: 233  
-前回からの差分: 新規 9 / 更新 0 / 掲載終了 58
+最終更新: 2026-09-17 02:05 (UTC)  
+件数: 237  
+前回からの差分: 新規 4 / 更新 0 / 掲載終了 58
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
 
 ## 新着
 
-- [令和８年度病院勤務者勤務環境改善事業・救急医療体制強化事業](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003DRDZUA4)（〜2027-05-31）
-- [【福井県】電気自動車用充電インフラ整備促進事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXjyMAH)（〜2026-12-25）
-- [【福井県】令和８年度 Ｖ２Ｈ充放電設備設置支援事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXjxMAH)（〜2026-12-25）
-- [【福井県】令和８年度企業の太陽光・蓄電池設備導入促進事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXjwMAH)（〜2026-10-31）
-- [令和６年度　勤務環境改善医師派遣等推進事業【仕入控除税額報告】](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003IBL3UAO)（〜2026-10-02）
-- [令和６年度地域医療勤務環境改善体制整備特別事業【仕入控除税額報告】](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003I9xZUAS)（〜2026-10-02）
-- [令和５年度病院勤務者勤務環境改善事業・救急医療体制強化事業【仕入控除税額報告】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDWQzMAP)（〜2026-09-30）
-- [×令和６年度地域医療勤務環境改善体制整備特別事業【仕入控除税額報告】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDW2EMAX)（〜2026-10-02）
-- [【山形県】令和8年度中小企業等海外展開支援事業費補助金（海外出願支援事業）２次公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003I7MHUA0)（〜2026-09-18）
+- [⼩規模事業者持続化補助⾦＜⼀般型 災害支援枠（令和8年熊本地震）＞1次公募【商⼯会地区】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeYyMAL)（〜2026-10-16）
+- [小規模事業者持続化補助金＜一般型 災害支援枠（令和８年熊本地震）＞１次公募【商工会議所地区】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeToMAL)（〜2026-10-16）
+- [「ポスト5G情報通信システム基盤強化研究開発事業／ロボティクス分野におけるソフトウェア開発基盤構築」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTZMA1)（〜2026-10-16）
+- [令和７年度勤務環境改善体制医師派遣等推進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVu7MAH)（〜2026-10-02）
 
 ## すべて
 
@@ -74,6 +69,7 @@
 | 2026-10-02 | [【追加募集】神奈川県障害福祉サービス事業所等及び障害福祉施設等に対するサービス継続支援事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003BzWHUA0) | — | 神奈川県 | — |
 | 2026-10-02 | [令和６年度　勤務環境改善医師派遣等推進事業【仕入控除税額報告】](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003IBL3UAO) | — | 東京都 | — |
 | 2026-10-02 | [令和６年度地域医療勤務環境改善体制整備特別事業【仕入控除税額報告】](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003I9xZUAS) | — | 東京都 | — |
+| 2026-10-02 | [令和７年度勤務環境改善体制医師派遣等推進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVu7MAH) | — | 東京都 | — |
 | 2026-10-05 | [「地熱ポテンシャル高度利活用技術開発」の追加公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdoxMAD) | — | 全国 | — |
 | 2026-10-05 | [「風車生産技術研究開発」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe8tMAD) | — | 全国 | — |
 | 2026-10-05 | [経済安全保障重要技術育成プログラム／航空機エンジン向け先進材料技術の開発・実証/研究開発項目〔3〕「国産ニッケル基超合金における評価システム基盤整備」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdonMAD) | — | 全国 | — |
@@ -85,9 +81,12 @@
 | 2026-10-15 | [「再生可能エネルギー熱利用に係る導入可能性等技術動向等調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdMRMA1) | P24010_再生可能エネルギー熱の面的利用システム構築に向けた技術開発 | 全国 | — |
 | 2026-10-15 | [【令和8年度】DX型CO2削減対策実行支援事業（二次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003BrAXUA0) | — | 全国 | 2,000,000円 |
 | 2026-10-15 | [【令和8年度】省CO2型システムへの改修支援事業（三次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003BpWvUAK) | — | 全国 | 500,000,000円 |
+| 2026-10-16 | [「ポスト5G情報通信システム基盤強化研究開発事業／ロボティクス分野におけるソフトウェア開発基盤構築」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTZMA1) | — | 全国 | — |
 | 2026-10-16 | [令和８年度_グリーンスローモビリティ等導入促進事業（二次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDKZFMA5) | — | 全国 | — |
 | 2026-10-16 | [⼩規模事業者持続化補助⾦＜⼀般型 災害⽀援枠（令和６年能登半島地震等）＞10次公募【商⼯会地区】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDWp3MAH) | — | 石川県 | 2,000,000円 |
+| 2026-10-16 | [⼩規模事業者持続化補助⾦＜⼀般型 災害支援枠（令和8年熊本地震）＞1次公募【商⼯会地区】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeYyMAL) | — | 熊本県 | 2,000,000円 |
 | 2026-10-16 | [小規模事業者持続化補助金＜一般型 災害支援枠（令和６年能登半島地震等）＞１０次公募【商工会議所地区】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdALMA1) | — | 石川県 | 2,000,000円 |
+| 2026-10-16 | [小規模事業者持続化補助金＜一般型 災害支援枠（令和８年熊本地震）＞１次公募【商工会議所地区】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeToMAL) | — | 熊本県 | 2,000,000円 |
 | 2026-10-19 | [「地域未利用バイオマスを活用したバイオガスの産業熱利用推進に向けた動向調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeN8MAL) | — | 全国 | — |
 | 2026-10-20 | [「『ディープテック・スタートアップ支援基金／国際共同研究開発』新規採択支援業務及び潜在的案件発掘促進を目的とした情報発信手法に関する調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeVeMAL) | — | 全国 | — |
 | 2026-10-30 | [【令和８年度】二酸化炭素排出抑制対策事業費等補助金（再エネ等由来水素を活用した自立・分散型エネルギーシステム構築等事業）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaotMAD) | — | 全国 | 300,000,000円 |
