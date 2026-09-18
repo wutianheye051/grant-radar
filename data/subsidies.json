@@ -768,6 +768,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WfQ000003CVHdUAO",
+    "code": "S-00009826",
+    "title": "令和８年度　ＺＥＢ実証事業（三次公募）",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 700000000,
+    "accepts_from": "2026-09-18T01:00:00Z",
+    "accepts_until": "2026-10-09T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003CVHdUAO"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDeQmMAL",
     "code": "S-00009766",
     "title": "伝統的工芸品産業支援補助金（令和8年度第2回災害復興事業）",
@@ -846,6 +859,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDeZuMAL",
+    "code": "S-00009816",
+    "title": "令和８年度データセンターのゼロエミッション化・レジリエンス強化促進事業（二次公募）",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-09-17T05:00:00Z",
+    "accepts_until": "2026-10-16T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeZuMAL"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDWp3MAH",
     "code": "S-00007741",
     "title": "⼩規模事業者持続化補助⾦＜⼀般型 災害⽀援枠（令和６年能登半島地震等）＞10次公募【商⼯会地区】",
@@ -898,6 +924,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0W5h00000ZueXcEAJ",
+    "code": "S-00004742",
+    "title": "ドローンを活用したツアー造成支援補助金",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 5000000,
+    "accepts_from": "2026-09-17T05:00:00Z",
+    "accepts_until": "2026-10-16T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000ZueXcEAJ"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDeN8MAL",
     "code": "S-00009753",
     "title": "「地域未利用バイオマスを活用したバイオガスの産業熱利用推進に向けた動向調査」の公募",
@@ -911,6 +950,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDeY0MAL",
+    "code": "S-00009808",
+    "title": "「水素社会モデル構築高度化技術開発・実証事業」の第2回公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-09-18T01:00:00Z",
+    "accepts_until": "2026-10-19T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeY0MAL"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDeVeMAL",
     "code": "S-00009793",
     "title": "「『ディープテック・スタートアップ支援基金／国際共同研究開発』新規採択支援業務及び潜在的案件発掘促進を目的とした情報発信手法に関する調査」の公募",
@@ -921,6 +973,19 @@
     "accepts_from": "2026-09-14T01:00:00Z",
     "accepts_until": "2026-10-20T03:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeVeMAL"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDeOLMA1",
+    "code": "S-00009763",
+    "title": "「地盤・海象・気象等の調査・観測技術の高度化・高効率化に関する研究開発」　の公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-09-18T01:00:00Z",
+    "accepts_until": "2026-10-22T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeOLMA1"
   },
   {
     "source": "jgrants",
