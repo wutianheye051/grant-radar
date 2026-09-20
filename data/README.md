@@ -1,17 +1,11 @@
 # 受付中の公募一覧
 
-最終更新: 2026-09-19 01:57 (UTC)  
+最終更新: 2026-09-20 02:00 (UTC)  
 件数: 240  
-前回からの差分: 新規 3 / 更新 3 / 掲載終了 63
+前回からの差分: 新規 0 / 更新 0 / 掲載終了 63
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
-
-## 新着
-
-- [令和８年度　病院勤務者勤務環境改善事業・救急医療体制強化事業](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003MWE2UAO)（〜2027-05-31）
-- [×令和６年度勤務環境改善医師派遣等推進事業【仕入控除税額報告】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDWQkMAP)（〜2026-10-30）
-- [「脱炭素化・エネルギー転換に資する我が国技術の国際実証事業／普及促進事業／グローバルな液化水素サプライチェーン構築に向けた我が国技術の適用可能性等調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeY5MAL)（〜2026-09-30）
 
 ## すべて
 
