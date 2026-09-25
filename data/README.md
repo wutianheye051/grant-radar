@@ -1,22 +1,22 @@
 # 受付中の公募一覧
 
-最終更新: 2026-09-24 01:54 (UTC)  
-件数: 241  
-前回からの差分: 新規 1 / 更新 0 / 掲載終了 63
+最終更新: 2026-09-25 02:11 (UTC)  
+件数: 242  
+前回からの差分: 新規 3 / 更新 0 / 掲載終了 65
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
 
 ## 新着
 
-- [「カーボンリサイクル・火力発電の脱炭素化技術等国際協力事業／カーボンマネジメントに係る国際連携事業／カーボンリサイクル関連技術及び脱炭素化技術等の海外展開可能性の調査」の公募について](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeZLMA1)（〜2026-10-07）
+- [【三次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ENsfUAG)（〜2026-11-30）
+- [「研究開発プロセスを起点とした動的なEBPMのための指標設計及びデータ活用戦略の策定に係る調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003F3K1UAK)（〜2026-10-16）
+- [「脱炭素化・エネルギー転換に資する我が国技術の国際実証事業」の2026年度第2回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdl2MAD)（〜2026-10-26）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-09-24 | [【二次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeXgMAL) | — | 全国 | — |
-| 2026-09-24 | [東京都専門医認定支援事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UcWrwEAF) | — | 東京都 | — |
 | 2026-09-25 | [①省CO2型プラスチック高度リサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）４次公募及び令和８年度３次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYiwMAH) | — | 全国 | 7,297,000,000円 |
 | 2026-09-25 | [②化石資源由来プラスチックを代替する再生可能資源由来素材 の省CO2型製造設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び令和８年度第３次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYjRMAX) | — | 全国 | 7,297,000,000円 |
 | 2026-09-25 | [③太陽光パネルリサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び令和８年度第３次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYkCMAX) | — | 全国 | 7,297,000,000円 |
@@ -74,6 +74,7 @@
 | 2026-10-15 | [【令和8年度】DX型CO2削減対策実行支援事業（二次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003BrAXUA0) | — | 全国 | 2,000,000円 |
 | 2026-10-15 | [【令和8年度】省CO2型システムへの改修支援事業（三次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003BpWvUAK) | — | 全国 | 500,000,000円 |
 | 2026-10-16 | [「ポスト5G情報通信システム基盤強化研究開発事業／ロボティクス分野におけるソフトウェア開発基盤構築」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTZMA1) | — | 全国 | — |
+| 2026-10-16 | [「研究開発プロセスを起点とした動的なEBPMのための指標設計及びデータ活用戦略の策定に係る調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003F3K1UAK) | — | 全国 | — |
 | 2026-10-16 | [令和８年度_グリーンスローモビリティ等導入促進事業（二次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDKZFMA5) | — | 全国 | — |
 | 2026-10-16 | [令和８年度データセンターのゼロエミッション化・レジリエンス強化促進事業（二次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeZuMAL) | — | 全国 | — |
 | 2026-10-16 | [⼩規模事業者持続化補助⾦＜⼀般型 災害⽀援枠（令和６年能登半島地震等）＞10次公募【商⼯会地区】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDWp3MAH) | — | 石川県 | 2,000,000円 |
@@ -85,6 +86,7 @@
 | 2026-10-19 | [「水素社会モデル構築高度化技術開発・実証事業」の第2回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeY0MAL) | — | 全国 | — |
 | 2026-10-20 | [「『ディープテック・スタートアップ支援基金／国際共同研究開発』新規採択支援業務及び潜在的案件発掘促進を目的とした情報発信手法に関する調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeVeMAL) | — | 全国 | — |
 | 2026-10-22 | [「地盤・海象・気象等の調査・観測技術の高度化・高効率化に関する研究開発」　の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeOLMA1) | — | 全国 | — |
+| 2026-10-26 | [「脱炭素化・エネルギー転換に資する我が国技術の国際実証事業」の2026年度第2回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdl2MAD) | — | 全国 | — |
 | 2026-10-30 | [【令和８年度】二酸化炭素排出抑制対策事業費等補助金（再エネ等由来水素を活用した自立・分散型エネルギーシステム構築等事業）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaotMAD) | — | 全国 | 300,000,000円 |
 | 2026-10-30 | [産業車両等の脱炭素化促進事業のうち、港湾における脱炭素化促進事業（二酸化炭素排出抑制対策事業費等補助金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZ04MAH) | — | 全国 | 100,000,000円 |
 | 2026-10-30 | [産業車両等の脱炭素化促進事業のうち、空港における脱炭素化促進事業① 空港における再エネ活用型GPU等導入支援（二酸化炭素排出抑制対策事業費等補助金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYzVMAX) | — | 全国 | 150,000,000円 |
@@ -111,6 +113,7 @@
 | 2026-11-30 | [【山形県】令和8年度やまがた未来くるエネルギー補助金（山形県再生可能エネルギー等設備導入促進事業）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDddVMAT) | — | 山形県 | — |
 | 2026-11-30 | [古賀市中小企業等向け太陽光発電設備導入補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYfxMAH) | — | 福岡県 | 4,500,000円 |
 | 2026-11-30 | [埼玉県中小企業等奨学金返還支援事業補助金（令和８年度）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZIAMA5) | — | 埼玉県 | — |
+| 2026-11-30 | [【三次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ENsfUAG) | — | 全国 | — |
 | 2026-11-30 | [令和8年度SDS電子化補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDderMAD) | — | 全国 | 1,000,000円 |
 | 2026-11-30 | [令和８年度 脱炭素成長型経済構造移行推進対策費補助金 （業務用建築物の脱炭素改修加速化事業）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDa1bMAD) | — | 全国 | 1,000,000,000円 |
 | 2026-11-30 | [令和８年度東京都医療ＤＸ人材育成支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXvUMAX) | — | 東京都 | 500,000円 |

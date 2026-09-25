@@ -1,32 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDeXgMAL",
-    "code": "S-00009805",
-    "title": "【二次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-09-02T00:00:00Z",
-    "accepts_until": "2026-09-24T14:59:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeXgMAL"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0W5h00000UcWrwEAF",
-    "code": "S-00004124",
-    "title": "東京都専門医認定支援事業補助金",
-    "institution": null,
-    "target_area": "東京都",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-09-02T00:00:00Z",
-    "accepts_until": "2026-09-24T15:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UcWrwEAF"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDYiwMAH",
     "code": "S-00008991",
     "title": "①省CO2型プラスチック高度リサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）４次公募及び令和８年度３次公募】",
@@ -768,6 +742,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WfQ000003F3K1UAK",
+    "code": "S-00009850",
+    "title": "「研究開発プロセスを起点とした動的なEBPMのための指標設計及びデータ活用戦略の策定に係る調査」の公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-09-25T01:00:00Z",
+    "accepts_until": "2026-10-16T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003F3K1UAK"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDKZFMA5",
     "code": "S-00006173",
     "title": "令和８年度_グリーンスローモビリティ等導入促進事業（二次公募）",
@@ -908,6 +895,19 @@
     "accepts_from": "2026-09-18T01:00:00Z",
     "accepts_until": "2026-10-22T03:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeOLMA1"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDdl2MAD",
+    "code": "S-00009581",
+    "title": "「脱炭素化・エネルギー転換に資する我が国技術の国際実証事業」の2026年度第2回公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-09-25T01:00:00Z",
+    "accepts_until": "2026-10-26T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdl2MAD"
   },
   {
     "source": "jgrants",
@@ -1246,6 +1246,19 @@
     "accepts_from": "2026-06-01T00:00:00Z",
     "accepts_until": "2026-11-30T08:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZIAMA5"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ000003ENsfUAG",
+    "code": "S-00009846",
+    "title": "【三次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-09-25T00:00:00Z",
+    "accepts_until": "2026-11-30T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ENsfUAG"
   },
   {
     "source": "jgrants",
