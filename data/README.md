@@ -1,33 +1,20 @@
 # 受付中の公募一覧
 
-最終更新: 2026-09-25 02:11 (UTC)  
-件数: 242  
-前回からの差分: 新規 3 / 更新 0 / 掲載終了 65
+最終更新: 2026-09-26 02:16 (UTC)  
+件数: 232  
+前回からの差分: 新規 1 / 更新 0 / 掲載終了 76
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
 
 ## 新着
 
-- [【三次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ENsfUAG)（〜2026-11-30）
-- [「研究開発プロセスを起点とした動的なEBPMのための指標設計及びデータ活用戦略の策定に係る調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003F3K1UAK)（〜2026-10-16）
-- [「脱炭素化・エネルギー転換に資する我が国技術の国際実証事業」の2026年度第2回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdl2MAD)（〜2026-10-26）
+- [令和７年度病院勤務者勤務環境改善事業・救急医療体制強化事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVm7MAH)（〜2026-12-31）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-09-25 | [①省CO2型プラスチック高度リサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）４次公募及び令和８年度３次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYiwMAH) | — | 全国 | 7,297,000,000円 |
-| 2026-09-25 | [②化石資源由来プラスチックを代替する再生可能資源由来素材 の省CO2型製造設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び令和８年度第３次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYjRMAX) | — | 全国 | 7,297,000,000円 |
-| 2026-09-25 | [③太陽光パネルリサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び令和８年度第３次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYkCMAX) | — | 全国 | 7,297,000,000円 |
-| 2026-09-25 | [④リチウム蓄電池リサイクル設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び令和８年度第３次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYkHMAX) | — | 全国 | 7,297,000,000円 |
-| 2026-09-25 | [⑤金属破砕・選別設備導入事業（バリューチェーン）【令和７年度（補正予算）第４次公募及び第８年度第３次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYk0MAH) | — | 全国 | 7,297,000,000円 |
-| 2026-09-25 | [令和7年度_産油国石油精製技術等対策事業費補助金（石油天然ガス権益・安定供給の確保に向けた資源国との関係強化支援事業のうち産油・産ガス国産業協力等事業に係るもの）_第5回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeNwMAL) | — | 全国 | 340,000,000円 |
-| 2026-09-25 | [令和7年度_資源国脱炭素化・エネルギー転換技術等支援事業費補助金_第5回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeNSMA1) | — | 全国 | 660,000,000円 |
-| 2026-09-25 | [令和8年度_産油国石油精製技術等対策事業費補助金（石油天然ガス権益・安定供給の確保に向けた資源国との関係強化支援事業のうち産油・産ガス国産業協力等事業に係るもの）_第3回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeO6MAL) | — | 全国 | 2,900,000,000円 |
-| 2026-09-25 | [令和8年度_資源国脱炭素化・エネルギー転換技術等支援事業費補助金_第3回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeO1MAL) | — | 全国 | 1,200,000,000円 |
-| 2026-09-25 | [令和８年度「水力発電導入促進支援事業費補助金（事業性評価支援事業）」（新規事業　３次締切分）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcODMA1) | — | 全国 | 20,000,000円 |
-| 2026-09-25 | [令和8年度 高度人材インターンシップ受入支援費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZi6MAH) | — | 東京都 | 5,000円 |
 | 2026-09-28 | [「デジタル社会の将来像の実現に向けた技術課題及び社会実装方策に関する調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeNDMA1) | — | 全国 | — |
 | 2026-09-28 | [【令和８年度・第４回】INPIT外国出願補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe3zMAD) | INPIT外国出願補助金 | 全国 | 3,000,000円 |
 | 2026-09-28 | [【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX) | — | 全国 | 40,000,000円 |
@@ -136,6 +123,7 @@
 | 2026-12-28 | [在宅人工呼吸器使用難病患者非常用電源設備整備事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDHQZMA5) | — | 全国 | — |
 | 2026-12-28 | [【久留米市】中小企業止水板等設置事業費補助金（令和8年度）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYZ7MAP) | 久留米市中小企業先端設備等導入支援補助金（令和8年度） | 福岡県 | 500,000円 |
 | 2026-12-30 | [令和７年度ＮＢＣ災害・テロ対策設備整備補助事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDQuHMAX) | — | 東京都 | 33,762,000円 |
+| 2026-12-31 | [令和７年度病院勤務者勤務環境改善事業・救急医療体制強化事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVm7MAH) | — | 東京都 | — |
 | 2026-12-31 | [令和８年_設備投資_事業化状況報告](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaTCMA1) | — | 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県 | 200,000,000円 |
 | 2027-01-14 | [中小企業の外国人従業員に対する研修等支援助成金（ウクライナ避難民採用企業コース）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDK7OMAX) | — | 東京都 | 500,000円 |
 | 2027-01-14 | [中小企業の外国人従業員に対する研修等支援助成金（一般コース）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDK7NMAX) | — | 東京都 | 250,000円 |
