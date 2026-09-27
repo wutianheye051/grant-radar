@@ -1,15 +1,11 @@
 # 受付中の公募一覧
 
-最終更新: 2026-09-26 02:16 (UTC)  
+最終更新: 2026-09-27 02:11 (UTC)  
 件数: 232  
-前回からの差分: 新規 1 / 更新 0 / 掲載終了 76
+前回からの差分: 新規 0 / 更新 0 / 掲載終了 76
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
-
-## 新着
-
-- [令和７年度病院勤務者勤務環境改善事業・救急医療体制強化事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVm7MAH)（〜2026-12-31）
 
 ## すべて
 
