@@ -352,6 +352,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDZi6MAH",
+    "code": "S-00009232",
+    "title": "令和8年度 高度人材インターンシップ受入支援費補助金",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "300名以下",
+    "max_amount": 5000,
+    "accepts_from": "2026-08-16T15:00:00Z",
+    "accepts_until": "2026-09-30T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZi6MAH"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDWQzMAP",
     "code": "S-00007621",
     "title": "令和５年度病院勤務者勤務環境改善事業・救急医療体制強化事業【仕入控除税額報告】",
@@ -765,6 +778,19 @@
     "accepts_from": "2026-09-25T01:00:00Z",
     "accepts_until": "2026-10-26T03:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdl2MAD"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ000003EZsDUAW",
+    "code": "S-00009848",
+    "title": "令和８年度「水力発電導入促進支援事業費補助金（事業性評価支援事業）」（新規事業　追加公募分）",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 20000000,
+    "accepts_from": "2026-09-28T00:00:00Z",
+    "accepts_until": "2026-10-28T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003EZsDUAW"
   },
   {
     "source": "jgrants",
