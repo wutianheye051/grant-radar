@@ -1,31 +1,27 @@
 # 受付中の公募一覧
 
-最終更新: 2026-09-28 02:15 (UTC)  
-件数: 234  
-前回からの差分: 新規 1 / 更新 1 / 掲載終了 75
+最終更新: 2026-09-29 03:00 (UTC)  
+件数: 232  
+前回からの差分: 新規 2 / 更新 1 / 掲載終了 79
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
 
 ## 新着
 
-- [令和８年度「水力発電導入促進支援事業費補助金（事業性評価支援事業）」（新規事業　追加公募分）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003EZsDUAW)（〜2026-10-28）
+- [情報通信利用促進支援事業費補助金「先進的設備等を活用した放送コンテンツ製作促進事業」三次公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003cYWnUAM)（〜2026-10-05）
+- [令和８年度第２回中小企業デジタル導入促進補助事業](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ZH5uUAG)（〜2027-01-29）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-09-28 | [「デジタル社会の将来像の実現に向けた技術課題及び社会実装方策に関する調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeNDMA1) | — | 全国 | — |
-| 2026-09-28 | [【令和８年度・第４回】INPIT外国出願補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe3zMAD) | INPIT外国出願補助金 | 全国 | 3,000,000円 |
-| 2026-09-28 | [【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX) | — | 全国 | 40,000,000円 |
-| 2026-09-29 | [2026年度「木質バイオマス燃料等の安定的・効率的な供給・利用システム構築支援事業」の第２回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtWMAT) | — | 全国 | — |
 | 2026-09-29 | [令和８年度　水力発電導入促進支援事業費補助金（既存設備有効活用強化支援事業）公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYcpMAH) | — | 全国 | 1,474,350,000円 |
 | 2026-09-30 | [東京都商店街デジタル化推進事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdgEMAT) | — | 東京都 | 15,000,000円 |
 | 2026-09-30 | [「GXイノベーション・エコシステム構築事業推進に向けたフロンティア領域の探索・重点支援のためのマネジメント手法の構築」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDcy9MAD) | P24012_フロンティア領域の探索・重点支援のためのＧＸイノベーション・エコシステム構築事業推進に係る検討 | 全国 | — |
 | 2026-09-30 | [「GX分野の大企業等のスタートアップ連携・調達加速化事業／市場創出及び本格調達・購買の実現可能性の検証（GX_CPP）」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdmLMAT) | — | 全国 | — |
 | 2026-09-30 | [「ディープテック・スタートアップ支援基金／大企業等のスタートアップ連携・調達加速化事業／市場創出及び本格調達・購買の実現可能性の検証（CPP）」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdmGMAT) | — | 全国 | — |
 | 2026-09-30 | [「情報基盤システムの基本構想に関する分析調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTjMAL) | — | 全国 | — |
-| 2026-09-30 | [「脱炭素化・エネルギー転換に資する我が国技術の国際実証事業／普及促進事業／グローバルな液化水素サプライチェーン構築に向けた我が国技術の適用可能性等調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeY5MAL) | — | 全国 | — |
 | 2026-09-30 | [地域社会ＤＸ推進パッケージ事業（補助事業）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdjzMAD) | — | 全国 | — |
 | 2026-09-30 | [【第２回】中東情勢による原材料価格高騰に伴う経営基盤安定化緊急対策事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe9hMAD) | — | 東京都 | 20,000,000円 |
 | 2026-09-30 | [「賃上げ環境整備補助金2026」](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYr0MAH) | — | 北海道 | 3,000,000円 |
@@ -45,11 +41,13 @@
 | 2026-09-30 | [令和8年度 高度人材インターンシップ受入支援費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZi6MAH) | — | 東京都 | 5,000円 |
 | 2026-09-30 | [令和５年度病院勤務者勤務環境改善事業・救急医療体制強化事業【仕入控除税額報告】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDWQzMAP) | — | 東京都 | — |
 | 2026-10-02 | [「2026年度NEDO情報セキュリティ監査業務」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeT0MAL) | — | 全国 | — |
+| 2026-10-02 | [「脱炭素化・エネルギー転換に資する我が国技術の国際実証事業／普及促進事業／グローバルな液化水素サプライチェーン構築に向けた我が国技術の適用可能性等調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeY5MAL) | — | 全国 | — |
 | 2026-10-02 | [令和8年度当初予算　二次公募　民間企業等による再エネの導入及び地域共生加速化事業のうち、ストレージパリティの達成に向けた太陽光発電設備等の価格低減促進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeSJMA1) | — | 全国 | 60,000,000円 |
 | 2026-10-02 | [×令和６年度地域医療勤務環境改善体制整備特別事業【仕入控除税額報告】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDW2EMAX) | — | 東京都 | — |
 | 2026-10-02 | [【追加募集】神奈川県障害福祉サービス事業所等及び障害福祉施設等に対するサービス継続支援事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003BzWHUA0) | — | 神奈川県 | — |
 | 2026-10-05 | [「地熱ポテンシャル高度利活用技術開発」の追加公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdoxMAD) | — | 全国 | — |
 | 2026-10-05 | [「風車生産技術研究開発」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe8tMAD) | — | 全国 | — |
+| 2026-10-05 | [情報通信利用促進支援事業費補助金「先進的設備等を活用した放送コンテンツ製作促進事業」三次公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003cYWnUAM) | — | 全国 | 150,000,000円 |
 | 2026-10-05 | [経済安全保障重要技術育成プログラム／航空機エンジン向け先進材料技術の開発・実証/研究開発項目〔3〕「国産ニッケル基超合金における評価システム基盤整備」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdonMAD) | — | 全国 | — |
 | 2026-10-07 | [「カーボンリサイクル・火力発電の脱炭素化技術等国際協力事業／カーボンマネジメントに係る国際連携事業／カーボンリサイクル関連技術及び脱炭素化技術等の海外展開可能性の調査」の公募について](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeZLMA1) | — | 全国 | — |
 | 2026-10-07 | [令和８年度酒類業振興支援事業費補助金（第５期）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdRmMAL) | — | 北海道 / 青森県 / 岩手県 / 宮城県 / 秋田県 / 山形県 / 福島県 / 茨城県 / 栃木県 / 群馬県 / 埼玉県 / 新潟県 / 長野県 / 沖縄県 / 千葉県 / 東京都 / 神奈川県 / 山梨県 / 富山県 / 石川県 / 福井県 / 岐阜県 / 静岡県 / 愛知県 / 三重県 / 滋賀県 / 京都府 / 大阪府 / 兵庫県 / 奈良県 / 和歌山県 / 鳥取県 / 島根県 / 岡山県 / 広島県 / 山口県 / 徳島県 / 香川県 / 愛媛県 / 高知県 / 福岡県 / 佐賀県 / 長崎県 / 熊本県 / 大分県 / 宮崎県 / 鹿児島県 | 15,000,000円 |
@@ -135,6 +133,7 @@
 | 2027-01-29 | [ゼロエミッション実現に向けた経営推進支援事業 助成金](https://www.jgrants-portal.go.jp/subsidy/a0W5h00000ZuemGEAR) | — | 東京都 | 15,000,000円 |
 | 2027-01-29 | [令和７年度（補正）　商用車等の電動化促進事業（建設機械）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXRpMAP) | — | 全国 / 北海道 / 青森県 / 岩手県 / 宮城県 / 秋田県 / 山形県 / 福島県 / 茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 新潟県 / 山梨県 / 長野県 / 富山県 / 石川県 / 福井県 / 岐阜県 / 静岡県 / 愛知県 / 三重県 / 滋賀県 / 京都府 / 大阪府 / 兵庫県 / 奈良県 / 和歌山県 / 鳥取県 / 島根県 / 岡山県 / 広島県 / 山口県 / 徳島県 / 香川県 / 愛媛県 / 高知県 / 福岡県 / 佐賀県 / 長崎県 / 熊本県 / 大分県 / 宮崎県 / 鹿児島県 / 沖縄県 | 1,431,000,000円 |
 | 2027-01-29 | [デジタル証券（セキュリティトークン）市場拡大促進事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDMSsMAP) | — | 東京都 | 7,500,000円 |
+| 2027-01-29 | [令和８年度第２回中小企業デジタル導入促進補助事業](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ZH5uUAG) | — | 東京都 | 1,500,000円 |
 | 2027-01-31 | [岡崎ものづくり支援補助金（依頼試験事業）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYW3MAP) | — | 愛知県 | 500,000円 |
 | 2027-01-31 | [岡崎ものづくり支援補助金（共同研究事業）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYW2MAP) | — | 愛知県 | 500,000円 |
 | 2027-02-01 | [【大阪府和泉市】再エネ・省エネ機器設置促進事業補助金（事業者用）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYvPMAX) | — | 大阪府 | — |

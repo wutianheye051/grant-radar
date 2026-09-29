@@ -1,58 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDeNDMA1",
-    "code": "S-00009754",
-    "title": "「デジタル社会の将来像の実現に向けた技術課題及び社会実装方策に関する調査」の公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-09-08T01:00:00Z",
-    "accepts_until": "2026-09-28T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeNDMA1"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDe3zMAD",
-    "code": "S-00009687",
-    "title": "【令和８年度・第４回】INPIT外国出願補助金",
-    "institution": "INPIT外国出願補助金",
-    "target_area": "全国",
-    "target_employees": "300名以下",
-    "max_amount": 3000000,
-    "accepts_from": "2026-09-07T01:00:00Z",
-    "accepts_until": "2026-09-28T08:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe3zMAD"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDTzMMAX",
-    "code": "S-00007152",
-    "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（19次締切）",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 40000000,
-    "accepts_from": "2025-02-14T08:00:00Z",
-    "accepts_until": "2026-09-28T08:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDTzMMAX"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDdtWMAT",
-    "code": "S-00009641",
-    "title": "2026年度「木質バイオマス燃料等の安定的・効率的な供給・利用システム構築支援事業」の第２回公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-08-20T01:00:00Z",
-    "accepts_until": "2026-09-29T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtWMAT"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDYcpMAH",
     "code": "S-00008881",
     "title": "令和８年度　水力発電導入促進支援事業費補助金（既存設備有効活用強化支援事業）公募",
@@ -128,19 +76,6 @@
     "accepts_from": "2026-09-14T01:00:00Z",
     "accepts_until": "2026-09-30T03:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTjMAL"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDeY5MAL",
-    "code": "S-00009809",
-    "title": "「脱炭素化・エネルギー転換に資する我が国技術の国際実証事業／普及促進事業／グローバルな液化水素サプライチェーン構築に向けた我が国技術の適用可能性等調査」の公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-09-18T01:00:00Z",
-    "accepts_until": "2026-09-30T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeY5MAL"
   },
   {
     "source": "jgrants",
@@ -391,6 +326,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDeY5MAL",
+    "code": "S-00009809",
+    "title": "「脱炭素化・エネルギー転換に資する我が国技術の国際実証事業／普及促進事業／グローバルな液化水素サプライチェーン構築に向けた我が国技術の適用可能性等調査」の公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-09-18T01:00:00Z",
+    "accepts_until": "2026-10-02T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeY5MAL"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDeSJMA1",
     "code": "S-00009771",
     "title": "令和8年度当初予算　二次公募　民間企業等による再エネの導入及び地域共生加速化事業のうち、ストレージパリティの達成に向けた太陽光発電設備等の価格低減促進事業",
@@ -453,6 +401,19 @@
     "accepts_from": "2026-09-04T01:00:00Z",
     "accepts_until": "2026-10-05T03:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe8tMAD"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ000003cYWnUAM",
+    "code": "S-00009907",
+    "title": "情報通信利用促進支援事業費補助金「先進的設備等を活用した放送コンテンツ製作促進事業」三次公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 150000000,
+    "accepts_from": "2026-09-27T15:00:00Z",
+    "accepts_until": "2026-10-05T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003cYWnUAM"
   },
   {
     "source": "jgrants",
@@ -1558,6 +1519,19 @@
     "accepts_from": "2026-04-09T15:00:00Z",
     "accepts_until": "2027-01-29T14:59:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDMSsMAP"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ000003ZH5uUAG",
+    "code": "S-00009898",
+    "title": "令和８年度第２回中小企業デジタル導入促進補助事業",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 1500000,
+    "accepts_from": "2026-09-28T05:00:00Z",
+    "accepts_until": "2027-01-29T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ZH5uUAG"
   },
   {
     "source": "jgrants",
