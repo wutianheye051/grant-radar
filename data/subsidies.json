@@ -1,32 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDe6OMAT",
-    "code": "S-00009715",
-    "title": "【岡山】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-    "institution": null,
-    "target_area": "岡山県",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 6000000,
-    "accepts_from": "2026-08-31T15:00:00Z",
-    "accepts_until": "2026-10-01T14:59:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6OMAT"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDe66MAD",
-    "code": "S-00009702",
-    "title": "【長野】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-    "institution": null,
-    "target_area": "長野県",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 6000000,
-    "accepts_from": "2026-08-31T15:00:00Z",
-    "accepts_until": "2026-10-01T14:59:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe66MAD"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDeT0MAL",
     "code": "S-00009776",
     "title": "「2026年度NEDO情報セキュリティ監査業務」の公募",
@@ -1002,6 +976,32 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WfQ000003N8hVUAS",
+    "code": "S-00009897",
+    "title": "令和８年度 脱炭素成長型経済構造移行推進対策費補助金（自律型資源 循環システム強靱化促進事業）（事前着手届出）【二次公募】",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-10-01T06:00:00Z",
+    "accepts_until": "2026-11-06T06:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N8hVUAS"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ000003JPtqUAG",
+    "code": "S-00009879",
+    "title": "令和８年度 脱炭素成長型経済構造移行推進対策費補助金（自律型資源循環システム強靱化促進事業）【二次公募】",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 20000000000,
+    "accepts_from": "2026-10-01T06:00:00Z",
+    "accepts_until": "2026-11-06T06:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003JPtqUAG"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDXkJMAX",
     "code": "S-00008191",
     "title": "「グリーンイノベーション基金事業／次世代型地熱技術の開発」の公募",
@@ -1106,6 +1106,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WfQ000003ENsfUAG",
+    "code": "S-00009846",
+    "title": "【三次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-09-25T00:00:00Z",
+    "accepts_until": "2026-11-20T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ENsfUAG"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDY5GMAX",
     "code": "S-00008435",
     "title": "令和７年度補正 ディマンドリスポンスの拡大に向けたIoT化推進事業",
@@ -1194,19 +1207,6 @@
     "accepts_from": "2026-06-01T00:00:00Z",
     "accepts_until": "2026-11-30T08:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZIAMA5"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WfQ000003ENsfUAG",
-    "code": "S-00009846",
-    "title": "【三次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-09-25T00:00:00Z",
-    "accepts_until": "2026-11-30T14:59:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ENsfUAG"
   },
   {
     "source": "jgrants",
