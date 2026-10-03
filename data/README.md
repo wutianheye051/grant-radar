@@ -1,31 +1,26 @@
 # 受付中の公募一覧
 
-最終更新: 2026-10-02 02:50 (UTC)  
-件数: 202  
-前回からの差分: 新規 2 / 更新 1 / 掲載終了 122
+最終更新: 2026-10-03 02:37 (UTC)  
+件数: 199  
+前回からの差分: 新規 7 / 更新 0 / 掲載終了 131
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
 
 ## 新着
 
-- [令和８年度 脱炭素成長型経済構造移行推進対策費補助金（自律型資源 循環システム強靱化促進事業）（事前着手届出）【二次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N8hVUAS)（〜2026-11-06）
-- [令和８年度 脱炭素成長型経済構造移行推進対策費補助金（自律型資源循環システム強靱化促進事業）【二次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003JPtqUAG)（〜2026-11-06）
+- [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_専門家活用枠(買い手支援類型／売り手支援類型)](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RVUA0)（〜2026-11-06）
+- [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_廃業・再チャレンジ枠](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RbUAK)（〜2026-11-06）
+- [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_事業承継促進枠](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RaUAK)（〜2026-11-06）
+- [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_専門家活用枠(小規模売り手支援類型)](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RZUA0)（〜2026-11-06）
+- [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_PMI推進枠(事業統合投資類型)](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RYUA0)（〜2026-11-06）
+- [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_PMI推進枠(PMI専門家活用類型)](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RXUA0)（〜2026-11-06）
+- [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_専門家活用枠(買い手支援類型-100億企業特例)](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RWUA0)（〜2026-11-06）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-10-02 | [「2026年度NEDO情報セキュリティ監査業務」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeT0MAL) | — | 全国 | — |
-| 2026-10-02 | [「脱炭素化・エネルギー転換に資する我が国技術の国際実証事業／普及促進事業／グローバルな液化水素サプライチェーン構築に向けた我が国技術の適用可能性等調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeY5MAL) | — | 全国 | — |
-| 2026-10-02 | [令和8年度当初予算　二次公募　民間企業等による再エネの導入及び地域共生加速化事業のうち、ストレージパリティの達成に向けた太陽光発電設備等の価格低減促進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeSJMA1) | — | 全国 | 60,000,000円 |
-| 2026-10-02 | [×令和６年度地域医療勤務環境改善体制整備特別事業【仕入控除税額報告】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDW2EMAX) | — | 東京都 | — |
-| 2026-10-02 | [【和歌山】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6GMAT) | — | 和歌山県 | 6,000,000円 |
-| 2026-10-02 | [【滋賀】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6BMAT) | — | 滋賀県 | 6,000,000円 |
-| 2026-10-02 | [【石川】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdusMAD) | — | 石川県 | 6,000,000円 |
-| 2026-10-02 | [【群馬】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdulMAD) | — | 群馬県 | 6,000,000円 |
-| 2026-10-02 | [【追加募集】神奈川県障害福祉サービス事業所等及び障害福祉施設等に対するサービス継続支援事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003BzWHUA0) | — | 神奈川県 | — |
-| 2026-10-02 | [【鳥取】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6HMAT) | — | 鳥取県 | 6,000,000円 |
 | 2026-10-03 | [【奈良】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6FMAT) | — | 奈良県 | 6,000,000円 |
 | 2026-10-03 | [【福井】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe64MAD) | — | 福井県 | 6,000,000円 |
 | 2026-10-03 | [【福岡】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6VMAT) | — | 福岡県 | 6,000,000円 |
@@ -93,6 +88,13 @@
 | 2026-11-04 | [令和７年度補正　再生可能エネルギー導入拡大・系統用蓄電池等電力貯蔵システム導入支援事業費補助金　系統用蓄電システム等導入支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe4JMAT) | — | 全国 | 4,000,000,000円 |
 | 2026-11-06 | [令和８年度 脱炭素成長型経済構造移行推進対策費補助金（自律型資源 循環システム強靱化促進事業）（事前着手届出）【二次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N8hVUAS) | — | 全国 | — |
 | 2026-11-06 | [令和８年度 脱炭素成長型経済構造移行推進対策費補助金（自律型資源循環システム強靱化促進事業）【二次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003JPtqUAG) | — | 全国 | 20,000,000,000円 |
+| 2026-11-06 | [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_PMI推進枠(PMI専門家活用類型)](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RXUA0) | — | 全国 | 1,500,000円 |
+| 2026-11-06 | [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_PMI推進枠(事業統合投資類型)](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RYUA0) | — | 全国 | 10,000,000円 |
+| 2026-11-06 | [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_事業承継促進枠](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RaUAK) | — | 全国 | 10,000,000円 |
+| 2026-11-06 | [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_専門家活用枠(小規模売り手支援類型)](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RZUA0) | — | 全国 | 4,500,000円 |
+| 2026-11-06 | [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_専門家活用枠(買い手支援類型-100億企業特例)](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RWUA0) | — | 全国 | 20,000,000円 |
+| 2026-11-06 | [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_専門家活用枠(買い手支援類型／売り手支援類型)](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RVUA0) | — | 全国 | 8,000,000円 |
+| 2026-11-06 | [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_廃業・再チャレンジ枠](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RbUAK) | — | 全国 | 3,000,000円 |
 | 2026-11-10 | [「グリーンイノベーション基金事業／次世代型地熱技術の開発」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkJMAX) | — | 全国 | — |
 | 2026-11-13 | [令和８年度_Scope3排出量削減のための企業間連携による省CO2設備投資促進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDNDnMAP) | — | 全国 | 1,500,000,000円 |
 | 2026-11-13 | [産業車両等の脱炭素化促進事業のうち、空港における脱炭素化促進事業②空港におけるEV・FCV型車両導入事業（二酸化炭素排出抑制対策事業費等補助金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZDHMA5) | — | 全国 | — |
