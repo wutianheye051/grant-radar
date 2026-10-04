@@ -1,29 +1,16 @@
 # 受付中の公募一覧
 
-最終更新: 2026-10-03 02:37 (UTC)  
-件数: 199  
-前回からの差分: 新規 7 / 更新 0 / 掲載終了 131
+最終更新: 2026-10-04 03:08 (UTC)  
+件数: 196  
+前回からの差分: 新規 0 / 更新 0 / 掲載終了 134
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
-
-## 新着
-
-- [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_専門家活用枠(買い手支援類型／売り手支援類型)](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RVUA0)（〜2026-11-06）
-- [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_廃業・再チャレンジ枠](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RbUAK)（〜2026-11-06）
-- [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_事業承継促進枠](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RaUAK)（〜2026-11-06）
-- [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_専門家活用枠(小規模売り手支援類型)](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RZUA0)（〜2026-11-06）
-- [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_PMI推進枠(事業統合投資類型)](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RYUA0)（〜2026-11-06）
-- [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_PMI推進枠(PMI専門家活用類型)](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RXUA0)（〜2026-11-06）
-- [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_専門家活用枠(買い手支援類型-100億企業特例)](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RWUA0)（〜2026-11-06）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-10-03 | [【奈良】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6FMAT) | — | 奈良県 | 6,000,000円 |
-| 2026-10-03 | [【福井】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe64MAD) | — | 福井県 | 6,000,000円 |
-| 2026-10-03 | [【福岡】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6VMAT) | — | 福岡県 | 6,000,000円 |
 | 2026-10-05 | [「地熱ポテンシャル高度利活用技術開発」の追加公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdoxMAD) | — | 全国 | — |
 | 2026-10-05 | [「風車生産技術研究開発」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe8tMAD) | — | 全国 | — |
 | 2026-10-05 | [情報通信利用促進支援事業費補助金「先進的設備等を活用した放送コンテンツ製作促進事業」三次公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003cYWnUAM) | — | 全国 | 150,000,000円 |

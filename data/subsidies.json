@@ -1,45 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDe6FMAT",
-    "code": "S-00009711",
-    "title": "【奈良】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-    "institution": null,
-    "target_area": "奈良県",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 6000000,
-    "accepts_from": "2026-08-31T15:00:00Z",
-    "accepts_until": "2026-10-03T14:59:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6FMAT"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDe64MAD",
-    "code": "S-00009700",
-    "title": "【福井】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-    "institution": null,
-    "target_area": "福井県",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 6000000,
-    "accepts_from": "2026-08-31T15:00:00Z",
-    "accepts_until": "2026-10-03T14:59:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe64MAD"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDe6VMAT",
-    "code": "S-00009722",
-    "title": "【福岡】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-    "institution": null,
-    "target_area": "福岡県",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 6000000,
-    "accepts_from": "2026-08-31T15:00:00Z",
-    "accepts_until": "2026-10-03T14:59:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6VMAT"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDdoxMAD",
     "code": "S-00009613",
     "title": "「地熱ポテンシャル高度利活用技術開発」の追加公募",
