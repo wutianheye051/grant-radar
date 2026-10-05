@@ -1,11 +1,15 @@
 # 受付中の公募一覧
 
-最終更新: 2026-10-04 03:08 (UTC)  
-件数: 196  
-前回からの差分: 新規 0 / 更新 0 / 掲載終了 134
+最終更新: 2026-10-05 02:42 (UTC)  
+件数: 197  
+前回からの差分: 新規 1 / 更新 0 / 掲載終了 134
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
+
+## 新着
+
+- [交通システムの省CO2 化に向けた設備整備事業（鉄道事業等におけるネットワーク型低炭素化促進事業）（三次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003cAFxUAM)（〜2026-12-23）
 
 ## すべて
 
@@ -110,6 +114,7 @@
 | 2026-12-14 | [【令和８年度】INPIT外国出願補助金（中間手続補助）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXmVMAX) | INPIT外国出願補助金（中間手続補助） | 全国 | 500,000円 |
 | 2026-12-17 | [中小企業人材確保のための奨学金返還支援事業【令和８年度企業登録】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX1KMAX) | — | 東京都 | — |
 | 2026-12-18 | [INPIT事業再編計画支援事業補助金（令和８年度）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYBxMAP) | INPIT事業再編計画支援事業補助金 | 全国 | 6,500,000円 |
+| 2026-12-23 | [交通システムの省CO2 化に向けた設備整備事業（鉄道事業等におけるネットワーク型低炭素化促進事業）（三次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003cAFxUAM) | — | 全国 | — |
 | 2026-12-25 | [【福岡県宗像市】令和8年度 宗像市がんばる中小企業者応援補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDddbMAD) | — | 福岡県 | — |
 | 2026-12-25 | [【福岡県宗像市】令和8年度 食のまち宗像推進補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDddZMAT) | — | 福岡県 | — |
 | 2026-12-25 | [【山形県】令和8年度地域主導型再生可能エネルギー導入支援事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDddXMAT) | — | 山形県 | 240,000円 |
