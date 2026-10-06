@@ -1,58 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDdoxMAD",
-    "code": "S-00009613",
-    "title": "「地熱ポテンシャル高度利活用技術開発」の追加公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-08-31T01:00:00Z",
-    "accepts_until": "2026-10-05T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdoxMAD"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDe8tMAD",
-    "code": "S-00009735",
-    "title": "「風車生産技術研究開発」の公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-09-04T01:00:00Z",
-    "accepts_until": "2026-10-05T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe8tMAD"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WfQ000003cYWnUAM",
-    "code": "S-00009907",
-    "title": "情報通信利用促進支援事業費補助金「先進的設備等を活用した放送コンテンツ製作促進事業」三次公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 150000000,
-    "accepts_from": "2026-09-27T15:00:00Z",
-    "accepts_until": "2026-10-05T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003cYWnUAM"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDdonMAD",
-    "code": "S-00009612",
-    "title": "経済安全保障重要技術育成プログラム／航空機エンジン向け先進材料技術の開発・実証/研究開発項目〔3〕「国産ニッケル基超合金における評価システム基盤整備」の公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-09-04T05:00:00Z",
-    "accepts_until": "2026-10-05T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdonMAD"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDeZLMA1",
     "code": "S-00009815",
     "title": "「カーボンリサイクル・火力発電の脱炭素化技術等国際協力事業／カーボンマネジメントに係る国際連携事業／カーボンリサイクル関連技術及び脱炭素化技術等の海外展開可能性の調査」の公募について",
@@ -235,6 +183,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDdoxMAD",
+    "code": "S-00009613",
+    "title": "「地熱ポテンシャル高度利活用技術開発」の追加公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-08-31T01:00:00Z",
+    "accepts_until": "2026-10-15T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdoxMAD"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WfQ000003BrAXUA0",
     "code": "S-00009821",
     "title": "【令和8年度】DX型CO2削減対策実行支援事業（二次公募）",
@@ -258,6 +219,19 @@
     "accepts_from": "2026-09-11T03:00:00Z",
     "accepts_until": "2026-10-15T03:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003BpWvUAK"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDdonMAD",
+    "code": "S-00009612",
+    "title": "経済安全保障重要技術育成プログラム／航空機エンジン向け先進材料技術の開発・実証/研究開発項目〔3〕「国産ニッケル基超合金における評価システム基盤整備」の公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-09-04T05:00:00Z",
+    "accepts_until": "2026-10-15T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdonMAD"
   },
   {
     "source": "jgrants",
