@@ -1,23 +1,20 @@
 # 受付中の公募一覧
 
-最終更新: 2026-10-08 03:16 (UTC)  
-件数: 194  
-前回からの差分: 新規 2 / 更新 0 / 掲載終了 140
+最終更新: 2026-10-09 03:22 (UTC)  
+件数: 193  
+前回からの差分: 新規 1 / 更新 0 / 掲載終了 142
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
 
 ## 新着
 
-- [令和８年度都市ガス分野の災害対応・レジリエンス強化に係る支援事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDc0YMAT)（〜2026-10-28）
-- [令和８年度酒類業振興支援事業費補助金（第６期）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003iZLKUA2)（〜2026-10-28）
+- [令和８年度 第３回 若手・女性リーダー応援プログラム助成事業/商店街起業・承継支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeT5MAL)（〜2026-10-30）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-10-09 | [令和７年度(補正予算) ゼロエミッション船等の建造促進事業 2次公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdnJMAT) | — | 全国 | — |
-| 2026-10-09 | [令和７年度（補正予算）地域共生を目指したデータセンター脱炭素化設備導入支援事業（三次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeS9MAL) | — | 全国 | — |
 | 2026-10-09 | [令和８年度　ＺＥＢ実証事業（三次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003CVHdUAO) | — | 全国 | 700,000,000円 |
 | 2026-10-09 | [伝統的工芸品産業支援補助金（令和8年度第2回災害復興事業）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeQmMAL) | — | 新潟県 / 福井県 / 富山県 / 石川県 | 10,000,000円 |
 | 2026-10-09 | [【島根】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6IMAT) | — | 島根県 | 6,000,000円 |
@@ -55,6 +52,7 @@
 | 2026-10-28 | [【高知】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6UMAT) | — | 高知県 | 6,000,000円 |
 | 2026-10-28 | [令和８年度都市ガス分野の災害対応・レジリエンス強化に係る支援事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDc0YMAT) | — | 全国 | 130,502,000円 |
 | 2026-10-29 | [【山形】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDduhMAD) | — | 山形県 | 6,000,000円 |
+| 2026-10-30 | [令和８年度 第３回 若手・女性リーダー応援プログラム助成事業/商店街起業・承継支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeT5MAL) | — | 東京都 | 8,440,000円 |
 | 2026-10-30 | [【令和８年度】二酸化炭素排出抑制対策事業費等補助金（再エネ等由来水素を活用した自立・分散型エネルギーシステム構築等事業）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaotMAD) | — | 全国 | 300,000,000円 |
 | 2026-10-30 | [産業車両等の脱炭素化促進事業のうち、港湾における脱炭素化促進事業（二酸化炭素排出抑制対策事業費等補助金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZ04MAH) | — | 全国 | 100,000,000円 |
 | 2026-10-30 | [産業車両等の脱炭素化促進事業のうち、空港における脱炭素化促進事業① 空港における再エネ活用型GPU等導入支援（二酸化炭素排出抑制対策事業費等補助金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYzVMAX) | — | 全国 | 150,000,000円 |

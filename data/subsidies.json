@@ -1,32 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDdnJMAT",
-    "code": "S-00009589",
-    "title": "令和７年度(補正予算) ゼロエミッション船等の建造促進事業 2次公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-08-21T05:00:00Z",
-    "accepts_until": "2026-10-09T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdnJMAT"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDeS9MAL",
-    "code": "S-00009770",
-    "title": "令和７年度（補正予算）地域共生を目指したデータセンター脱炭素化設備導入支援事業（三次公募）",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-09-01T05:00:00Z",
-    "accepts_until": "2026-10-09T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeS9MAL"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WfQ000003CVHdUAO",
     "code": "S-00009826",
     "title": "令和８年度　ＺＥＢ実証事業（三次公募）",
@@ -505,6 +479,19 @@
     "accepts_from": "2026-08-31T15:00:00Z",
     "accepts_until": "2026-10-29T14:59:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDduhMAD"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDeT5MAL",
+    "code": "S-00009777",
+    "title": "令和８年度 第３回 若手・女性リーダー応援プログラム助成事業/商店街起業・承継支援事業",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 8440000,
+    "accepts_from": "2026-10-09T00:00:00Z",
+    "accepts_until": "2026-10-30T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeT5MAL"
   },
   {
     "source": "jgrants",
