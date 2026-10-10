@@ -1,45 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WfQ000003CVHdUAO",
-    "code": "S-00009826",
-    "title": "令和８年度　ＺＥＢ実証事業（三次公募）",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 700000000,
-    "accepts_from": "2026-09-18T01:00:00Z",
-    "accepts_until": "2026-10-09T08:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003CVHdUAO"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDeQmMAL",
-    "code": "S-00009766",
-    "title": "伝統的工芸品産業支援補助金（令和8年度第2回災害復興事業）",
-    "institution": null,
-    "target_area": "新潟県 / 福井県 / 富山県 / 石川県",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 10000000,
-    "accepts_from": "2026-08-28T05:00:00Z",
-    "accepts_until": "2026-10-09T08:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeQmMAL"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDe6IMAT",
-    "code": "S-00009714",
-    "title": "【島根】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-    "institution": null,
-    "target_area": "島根県",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 6000000,
-    "accepts_from": "2026-08-31T15:00:00Z",
-    "accepts_until": "2026-10-09T14:59:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6IMAT"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDe6PMAT",
     "code": "S-00009716",
     "title": "【広島】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
@@ -50,6 +11,19 @@
     "accepts_from": "2026-08-31T15:00:00Z",
     "accepts_until": "2026-10-10T14:59:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6PMAT"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0W5h00000UcWrwEAF",
+    "code": "S-00004124",
+    "title": "東京都専門医認定支援事業補助金",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-09-02T00:00:00Z",
+    "accepts_until": "2026-10-12T15:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UcWrwEAF"
   },
   {
     "source": "jgrants",
