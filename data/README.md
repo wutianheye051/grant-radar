@@ -1,8 +1,8 @@
 # 受付中の公募一覧
 
-最終更新: 2026-10-10 03:02 (UTC)  
-件数: 191  
-前回からの差分: 新規 0 / 更新 1 / 掲載終了 144
+最終更新: 2026-10-11 02:33 (UTC)  
+件数: 190  
+前回からの差分: 新規 0 / 更新 0 / 掲載終了 145
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
@@ -11,7 +11,6 @@
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-10-10 | [【広島】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6PMAT) | — | 広島県 | 6,000,000円 |
 | 2026-10-12 | [東京都専門医認定支援事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UcWrwEAF) | — | 東京都 | — |
 | 2026-10-13 | [【秋田】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdugMAD) | — | 秋田県 | 6,000,000円 |
 | 2026-10-14 | [令和８年度展示会出展助成事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkTMAX) | — | 東京都 | 1,500,000円 |
