@@ -1,23 +1,20 @@
 # 受付中の公募一覧
 
-最終更新: 2026-10-13 04:12 (UTC)  
+最終更新: 2026-10-14 02:25 (UTC)  
 件数: 192  
-前回からの差分: 新規 3 / 更新 0 / 掲載終了 146
+前回からの差分: 新規 1 / 更新 0 / 掲載終了 147
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
 
 ## 新着
 
-- [令和８年度　医療分野における業務効率化・職場環境改善支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003l6UrUAI)（〜2027-05-31）
-- [【令和８年度】先進的な資源循環投資促進事業（第２回）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDapWMAT)（〜2026-11-06）
-- [令和8年度第2回 事業承継を契機とした成長支援事業(販路開拓コース)](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtCMAT)（〜2026-11-12）
+- [「ポスト5G情報通信システム基盤強化研究開発事業（社会課題解決に向けた量子コンピュータ次世代機開発・実証の加速）」（g12-2：部素材）の追加公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003CYIjUAO)（〜2026-11-16）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-10-13 | [【秋田】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdugMAD) | — | 秋田県 | 6,000,000円 |
 | 2026-10-14 | [令和８年度展示会出展助成事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkTMAX) | — | 東京都 | 1,500,000円 |
 | 2026-10-14 | [【静岡】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe68MAD) | — | 静岡県 | 6,000,000円 |
 | 2026-10-15 | [「再生可能エネルギー熱利用に係る導入可能性等技術動向等調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdMRMA1) | P24010_再生可能エネルギー熱の面的利用システム構築に向けた技術開発 | 全国 | — |
@@ -87,6 +84,7 @@
 | 2026-11-14 | [【佐賀】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6WMAT) | — | 佐賀県 | 6,000,000円 |
 | 2026-11-15 | [【京都】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6CMAT) | — | 京都府 | 6,000,000円 |
 | 2026-11-15 | [令和8年度東京都臨床調査個人票電子化等推進事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeUgMAL) | — | 東京都 | 50,000円 |
+| 2026-11-16 | [「ポスト5G情報通信システム基盤強化研究開発事業（社会課題解決に向けた量子コンピュータ次世代機開発・実証の加速）」（g12-2：部素材）の追加公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003CYIjUAO) | — | 全国 | — |
 | 2026-11-20 | [令和７年度（補正予算）地域脱炭素実現に向けた具体的施策実装支援事業（四次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3OMAT) | — | 全国 | — |
 | 2026-11-20 | [令和８年度地域脱炭素実現に向けた具体的施策実装支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3YMAT) | — | 全国 | — |
 | 2026-11-20 | [【三次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ENsfUAG) | — | 全国 | — |
