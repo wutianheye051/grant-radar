@@ -1,22 +1,20 @@
 # 受付中の公募一覧
 
-最終更新: 2026-10-14 02:25 (UTC)  
-件数: 192  
-前回からの差分: 新規 1 / 更新 0 / 掲載終了 147
+最終更新: 2026-10-15 02:06 (UTC)  
+件数: 191  
+前回からの差分: 新規 1 / 更新 0 / 掲載終了 149
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
 
 ## 新着
 
-- [「ポスト5G情報通信システム基盤強化研究開発事業（社会課題解決に向けた量子コンピュータ次世代機開発・実証の加速）」（g12-2：部素材）の追加公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003CYIjUAO)（〜2026-11-16）
+- [令和８年度　東京都入退院時連携支援事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ePpBUAU)（〜2026-12-31）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-10-14 | [令和８年度展示会出展助成事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkTMAX) | — | 東京都 | 1,500,000円 |
-| 2026-10-14 | [【静岡】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe68MAD) | — | 静岡県 | 6,000,000円 |
 | 2026-10-15 | [「再生可能エネルギー熱利用に係る導入可能性等技術動向等調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdMRMA1) | P24010_再生可能エネルギー熱の面的利用システム構築に向けた技術開発 | 全国 | — |
 | 2026-10-15 | [「地熱ポテンシャル高度利活用技術開発」の追加公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdoxMAD) | — | 全国 | — |
 | 2026-10-15 | [【令和8年度】DX型CO2削減対策実行支援事業（二次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003BrAXUA0) | — | 全国 | 2,000,000円 |
@@ -123,6 +121,7 @@
 | 2026-12-30 | [令和７年度ＮＢＣ災害・テロ対策設備整備補助事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDQuHMAX) | — | 東京都 | 33,762,000円 |
 | 2026-12-31 | [令和７年度病院勤務者勤務環境改善事業・救急医療体制強化事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVm7MAH) | — | 東京都 | — |
 | 2026-12-31 | [令和８年_設備投資_事業化状況報告](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaTCMA1) | — | 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県 | 200,000,000円 |
+| 2026-12-31 | [令和８年度　東京都入退院時連携支援事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ePpBUAU) | — | 東京都 | 2,700,000円 |
 | 2027-01-14 | [中小企業の外国人従業員に対する研修等支援助成金（ウクライナ避難民採用企業コース）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDK7OMAX) | — | 東京都 | 500,000円 |
 | 2027-01-14 | [中小企業の外国人従業員に対する研修等支援助成金（一般コース）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDK7NMAX) | — | 東京都 | 250,000円 |
 | 2027-01-14 | [令和8年度 中小企業の外国人従業員に対する研修等支援助成金（ウクライナ避難民採用企業コース）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe4nMAD) | — | 東京都 | 500,000円 |
