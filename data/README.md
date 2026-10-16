@@ -1,26 +1,16 @@
 # 受付中の公募一覧
 
-最終更新: 2026-10-15 02:06 (UTC)  
-件数: 191  
-前回からの差分: 新規 1 / 更新 0 / 掲載終了 149
+最終更新: 2026-10-16 01:56 (UTC)  
+件数: 185  
+前回からの差分: 新規 0 / 更新 0 / 掲載終了 155
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
-
-## 新着
-
-- [令和８年度　東京都入退院時連携支援事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ePpBUAU)（〜2026-12-31）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-10-15 | [「再生可能エネルギー熱利用に係る導入可能性等技術動向等調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdMRMA1) | P24010_再生可能エネルギー熱の面的利用システム構築に向けた技術開発 | 全国 | — |
-| 2026-10-15 | [「地熱ポテンシャル高度利活用技術開発」の追加公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdoxMAD) | — | 全国 | — |
-| 2026-10-15 | [【令和8年度】DX型CO2削減対策実行支援事業（二次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003BrAXUA0) | — | 全国 | 2,000,000円 |
-| 2026-10-15 | [【令和8年度】省CO2型システムへの改修支援事業（三次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003BpWvUAK) | — | 全国 | 500,000,000円 |
-| 2026-10-15 | [経済安全保障重要技術育成プログラム／航空機エンジン向け先進材料技術の開発・実証/研究開発項目〔3〕「国産ニッケル基超合金における評価システム基盤整備」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdonMAD) | — | 全国 | — |
-| 2026-10-15 | [【福島】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDduiMAD) | — | 福島県 | 6,000,000円 |
 | 2026-10-16 | [「ポスト5G情報通信システム基盤強化研究開発事業／ロボティクス分野におけるソフトウェア開発基盤構築」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTZMA1) | — | 全国 | — |
 | 2026-10-16 | [「研究開発プロセスを起点とした動的なEBPMのための指標設計及びデータ活用戦略の策定に係る調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003F3K1UAK) | — | 全国 | — |
 | 2026-10-16 | [令和８年度_グリーンスローモビリティ等導入促進事業（二次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDKZFMA5) | — | 全国 | — |
