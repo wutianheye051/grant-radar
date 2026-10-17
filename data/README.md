@@ -1,25 +1,20 @@
 # 受付中の公募一覧
 
-最終更新: 2026-10-16 01:56 (UTC)  
-件数: 185  
-前回からの差分: 新規 0 / 更新 0 / 掲載終了 155
+最終更新: 2026-10-17 01:51 (UTC)  
+件数: 177  
+前回からの差分: 新規 1 / 更新 0 / 掲載終了 164
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
+
+## 新着
+
+- [【令和８年度】二酸化炭素排出抑制対策事業費等補助金（低炭素型建材活用新築ZEB支援事業）（三次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003lu8IUAQ)（〜2026-12-15）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-10-16 | [「ポスト5G情報通信システム基盤強化研究開発事業／ロボティクス分野におけるソフトウェア開発基盤構築」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTZMA1) | — | 全国 | — |
-| 2026-10-16 | [「研究開発プロセスを起点とした動的なEBPMのための指標設計及びデータ活用戦略の策定に係る調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003F3K1UAK) | — | 全国 | — |
-| 2026-10-16 | [令和８年度_グリーンスローモビリティ等導入促進事業（二次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDKZFMA5) | — | 全国 | — |
-| 2026-10-16 | [令和８年度データセンターのゼロエミッション化・レジリエンス強化促進事業（二次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeZuMAL) | — | 全国 | — |
-| 2026-10-16 | [⼩規模事業者持続化補助⾦＜⼀般型 災害⽀援枠（令和６年能登半島地震等）＞10次公募【商⼯会地区】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDWp3MAH) | — | 石川県 | 2,000,000円 |
-| 2026-10-16 | [⼩規模事業者持続化補助⾦＜⼀般型 災害支援枠（令和8年熊本地震）＞1次公募【商⼯会地区】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeYyMAL) | — | 熊本県 | 2,000,000円 |
-| 2026-10-16 | [小規模事業者持続化補助金＜一般型 災害支援枠（令和６年能登半島地震等）＞１０次公募【商工会議所地区】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdALMA1) | — | 石川県 | 2,000,000円 |
-| 2026-10-16 | [小規模事業者持続化補助金＜一般型 災害支援枠（令和８年熊本地震）＞１次公募【商工会議所地区】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeToMAL) | — | 熊本県 | 2,000,000円 |
-| 2026-10-16 | [ドローンを活用したツアー造成支援補助金](https://www.jgrants-portal.go.jp/subsidy/a0W5h00000ZueXcEAJ) | — | 東京都 | 5,000,000円 |
 | 2026-10-17 | [【茨城】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdujMAD) | — | 茨城県 | 6,000,000円 |
 | 2026-10-19 | [「地域未利用バイオマスを活用したバイオガスの産業熱利用推進に向けた動向調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeN8MAL) | — | 全国 | — |
 | 2026-10-19 | [「水素社会モデル構築高度化技術開発・実証事業」の第2回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeY0MAL) | — | 全国 | — |
@@ -93,6 +88,7 @@
 | 2026-12-01 | [【農林水産省】中山間地域所得確保推進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYDCMA5) | — | 全国 | 5,000,000円 |
 | 2026-12-03 | [令和８年度ゼロエミッション船等の導入支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbyjMAD) | — | 全国 | — |
 | 2026-12-14 | [【令和８年度】INPIT外国出願補助金（中間手続補助）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXmVMAX) | INPIT外国出願補助金（中間手続補助） | 全国 | 500,000円 |
+| 2026-12-15 | [【令和８年度】二酸化炭素排出抑制対策事業費等補助金（低炭素型建材活用新築ZEB支援事業）（三次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003lu8IUAQ) | — | 全国 | 500,000,000円 |
 | 2026-12-17 | [中小企業人材確保のための奨学金返還支援事業【令和８年度企業登録】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX1KMAX) | — | 東京都 | — |
 | 2026-12-18 | [INPIT事業再編計画支援事業補助金（令和８年度）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYBxMAP) | INPIT事業再編計画支援事業補助金 | 全国 | 6,500,000円 |
 | 2026-12-23 | [交通システムの省CO2 化に向けた設備整備事業（鉄道事業等におけるネットワーク型低炭素化促進事業）（三次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003cAFxUAM) | — | 全国 | — |
