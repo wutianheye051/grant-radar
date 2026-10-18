@@ -1,21 +1,16 @@
 # 受付中の公募一覧
 
-最終更新: 2026-10-17 01:51 (UTC)  
-件数: 177  
-前回からの差分: 新規 1 / 更新 0 / 掲載終了 164
+最終更新: 2026-10-18 01:49 (UTC)  
+件数: 176  
+前回からの差分: 新規 0 / 更新 0 / 掲載終了 165
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
-
-## 新着
-
-- [【令和８年度】二酸化炭素排出抑制対策事業費等補助金（低炭素型建材活用新築ZEB支援事業）（三次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003lu8IUAQ)（〜2026-12-15）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-10-17 | [【茨城】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdujMAD) | — | 茨城県 | 6,000,000円 |
 | 2026-10-19 | [「地域未利用バイオマスを活用したバイオガスの産業熱利用推進に向けた動向調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeN8MAL) | — | 全国 | — |
 | 2026-10-19 | [「水素社会モデル構築高度化技術開発・実証事業」の第2回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeY0MAL) | — | 全国 | — |
 | 2026-10-20 | [「『ディープテック・スタートアップ支援基金／国際共同研究開発』新規採択支援業務及び潜在的案件発掘促進を目的とした情報発信手法に関する調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeVeMAL) | — | 全国 | — |

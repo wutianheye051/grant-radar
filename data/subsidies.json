@@ -1,19 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDdujMAD",
-    "code": "S-00009656",
-    "title": "【茨城】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-    "institution": null,
-    "target_area": "茨城県",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 6000000,
-    "accepts_from": "2026-08-31T15:00:00Z",
-    "accepts_until": "2026-10-17T14:59:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdujMAD"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDeN8MAL",
     "code": "S-00009753",
     "title": "「地域未利用バイオマスを活用したバイオガスの産業熱利用推進に向けた動向調査」の公募",
