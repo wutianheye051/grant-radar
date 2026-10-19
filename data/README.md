@@ -1,11 +1,16 @@
 # 受付中の公募一覧
 
-最終更新: 2026-10-18 01:49 (UTC)  
-件数: 176  
-前回からの差分: 新規 0 / 更新 0 / 掲載終了 165
+最終更新: 2026-10-19 02:06 (UTC)  
+件数: 178  
+前回からの差分: 新規 2 / 更新 0 / 掲載終了 165
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
+
+## 新着
+
+- [観光関連事業者のDX・経営力強化支援事業補助金（令和８年度第２回募集）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeYeMAL)（〜2026-11-30）
+- [「太陽光発電導入拡大等技術開発事業」の第3回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe82MAD)（〜2026-11-25）
 
 ## すべて
 
@@ -66,6 +71,7 @@
 | 2026-11-20 | [令和７年度（補正予算）地域脱炭素実現に向けた具体的施策実装支援事業（四次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3OMAT) | — | 全国 | — |
 | 2026-11-20 | [令和８年度地域脱炭素実現に向けた具体的施策実装支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3YMAT) | — | 全国 | — |
 | 2026-11-20 | [【三次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ENsfUAG) | — | 全国 | — |
+| 2026-11-25 | [「太陽光発電導入拡大等技術開発事業」の第3回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe82MAD) | — | 全国 | — |
 | 2026-11-27 | [令和７年度補正 ディマンドリスポンスの拡大に向けたIoT化推進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY5GMAX) | — | 全国 | 20,000,000円 |
 | 2026-11-28 | [【令和８年度】二酸化炭素排出抑制対策事業費等補助金（地域再エネ水素ステーション保守点検等支援事業）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZzQMAX) | — | 全国 | 2,200,000円 |
 | 2026-11-30 | [令和８年度二酸化炭素排出抑制対策事業費等補助金（運輸部門等の脱炭素化に向けた先進的システム社会実装促進事業のうち、農業機械の電動化促進事業）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDa1gMAD) | — | 全国 | 72,000,000円 |
@@ -79,6 +85,7 @@
 | 2026-11-30 | [令和8年度SDS電子化補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDderMAD) | — | 全国 | 1,000,000円 |
 | 2026-11-30 | [令和８年度 脱炭素成長型経済構造移行推進対策費補助金 （業務用建築物の脱炭素改修加速化事業）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDa1bMAD) | — | 全国 | 1,000,000,000円 |
 | 2026-11-30 | [令和８年度東京都医療ＤＸ人材育成支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXvUMAX) | — | 東京都 | 500,000円 |
+| 2026-11-30 | [観光関連事業者のDX・経営力強化支援事業補助金（令和８年度第２回募集）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeYeMAL) | — | 東京都 | 30,000,000円 |
 | 2026-12-01 | [令和８年度海外商標対策支援助成事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYR2MAP) | — | 東京都 | 5,000,000円 |
 | 2026-12-01 | [【農林水産省】中山間地域所得確保推進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYDCMA5) | — | 全国 | 5,000,000円 |
 | 2026-12-03 | [令和８年度ゼロエミッション船等の導入支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbyjMAD) | — | 全国 | — |
