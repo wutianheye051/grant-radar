@@ -1,32 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDeN8MAL",
-    "code": "S-00009753",
-    "title": "「地域未利用バイオマスを活用したバイオガスの産業熱利用推進に向けた動向調査」の公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-09-10T01:00:00Z",
-    "accepts_until": "2026-10-19T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeN8MAL"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDeY0MAL",
-    "code": "S-00009808",
-    "title": "「水素社会モデル構築高度化技術開発・実証事業」の第2回公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-09-18T01:00:00Z",
-    "accepts_until": "2026-10-19T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeY0MAL"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDeVeMAL",
     "code": "S-00009793",
     "title": "「『ディープテック・スタートアップ支援基金／国際共同研究開発』新規採択支援業務及び潜在的案件発掘促進を目的とした情報発信手法に関する調査」の公募",
