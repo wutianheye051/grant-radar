@@ -1,11 +1,16 @@
 # 受付中の公募一覧
 
-最終更新: 2026-10-21 02:16 (UTC)  
-件数: 175  
-前回からの差分: 新規 0 / 更新 0 / 掲載終了 168
+最終更新: 2026-10-22 02:10 (UTC)  
+件数: 177  
+前回からの差分: 新規 2 / 更新 0 / 掲載終了 168
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
+
+## 新着
+
+- [【令和８年度】二酸化炭素排出抑制対策事業費等補助金 （地域共生型廃棄物発電等導入促進事業 （うち地域の廃棄物を活用した地域エネルギー創出事業））（３次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003qYNFUA2)（〜2026-11-13）
+- [【令和８年度】二酸化炭素排出抑制対策事業費等補助金 （地域共生型廃棄物発電等導入促進事業 （うち地域の廃棄物を活用した地域エネルギー創出事業））（第２次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbPBMA1)（〜2026-11-13）
 
 ## すべて
 
@@ -54,6 +59,8 @@
 | 2026-11-06 | [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_廃業・再チャレンジ枠](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RbUAK) | — | 全国 | 3,000,000円 |
 | 2026-11-10 | [「グリーンイノベーション基金事業／次世代型地熱技術の開発」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkJMAX) | — | 全国 | — |
 | 2026-11-12 | [令和8年度第2回 事業承継を契機とした成長支援事業(販路開拓コース)](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtCMAT) | — | 東京都 | 3,000,000円 |
+| 2026-11-13 | [【令和８年度】二酸化炭素排出抑制対策事業費等補助金 （地域共生型廃棄物発電等導入促進事業 （うち地域の廃棄物を活用した地域エネルギー創出事業））（第２次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbPBMA1) | — | 全国 | — |
+| 2026-11-13 | [【令和８年度】二酸化炭素排出抑制対策事業費等補助金 （地域共生型廃棄物発電等導入促進事業 （うち地域の廃棄物を活用した地域エネルギー創出事業））（３次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003qYNFUA2) | — | 全国 | — |
 | 2026-11-13 | [令和８年度_Scope3排出量削減のための企業間連携による省CO2設備投資促進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDNDnMAP) | — | 全国 | 1,500,000,000円 |
 | 2026-11-13 | [産業車両等の脱炭素化促進事業のうち、空港における脱炭素化促進事業②空港におけるEV・FCV型車両導入事業（二酸化炭素排出抑制対策事業費等補助金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZDHMA5) | — | 全国 | — |
 | 2026-11-14 | [【佐賀】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6WMAT) | — | 佐賀県 | 6,000,000円 |

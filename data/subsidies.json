@@ -560,6 +560,32 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDbPBMA1",
+    "code": "S-00009384",
+    "title": "【令和８年度】二酸化炭素排出抑制対策事業費等補助金 （地域共生型廃棄物発電等導入促進事業 （うち地域の廃棄物を活用した地域エネルギー創出事業））（第２次公募）",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-10-22T02:00:00Z",
+    "accepts_until": "2026-11-13T04:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbPBMA1"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ000003qYNFUA2",
+    "code": "S-00009989",
+    "title": "【令和８年度】二酸化炭素排出抑制対策事業費等補助金 （地域共生型廃棄物発電等導入促進事業 （うち地域の廃棄物を活用した地域エネルギー創出事業））（３次公募）",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-10-22T02:00:00Z",
+    "accepts_until": "2026-11-13T04:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003qYNFUA2"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDNDnMAP",
     "code": "S-00006576",
     "title": "令和８年度_Scope3排出量削減のための企業間連携による省CO2設備投資促進事業",
