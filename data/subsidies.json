@@ -1,19 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDeOLMA1",
-    "code": "S-00009763",
-    "title": "「地盤・海象・気象等の調査・観測技術の高度化・高効率化に関する研究開発」　の公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-09-18T01:00:00Z",
-    "accepts_until": "2026-10-22T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeOLMA1"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDe6aMAD",
     "code": "S-00009727",
     "title": "【宮崎】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
@@ -365,19 +352,6 @@
   },
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDYbNMAX",
-    "code": "S-00008860",
-    "title": "エイジフレンドリー補助金",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 1000000,
-    "accepts_from": "2026-05-20T00:00:00Z",
-    "accepts_until": "2026-10-31T14:59:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYbNMAX"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDe6XMAT",
     "code": "S-00009724",
     "title": "【長崎】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
@@ -703,6 +677,32 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDYbNMAX",
+    "code": "S-00008860",
+    "title": "エイジフレンドリー補助金",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 1000000,
+    "accepts_from": "2026-05-20T00:00:00Z",
+    "accepts_until": "2026-11-20T15:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYbNMAX"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ000003rLvpUAE",
+    "code": "S-00009991",
+    "title": "第１４回（令和８年度第３回）躍進的な事業推進のための設備投資支援事業",
+    "institution": null,
+    "target_area": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 200000000,
+    "accepts_from": "2026-10-23T00:00:00Z",
+    "accepts_until": "2026-11-24T04:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003rLvpUAE"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDe82MAD",
     "code": "S-00009732",
     "title": "「太陽光発電導入拡大等技術開発事業」の第3回公募",
@@ -713,6 +713,32 @@
     "accepts_from": "2026-10-19T01:00:00Z",
     "accepts_until": "2026-11-25T03:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe82MAD"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ000003myubUAA",
+    "code": "S-00009965",
+    "title": "【事前着手】令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（二次公募）",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-10-22T03:00:00Z",
+    "accepts_until": "2026-11-27T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003myubUAA"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ000003mzyjUAA",
+    "code": "S-00009966",
+    "title": "令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（二次公募）",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-10-22T03:00:00Z",
+    "accepts_until": "2026-11-27T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003mzyjUAA"
   },
   {
     "source": "jgrants",
@@ -1896,6 +1922,32 @@
     "accepts_from": "2026-04-01T00:00:00Z",
     "accepts_until": "2027-03-31T14:59:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXoBMAX"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ000003poQrUAI",
+    "code": "S-00009977",
+    "title": "令和８年度　地域医療勤務環境改善体制整備事業",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-10-22T00:00:00Z",
+    "accepts_until": "2027-03-31T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003poQrUAI"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ000003qEuoUAE",
+    "code": "S-00009983",
+    "title": "令和８年度　地域医療勤務環境改善体制整備特別事業",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-10-19T00:00:00Z",
+    "accepts_until": "2027-03-31T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003qEuoUAE"
   },
   {
     "source": "jgrants",
