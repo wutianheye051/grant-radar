@@ -1,25 +1,16 @@
 # 受付中の公募一覧
 
-最終更新: 2026-10-23 02:16 (UTC)  
-件数: 181  
-前回からの差分: 新規 5 / 更新 1 / 掲載終了 170
+最終更新: 2026-10-24 02:14 (UTC)  
+件数: 180  
+前回からの差分: 新規 0 / 更新 0 / 掲載終了 171
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
-
-## 新着
-
-- [令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（二次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003mzyjUAA)（〜2026-11-27）
-- [【事前着手】令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（二次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003myubUAA)（〜2026-11-27）
-- [第１４回（令和８年度第３回）躍進的な事業推進のための設備投資支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003rLvpUAE)（〜2026-11-24）
-- [令和８年度　地域医療勤務環境改善体制整備特別事業](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003qEuoUAE)（〜2027-03-31）
-- [令和８年度　地域医療勤務環境改善体制整備事業](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003poQrUAI)（〜2027-03-31）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-10-23 | [【宮崎】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6aMAD) | — | 宮崎県 | 6,000,000円 |
 | 2026-10-24 | [【鹿児島】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6bMAD) | — | 鹿児島県 | 6,000,000円 |
 | 2026-10-26 | [「脱炭素化・エネルギー転換に資する我が国技術の国際実証事業」の2026年度第2回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdl2MAD) | — | 全国 | — |
 | 2026-10-26 | [令和８年度地域資源活用製品等の開発・販売促進事業　開発・改良フェーズ](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003K34rUAC) | — | 東京都 | 15,000,000円 |
