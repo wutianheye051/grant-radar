@@ -1,19 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDe6bMAD",
-    "code": "S-00009728",
-    "title": "【鹿児島】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-    "institution": null,
-    "target_area": "鹿児島県",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 6000000,
-    "accepts_from": "2026-08-31T15:00:00Z",
-    "accepts_until": "2026-10-24T14:59:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6bMAD"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDdl2MAD",
     "code": "S-00009581",
     "title": "「脱炭素化・エネルギー転換に資する我が国技術の国際実証事業」の2026年度第2回公募",
