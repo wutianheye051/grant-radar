@@ -1,32 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDdl2MAD",
-    "code": "S-00009581",
-    "title": "「脱炭素化・エネルギー転換に資する我が国技術の国際実証事業」の2026年度第2回公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-09-25T01:00:00Z",
-    "accepts_until": "2026-10-26T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdl2MAD"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WfQ000003K34rUAC",
-    "code": "S-00009881",
-    "title": "令和８年度地域資源活用製品等の開発・販売促進事業　開発・改良フェーズ",
-    "institution": null,
-    "target_area": "東京都",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 15000000,
-    "accepts_from": "2026-10-01T00:00:00Z",
-    "accepts_until": "2026-10-26T08:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003K34rUAC"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WfQ000003iZLKUA2",
     "code": "S-00009934",
     "title": "令和８年度酒類業振興支援事業費補助金（第６期）",
@@ -692,7 +666,7 @@
     "source": "jgrants",
     "external_id": "a0WfQ000003myubUAA",
     "code": "S-00009965",
-    "title": "【事前着手】令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（二次公募）",
+    "title": "【事前着手】令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（二次公募）（事業Ⅱ/紙パルプ・化学・セメント）",
     "institution": null,
     "target_area": "全国",
     "target_employees": "従業員数の制約なし",
@@ -705,7 +679,7 @@
     "source": "jgrants",
     "external_id": "a0WfQ000003mzyjUAA",
     "code": "S-00009966",
-    "title": "令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（二次公募）",
+    "title": "令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（二次公募）（事業Ⅱ/紙パルプ・化学・セメント）",
     "institution": null,
     "target_area": "全国",
     "target_employees": "従業員数の制約なし",
@@ -1886,19 +1860,6 @@
   },
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDXoBMAX",
-    "code": "S-00008227",
-    "title": "令和８年_設備投資_事業完了後申請",
-    "institution": null,
-    "target_area": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 200000000,
-    "accepts_from": "2026-04-01T00:00:00Z",
-    "accepts_until": "2027-03-31T14:59:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXoBMAX"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WfQ000003poQrUAI",
     "code": "S-00009977",
     "title": "令和８年度　地域医療勤務環境改善体制整備事業",
@@ -2000,6 +1961,19 @@
     "accepts_from": "2025-03-31T23:00:00Z",
     "accepts_until": "2027-03-31T14:59:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDOsKMAX"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDXoBMAX",
+    "code": "S-00008227",
+    "title": "設備投資支援事業_事業完了後申請（令和８年）",
+    "institution": null,
+    "target_area": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 200000000,
+    "accepts_from": "2026-04-01T00:00:00Z",
+    "accepts_until": "2027-03-31T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXoBMAX"
   },
   {
     "source": "jgrants",
