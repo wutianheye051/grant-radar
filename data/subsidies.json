@@ -79,19 +79,6 @@
   },
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDeT5MAL",
-    "code": "S-00009777",
-    "title": "令和８年度 第３回 若手・女性リーダー応援プログラム助成事業/商店街起業・承継支援事業",
-    "institution": null,
-    "target_area": "東京都",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 8440000,
-    "accepts_from": "2026-10-09T00:00:00Z",
-    "accepts_until": "2026-10-30T08:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeT5MAL"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDaotMAD",
     "code": "S-00009334",
     "title": "【令和８年度】二酸化炭素排出抑制対策事業費等補助金（再エネ等由来水素を活用した自立・分散型エネルギーシステム構築等事業）",
@@ -323,6 +310,19 @@
     "accepts_from": "2026-09-04T08:00:00Z",
     "accepts_until": "2026-11-04T08:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe4JMAT"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDeT5MAL",
+    "code": "S-00009777",
+    "title": "令和８年度 第３回 若手・女性リーダー応援プログラム助成事業/商店街起業・承継支援事業",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 8440000,
+    "accepts_from": "2026-10-09T00:00:00Z",
+    "accepts_until": "2026-11-04T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeT5MAL"
   },
   {
     "source": "jgrants",
@@ -583,6 +583,19 @@
     "accepts_from": "2026-10-14T01:00:00Z",
     "accepts_until": "2026-11-16T03:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003CYIjUAO"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDaSdMAL",
+    "code": "S-00009303",
+    "title": "令和8年度製品開発着手支援助成事業",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 1000000,
+    "accepts_from": "2026-10-27T15:00:00Z",
+    "accepts_until": "2026-11-18T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaSdMAL"
   },
   {
     "source": "jgrants",
@@ -973,6 +986,19 @@
     "accepts_from": "2026-10-05T01:00:00Z",
     "accepts_until": "2026-12-23T03:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003cAFxUAM"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ000003rYGLUA2",
+    "code": "S-00009992",
+    "title": "令和８年度_グリーンスローモビリティ等導入促進事業（三次公募）",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-10-27T01:00:00Z",
+    "accepts_until": "2026-12-23T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003rYGLUA2"
   },
   {
     "source": "jgrants",
