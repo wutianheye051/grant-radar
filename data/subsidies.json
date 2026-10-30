@@ -1,19 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDduhMAD",
-    "code": "S-00009654",
-    "title": "【山形】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-    "institution": null,
-    "target_area": "山形県",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 6000000,
-    "accepts_from": "2026-08-31T15:00:00Z",
-    "accepts_until": "2026-10-29T14:59:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDduhMAD"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDaotMAD",
     "code": "S-00009334",
     "title": "【令和８年度】二酸化炭素排出抑制対策事業費等補助金（再エネ等由来水素を活用した自立・分散型エネルギーシステム構築等事業）",
@@ -1366,6 +1353,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDc0YMAT",
+    "code": "S-00009417",
+    "title": "令和８年度都市ガス分野の災害対応・レジリエンス強化に係る支援事業費補助金",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "300名以下",
+    "max_amount": 130502000,
+    "accepts_from": "2026-10-07T00:00:00Z",
+    "accepts_until": "2027-02-26T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDc0YMAT"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDXk9MAH",
     "code": "S-00008181",
     "title": "【飯塚市】令和8年度外国人材受入環境整備事業費補助金",
@@ -2117,6 +2117,19 @@
     "accepts_from": "2026-08-31T15:00:00Z",
     "accepts_until": "2028-03-31T14:59:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6SMAT"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ000003vH2PUAU",
+    "code": "S-00010004",
+    "title": "中東情勢による原材料価格高騰に伴う経営基盤安定化緊急対策事業【変更承認申請/変更届/中止申請/実績報告】",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-10-29T15:00:00Z",
+    "accepts_until": "2028-03-31T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003vH2PUAU"
   },
   {
     "source": "jgrants",
