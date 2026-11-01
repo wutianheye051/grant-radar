@@ -1,71 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDe6ZMAT",
-    "code": "S-00009726",
-    "title": "【大分】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-    "institution": null,
-    "target_area": "大分県",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 6000000,
-    "accepts_from": "2026-08-31T15:00:00Z",
-    "accepts_until": "2026-10-31T14:59:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6ZMAT"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDe65MAD",
-    "code": "S-00009701",
-    "title": "【山梨】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-    "institution": null,
-    "target_area": "山梨県",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 6000000,
-    "accepts_from": "2026-08-31T15:00:00Z",
-    "accepts_until": "2026-10-31T14:59:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe65MAD"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDe6RMAT",
-    "code": "S-00009718",
-    "title": "【徳島】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-    "institution": null,
-    "target_area": "徳島県",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 6000000,
-    "accepts_from": "2026-08-31T15:00:00Z",
-    "accepts_until": "2026-10-31T14:59:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6RMAT"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDe6TMAT",
-    "code": "S-00009720",
-    "title": "【愛媛】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-    "institution": null,
-    "target_area": "愛媛県",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 6000000,
-    "accepts_from": "2026-08-31T15:00:00Z",
-    "accepts_until": "2026-10-31T14:59:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6TMAT"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDXjwMAH",
-    "code": "S-00008168",
-    "title": "【福井県】令和８年度企業の太陽光・蓄電池設備導入促進事業補助金",
-    "institution": null,
-    "target_area": "福井県",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 11300000,
-    "accepts_from": "2026-04-16T15:00:00Z",
-    "accepts_until": "2026-10-31T14:59:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXjwMAH"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDe6XMAT",
     "code": "S-00009724",
     "title": "【長崎】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
@@ -349,6 +284,19 @@
     "accepts_from": "2026-10-14T01:00:00Z",
     "accepts_until": "2026-11-16T03:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003CYIjUAO"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDXkTMAX",
+    "code": "S-00008193",
+    "title": "令和８年度展示会出展助成事業",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 1500000,
+    "accepts_from": "2026-10-31T15:00:00Z",
+    "accepts_until": "2026-11-16T07:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkTMAX"
   },
   {
     "source": "jgrants",

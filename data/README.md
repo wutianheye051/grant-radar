@@ -1,8 +1,8 @@
 # 受付中の公募一覧
 
-最終更新: 2026-10-31 02:58 (UTC)  
-件数: 167  
-前回からの差分: 新規 0 / 更新 4 / 掲載終了 187
+最終更新: 2026-11-01 02:53 (UTC)  
+件数: 163  
+前回からの差分: 新規 0 / 更新 1 / 掲載終了 191
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
@@ -11,11 +11,6 @@
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-10-31 | [【大分】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6ZMAT) | — | 大分県 | 6,000,000円 |
-| 2026-10-31 | [【山梨】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe65MAD) | — | 山梨県 | 6,000,000円 |
-| 2026-10-31 | [【徳島】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6RMAT) | — | 徳島県 | 6,000,000円 |
-| 2026-10-31 | [【愛媛】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6TMAT) | — | 愛媛県 | 6,000,000円 |
-| 2026-10-31 | [【福井県】令和８年度企業の太陽光・蓄電池設備導入促進事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXjwMAH) | — | 福井県 | 11,300,000円 |
 | 2026-11-01 | [【長崎】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6XMAT) | — | 長崎県 | 6,000,000円 |
 | 2026-11-04 | [令和７年度補正　再生可能エネルギー導入拡大・系統用蓄電池等電力貯蔵システム導入支援事業費補助金　系統用蓄電システム等導入支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe4JMAT) | — | 全国 | 4,000,000,000円 |
 | 2026-11-04 | [令和８年度 第３回 若手・女性リーダー応援プログラム助成事業/商店街起業・承継支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeT5MAL) | — | 東京都 | 8,440,000円 |
@@ -38,6 +33,7 @@
 | 2026-11-15 | [【京都】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6CMAT) | — | 京都府 | 6,000,000円 |
 | 2026-11-15 | [令和8年度東京都臨床調査個人票電子化等推進事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeUgMAL) | — | 東京都 | 50,000円 |
 | 2026-11-16 | [「ポスト5G情報通信システム基盤強化研究開発事業（社会課題解決に向けた量子コンピュータ次世代機開発・実証の加速）」（g12-2：部素材）の追加公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003CYIjUAO) | — | 全国 | — |
+| 2026-11-16 | [令和８年度展示会出展助成事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkTMAX) | — | 東京都 | 1,500,000円 |
 | 2026-11-18 | [令和8年度製品開発着手支援助成事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaSdMAL) | — | 東京都 | 1,000,000円 |
 | 2026-11-20 | [令和７年度（補正予算）地域脱炭素実現に向けた具体的施策実装支援事業（四次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3OMAT) | — | 全国 | — |
 | 2026-11-20 | [令和８年度地域脱炭素実現に向けた具体的施策実装支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3YMAT) | — | 全国 | — |
