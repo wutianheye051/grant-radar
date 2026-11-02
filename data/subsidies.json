@@ -1,19 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDe6XMAT",
-    "code": "S-00009724",
-    "title": "【長崎】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-    "institution": null,
-    "target_area": "長崎県",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 6000000,
-    "accepts_from": "2026-08-31T15:00:00Z",
-    "accepts_until": "2026-11-01T14:59:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6XMAT"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDe4JMAT",
     "code": "S-00009688",
     "title": "令和７年度補正　再生可能エネルギー導入拡大・系統用蓄電池等電力貯蔵システム導入支援事業費補助金　系統用蓄電システム等導入支援事業",
@@ -391,6 +378,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WfQ000003tEv3UAE",
+    "code": "S-00009998",
+    "title": "「２０２６年度　ＮＥＤＯ先導研究プログラムにおける成果把握・要因分析調査」の公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-11-02T01:00:00Z",
+    "accepts_until": "2026-11-25T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003tEv3UAE"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WfQ000003myubUAA",
     "code": "S-00009965",
     "title": "【事前着手】令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（二次公募）（事業Ⅱ/紙パルプ・化学・セメント）",
@@ -453,6 +453,19 @@
     "accepts_from": "2026-07-07T09:00:00Z",
     "accepts_until": "2026-11-30T03:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDa1gMAD"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ000003ohEXUAY",
+    "code": "S-00009971",
+    "title": "【第３回】中東情勢による原材料価格高騰に伴う経営基盤安定化緊急対策事業",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 20000000,
+    "accepts_from": "2026-11-02T00:00:00Z",
+    "accepts_until": "2026-11-30T07:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ohEXUAY"
   },
   {
     "source": "jgrants",
