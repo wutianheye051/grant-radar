@@ -1,16 +1,16 @@
 # 受付中の公募一覧
 
-最終更新: 2026-11-02 03:00 (UTC)  
-件数: 164  
-前回からの差分: 新規 2 / 更新 0 / 掲載終了 192
+最終更新: 2026-11-03 04:19 (UTC)  
+件数: 167  
+前回からの差分: 新規 2 / 更新 1 / 掲載終了 191
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
 
 ## 新着
 
-- [【第３回】中東情勢による原材料価格高騰に伴う経営基盤安定化緊急対策事業](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ohEXUAY)（〜2026-11-30）
-- [「２０２６年度　ＮＥＤＯ先導研究プログラムにおける成果把握・要因分析調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003tEv3UAE)（〜2026-11-25）
+- [⼩規模事業者持続化補助⾦＜⼀般型 災害支援枠（令和8年熊本地震）＞2次公募【商⼯会地区】](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003tCA5UAM)（〜2026-12-15）
+- [小規模事業者持続化補助金＜一般型 災害支援枠（令和８年熊本地震）＞２次公募【商工会議所地区】](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003iibVUAQ)（〜2026-12-15）
 
 ## すべて
 
@@ -28,6 +28,7 @@
 | 2026-11-06 | [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_専門家活用枠(買い手支援類型-100億企業特例)](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RWUA0) | — | 全国 | 20,000,000円 |
 | 2026-11-06 | [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_専門家活用枠(買い手支援類型／売り手支援類型)](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RVUA0) | — | 全国 | 8,000,000円 |
 | 2026-11-06 | [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_廃業・再チャレンジ枠](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RbUAK) | — | 全国 | 3,000,000円 |
+| 2026-11-09 | [令和8年度 高度人材インターンシップ受入支援費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZi6MAH) | — | 東京都 | 5,000円 |
 | 2026-11-10 | [「グリーンイノベーション基金事業／次世代型地熱技術の開発」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkJMAX) | — | 全国 | — |
 | 2026-11-12 | [令和8年度第2回 事業承継を契機とした成長支援事業(販路開拓コース)](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtCMAT) | — | 東京都 | 3,000,000円 |
 | 2026-11-13 | [【令和８年度】二酸化炭素排出抑制対策事業費等補助金 （地域共生型廃棄物発電等導入促進事業 （うち地域の廃棄物を活用した地域エネルギー創出事業））（第２次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbPBMA1) | — | 全国 | — |
@@ -71,7 +72,9 @@
 | 2026-12-01 | [【農林水産省】中山間地域所得確保推進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYDCMA5) | — | 全国 | 5,000,000円 |
 | 2026-12-03 | [令和８年度ゼロエミッション船等の導入支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbyjMAD) | — | 全国 | — |
 | 2026-12-14 | [【令和８年度】INPIT外国出願補助金（中間手続補助）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXmVMAX) | INPIT外国出願補助金（中間手続補助） | 全国 | 500,000円 |
+| 2026-12-15 | [⼩規模事業者持続化補助⾦＜⼀般型 災害支援枠（令和8年熊本地震）＞2次公募【商⼯会地区】](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003tCA5UAM) | — | 熊本県 | 2,000,000円 |
 | 2026-12-15 | [【令和８年度】二酸化炭素排出抑制対策事業費等補助金（低炭素型建材活用新築ZEB支援事業）（三次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003lu8IUAQ) | — | 全国 | 500,000,000円 |
+| 2026-12-15 | [小規模事業者持続化補助金＜一般型 災害支援枠（令和８年熊本地震）＞２次公募【商工会議所地区】](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003iibVUAQ) | — | 熊本県 | 2,000,000円 |
 | 2026-12-17 | [中小企業人材確保のための奨学金返還支援事業【令和８年度企業登録】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX1KMAX) | — | 東京都 | — |
 | 2026-12-18 | [INPIT事業再編計画支援事業補助金（令和８年度）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYBxMAP) | INPIT事業再編計画支援事業補助金 | 全国 | 6,500,000円 |
 | 2026-12-23 | [交通システムの省CO2 化に向けた設備整備事業（鉄道事業等におけるネットワーク型低炭素化促進事業）（三次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003cAFxUAM) | — | 全国 | — |

@@ -157,6 +157,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDZi6MAH",
+    "code": "S-00009232",
+    "title": "令和8年度 高度人材インターンシップ受入支援費補助金",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "300名以下",
+    "max_amount": 5000,
+    "accepts_from": "2026-08-16T15:00:00Z",
+    "accepts_until": "2026-11-09T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZi6MAH"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDXkJMAX",
     "code": "S-00008191",
     "title": "「グリーンイノベーション基金事業／次世代型地熱技術の開発」の公募",
@@ -716,6 +729,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WfQ000003tCA5UAM",
+    "code": "S-00009997",
+    "title": "⼩規模事業者持続化補助⾦＜⼀般型 災害支援枠（令和8年熊本地震）＞2次公募【商⼯会地区】",
+    "institution": null,
+    "target_area": "熊本県",
+    "target_employees": "20名以下",
+    "max_amount": 2000000,
+    "accepts_from": "2026-11-02T08:00:00Z",
+    "accepts_until": "2026-12-15T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003tCA5UAM"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WfQ000003lu8IUAQ",
     "code": "S-00009961",
     "title": "【令和８年度】二酸化炭素排出抑制対策事業費等補助金（低炭素型建材活用新築ZEB支援事業）（三次公募）",
@@ -726,6 +752,19 @@
     "accepts_from": "2026-10-16T06:00:00Z",
     "accepts_until": "2026-12-15T08:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003lu8IUAQ"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ000003iibVUAQ",
+    "code": "S-00009935",
+    "title": "小規模事業者持続化補助金＜一般型 災害支援枠（令和８年熊本地震）＞２次公募【商工会議所地区】",
+    "institution": null,
+    "target_area": "熊本県",
+    "target_employees": "20名以下",
+    "max_amount": 2000000,
+    "accepts_from": "2026-11-02T08:00:00Z",
+    "accepts_until": "2026-12-15T08:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003iibVUAQ"
   },
   {
     "source": "jgrants",
