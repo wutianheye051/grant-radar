@@ -1,16 +1,11 @@
 # 受付中の公募一覧
 
-最終更新: 2026-11-03 04:19 (UTC)  
+最終更新: 2026-11-04 03:38 (UTC)  
 件数: 167  
-前回からの差分: 新規 2 / 更新 1 / 掲載終了 191
+前回からの差分: 新規 0 / 更新 0 / 掲載終了 191
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
-
-## 新着
-
-- [⼩規模事業者持続化補助⾦＜⼀般型 災害支援枠（令和8年熊本地震）＞2次公募【商⼯会地区】](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003tCA5UAM)（〜2026-12-15）
-- [小規模事業者持続化補助金＜一般型 災害支援枠（令和８年熊本地震）＞２次公募【商工会議所地区】](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003iibVUAQ)（〜2026-12-15）
 
 ## すべて
 
