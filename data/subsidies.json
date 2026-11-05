@@ -1,32 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDe4JMAT",
-    "code": "S-00009688",
-    "title": "令和７年度補正　再生可能エネルギー導入拡大・系統用蓄電池等電力貯蔵システム導入支援事業費補助金　系統用蓄電システム等導入支援事業",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 4000000000,
-    "accepts_from": "2026-09-04T08:00:00Z",
-    "accepts_until": "2026-11-04T08:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe4JMAT"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDeT5MAL",
-    "code": "S-00009777",
-    "title": "令和８年度 第３回 若手・女性リーダー応援プログラム助成事業/商店街起業・承継支援事業",
-    "institution": null,
-    "target_area": "東京都",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 8440000,
-    "accepts_from": "2026-10-09T00:00:00Z",
-    "accepts_until": "2026-11-04T08:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeT5MAL"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDapWMAT",
     "code": "S-00009339",
     "title": "【令和８年度】先進的な資源循環投資促進事業（第２回）",
@@ -375,6 +349,19 @@
     "accepts_from": "2026-10-23T00:00:00Z",
     "accepts_until": "2026-11-24T04:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003rLvpUAE"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ000003tibNUAQ",
+    "code": "S-00009999",
+    "title": "「再生可能エネルギー技術の多様化に関する動向調査」の公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-11-05T01:00:00Z",
+    "accepts_until": "2026-11-25T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003tibNUAQ"
   },
   {
     "source": "jgrants",
@@ -986,19 +973,6 @@
     "accepts_from": "2025-11-03T15:00:00Z",
     "accepts_until": "2026-12-30T15:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDQuHMAX"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDVm7MAH",
-    "code": "S-00007438",
-    "title": "令和７年度病院勤務者勤務環境改善事業・救急医療体制強化事業",
-    "institution": null,
-    "target_area": "東京都",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2025-10-29T00:00:00Z",
-    "accepts_until": "2026-12-31T14:59:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVm7MAH"
   },
   {
     "source": "jgrants",
@@ -1714,6 +1688,19 @@
     "accepts_from": "2025-07-25T00:00:00Z",
     "accepts_until": "2027-03-31T14:59:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDRArMAP"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDVm7MAH",
+    "code": "S-00007438",
+    "title": "令和７年度病院勤務者勤務環境改善事業・救急医療体制強化事業",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2025-10-29T00:00:00Z",
+    "accepts_until": "2027-03-31T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVm7MAH"
   },
   {
     "source": "jgrants",
