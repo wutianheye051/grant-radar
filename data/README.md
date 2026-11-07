@@ -1,29 +1,16 @@
 # 受付中の公募一覧
 
-最終更新: 2026-11-06 03:55 (UTC)  
-件数: 166  
-前回からの差分: 新規 1 / 更新 0 / 掲載終了 194
+最終更新: 2026-11-07 03:29 (UTC)  
+件数: 157  
+前回からの差分: 新規 0 / 更新 0 / 掲載終了 203
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
-
-## 新着
-
-- [小規模事業者持続化補助金＜創業型＞ 第４回受付締切](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003kEuHUAU)（〜2026-12-15）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-11-06 | [令和８年度 脱炭素成長型経済構造移行推進対策費補助金（自律型資源 循環システム強靱化促進事業）（事前着手届出）【二次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N8hVUAS) | — | 全国 | — |
-| 2026-11-06 | [令和８年度 脱炭素成長型経済構造移行推進対策費補助金（自律型資源循環システム強靱化促進事業）【二次公募】](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003JPtqUAG) | — | 全国 | 20,000,000,000円 |
-| 2026-11-06 | [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_PMI推進枠(PMI専門家活用類型)](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RXUA0) | — | 全国 | 1,500,000円 |
-| 2026-11-06 | [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_PMI推進枠(事業統合投資類型)](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RYUA0) | — | 全国 | 10,000,000円 |
-| 2026-11-06 | [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_事業承継促進枠](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RaUAK) | — | 全国 | 10,000,000円 |
-| 2026-11-06 | [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_専門家活用枠(小規模売り手支援類型)](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RZUA0) | — | 全国 | 4,500,000円 |
-| 2026-11-06 | [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_専門家活用枠(買い手支援類型-100億企業特例)](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RWUA0) | — | 全国 | 20,000,000円 |
-| 2026-11-06 | [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_専門家活用枠(買い手支援類型／売り手支援類型)](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RVUA0) | — | 全国 | 8,000,000円 |
-| 2026-11-06 | [中小企業生産性革命推進事業_事業承継・M&A補助金(16次公募)_廃業・再チャレンジ枠](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N1RbUAK) | — | 全国 | 3,000,000円 |
 | 2026-11-09 | [令和8年度 高度人材インターンシップ受入支援費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZi6MAH) | — | 東京都 | 5,000円 |
 | 2026-11-10 | [「グリーンイノベーション基金事業／次世代型地熱技術の開発」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkJMAX) | — | 全国 | — |
 | 2026-11-12 | [令和8年度第2回 事業承継を契機とした成長支援事業(販路開拓コース)](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdtCMAT) | — | 東京都 | 3,000,000円 |
