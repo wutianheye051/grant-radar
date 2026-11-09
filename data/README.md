@@ -1,11 +1,17 @@
 # 受付中の公募一覧
 
-最終更新: 2026-11-08 02:58 (UTC)  
-件数: 157  
-前回からの差分: 新規 0 / 更新 0 / 掲載終了 203
+最終更新: 2026-11-09 03:20 (UTC)  
+件数: 160  
+前回からの差分: 新規 3 / 更新 0 / 掲載終了 203
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
+
+## 新着
+
+- [【事前着手】令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（事業Ⅰ/鉄鋼）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003zgNCUAY)（〜2026-12-11）
+- [令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（事業Ⅰ/鉄鋼）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003znYLUAY)（〜2026-12-11）
+- [令和６年度　病院勤務者勤務環境改善事業・救急医療体制強化事業（実績報告）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDKBZMA5)（〜2026-11-30）
 
 ## すべて
 
@@ -45,6 +51,7 @@
 | 2026-11-30 | [産業車両等の脱炭素化促進事業のうち、空港における脱炭素化促進事業① 空港における再エネ活用型GPU等導入支援（二酸化炭素排出抑制対策事業費等補助金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYzVMAX) | — | 全国 | 150,000,000円 |
 | 2026-11-30 | [産業車両等の脱炭素化促進事業のうち、空港における脱炭素化促進事業②空港におけるEV・FCV型車両導入事業（二酸化炭素排出抑制対策事業費等補助金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZDHMA5) | — | 全国 | — |
 | 2026-11-30 | [産業車両等の脱炭素化促進事業のうち、空港における脱炭素化促進事業③空港におけるEV・FCV型車両改造事業（二酸化炭素排出抑制対策事業費等補助金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZ1GMAX) | — | 全国 | — |
+| 2026-11-30 | [令和６年度　病院勤務者勤務環境改善事業・救急医療体制強化事業（実績報告）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDKBZMA5) | — | 東京都 | — |
 | 2026-11-30 | [【岩手】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdueMAD) | — | 岩手県 | 6,000,000円 |
 | 2026-11-30 | [【沖縄】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6cMAD) | — | 沖縄県 | 6,000,000円 |
 | 2026-11-30 | [【熊本】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6YMAT) | — | 熊本県 | 6,000,000円 |
@@ -55,6 +62,8 @@
 | 2026-12-01 | [令和８年度海外商標対策支援助成事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYR2MAP) | — | 東京都 | 5,000,000円 |
 | 2026-12-01 | [【農林水産省】中山間地域所得確保推進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYDCMA5) | — | 全国 | 5,000,000円 |
 | 2026-12-03 | [令和８年度ゼロエミッション船等の導入支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbyjMAD) | — | 全国 | — |
+| 2026-12-11 | [【事前着手】令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（事業Ⅰ/鉄鋼）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003zgNCUAY) | — | 全国 | — |
+| 2026-12-11 | [令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（事業Ⅰ/鉄鋼）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003znYLUAY) | — | 全国 | — |
 | 2026-12-14 | [【令和８年度】INPIT外国出願補助金（中間手続補助）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXmVMAX) | INPIT外国出願補助金（中間手続補助） | 全国 | 500,000円 |
 | 2026-12-15 | [⼩規模事業者持続化補助⾦＜⼀般型 災害支援枠（令和8年熊本地震）＞2次公募【商⼯会地区】](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003tCA5UAM) | — | 熊本県 | 2,000,000円 |
 | 2026-12-15 | [【令和８年度】二酸化炭素排出抑制対策事業費等補助金（低炭素型建材活用新築ZEB支援事業）（三次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003lu8IUAQ) | — | 全国 | 500,000,000円 |
