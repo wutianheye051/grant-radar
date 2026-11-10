@@ -1,32 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDZi6MAH",
-    "code": "S-00009232",
-    "title": "令和8年度 高度人材インターンシップ受入支援費補助金",
-    "institution": null,
-    "target_area": "東京都",
-    "target_employees": "300名以下",
-    "max_amount": 5000,
-    "accepts_from": "2026-08-16T15:00:00Z",
-    "accepts_until": "2026-11-09T14:59:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZi6MAH"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDXkJMAX",
-    "code": "S-00008191",
-    "title": "「グリーンイノベーション基金事業／次世代型地熱技術の開発」の公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-08-28T01:00:00Z",
-    "accepts_until": "2026-11-10T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkJMAX"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDdtCMAT",
     "code": "S-00009637",
     "title": "令和8年度第2回 事業承継を契機とした成長支援事業(販路開拓コース)",
@@ -141,6 +115,19 @@
     "accepts_from": "2026-10-31T15:00:00Z",
     "accepts_until": "2026-11-16T07:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkTMAX"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ000003j5GLUAY",
+    "code": "S-00009938",
+    "title": "「GX分野のディープテック・スタートアップへの事業開発支援事業（GX_UPP事業）」の第3回公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-11-10T01:00:00Z",
+    "accepts_until": "2026-11-17T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003j5GLUAY"
   },
   {
     "source": "jgrants",
@@ -508,19 +495,6 @@
   },
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDa1bMAD",
-    "code": "S-00009263",
-    "title": "令和８年度 脱炭素成長型経済構造移行推進対策費補助金 （業務用建築物の脱炭素改修加速化事業）",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 1000000000,
-    "accepts_from": "2026-06-04T01:00:00Z",
-    "accepts_until": "2026-11-30T14:59:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDa1bMAD"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDXvUMAX",
     "code": "S-00008317",
     "title": "令和８年度東京都医療ＤＸ人材育成支援事業",
@@ -531,6 +505,19 @@
     "accepts_from": "2026-04-14T15:00:00Z",
     "accepts_until": "2026-11-30T14:59:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXvUMAX"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDY36MAH",
+    "code": "S-00008411",
+    "title": "令和８年度課題解決型製品・サービス等の販路拡大助成",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 1500000,
+    "accepts_from": "2026-11-10T01:00:00Z",
+    "accepts_until": "2026-11-30T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY36MAH"
   },
   {
     "source": "jgrants",
@@ -609,6 +596,19 @@
     "accepts_from": "2026-11-09T03:00:00Z",
     "accepts_until": "2026-12-11T03:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003znYLUAY"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ000003dVevUAE",
+    "code": "S-00009912",
+    "title": "GX地域共創補助金2026",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 25000000000,
+    "accepts_from": "2026-11-09T04:00:00Z",
+    "accepts_until": "2026-12-14T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003dVevUAE"
   },
   {
     "source": "jgrants",
@@ -726,6 +726,19 @@
     "accepts_from": "2026-10-27T01:00:00Z",
     "accepts_until": "2026-12-23T03:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003rYGLUA2"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDa1bMAD",
+    "code": "S-00009263",
+    "title": "令和８年度 脱炭素成長型経済構造移行推進対策費補助金 （業務用建築物の脱炭素改修加速化事業）",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 1000000000,
+    "accepts_from": "2026-06-04T01:00:00Z",
+    "accepts_until": "2026-12-24T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDa1bMAD"
   },
   {
     "source": "jgrants",
