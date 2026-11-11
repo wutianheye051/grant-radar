@@ -1,17 +1,11 @@
 # 受付中の公募一覧
 
-最終更新: 2026-11-10 04:58 (UTC)  
-件数: 161  
-前回からの差分: 新規 3 / 更新 1 / 掲載終了 205
+最終更新: 2026-11-11 03:28 (UTC)  
+件数: 162  
+前回からの差分: 新規 0 / 更新 1 / 掲載終了 204
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
-
-## 新着
-
-- [GX地域共創補助金2026](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003dVevUAE)（〜2026-12-14）
-- [令和８年度課題解決型製品・サービス等の販路拡大助成](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY36MAH)（〜2026-11-30）
-- [「GX分野のディープテック・スタートアップへの事業開発支援事業（GX_UPP事業）」の第3回公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003j5GLUAY)（〜2026-11-17）
 
 ## すべて
 
@@ -28,6 +22,7 @@
 | 2026-11-16 | [令和８年度展示会出展助成事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkTMAX) | — | 東京都 | 1,500,000円 |
 | 2026-11-17 | [「GX分野のディープテック・スタートアップへの事業開発支援事業（GX_UPP事業）」の第3回公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003j5GLUAY) | — | 全国 | — |
 | 2026-11-18 | [令和8年度製品開発着手支援助成事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaSdMAL) | — | 東京都 | 1,000,000円 |
+| 2026-11-20 | [「グリーンイノベーション基金事業／次世代型地熱技術の開発」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkJMAX) | — | 全国 | — |
 | 2026-11-20 | [令和７年度（補正予算）地域脱炭素実現に向けた具体的施策実装支援事業（四次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3OMAT) | — | 全国 | — |
 | 2026-11-20 | [令和８年度地域脱炭素実現に向けた具体的施策実装支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3YMAT) | — | 全国 | — |
 | 2026-11-20 | [【三次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ENsfUAG) | — | 全国 | — |

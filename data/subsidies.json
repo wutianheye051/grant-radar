@@ -144,6 +144,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDXkJMAX",
+    "code": "S-00008191",
+    "title": "「グリーンイノベーション基金事業／次世代型地熱技術の開発」の公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-08-28T01:00:00Z",
+    "accepts_until": "2026-11-20T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkJMAX"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDd3OMAT",
     "code": "S-00009465",
     "title": "令和７年度（補正予算）地域脱炭素実現に向けた具体的施策実装支援事業（四次公募）",
