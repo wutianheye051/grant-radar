@@ -53,6 +53,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDZi6MAH",
+    "code": "S-00009232",
+    "title": "令和8年度 高度人材インターンシップ受入支援費補助金",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "300名以下",
+    "max_amount": 5000,
+    "accepts_from": "2026-08-16T15:00:00Z",
+    "accepts_until": "2026-11-13T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZi6MAH"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDe6WMAT",
     "code": "S-00009723",
     "title": "【佐賀】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
@@ -1454,6 +1467,19 @@
     "accepts_from": "2026-08-27T00:00:00Z",
     "accepts_until": "2027-03-31T08:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTAMA1"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ000004CHdtUAG",
+    "code": "S-00010055",
+    "title": "四日市市中小企業脱炭素経営支援事業費補助金",
+    "institution": null,
+    "target_area": "三重県",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-04-01T00:00:00Z",
+    "accepts_until": "2027-03-31T08:15:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000004CHdtUAG"
   },
   {
     "source": "jgrants",

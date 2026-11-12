@@ -1,11 +1,15 @@
 # 受付中の公募一覧
 
-最終更新: 2026-11-11 03:28 (UTC)  
-件数: 162  
-前回からの差分: 新規 0 / 更新 1 / 掲載終了 204
+最終更新: 2026-11-12 04:38 (UTC)  
+件数: 164  
+前回からの差分: 新規 1 / 更新 1 / 掲載終了 203
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
+
+## 新着
+
+- [四日市市中小企業脱炭素経営支援事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000004CHdtUAG)（〜2027-03-31）
 
 ## すべて
 
@@ -15,6 +19,7 @@
 | 2026-11-13 | [【令和８年度】二酸化炭素排出抑制対策事業費等補助金 （地域共生型廃棄物発電等導入促進事業 （うち地域の廃棄物を活用した地域エネルギー創出事業））（第２次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbPBMA1) | — | 全国 | — |
 | 2026-11-13 | [【令和８年度】二酸化炭素排出抑制対策事業費等補助金 （地域共生型廃棄物発電等導入促進事業 （うち地域の廃棄物を活用した地域エネルギー創出事業））（３次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003qYNFUA2) | — | 全国 | — |
 | 2026-11-13 | [令和８年度_Scope3排出量削減のための企業間連携による省CO2設備投資促進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDNDnMAP) | — | 全国 | 1,500,000,000円 |
+| 2026-11-13 | [令和8年度 高度人材インターンシップ受入支援費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZi6MAH) | — | 東京都 | 5,000円 |
 | 2026-11-14 | [【佐賀】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6WMAT) | — | 佐賀県 | 6,000,000円 |
 | 2026-11-15 | [【京都】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6CMAT) | — | 京都府 | 6,000,000円 |
 | 2026-11-15 | [令和8年度東京都臨床調査個人票電子化等推進事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeUgMAL) | — | 東京都 | 50,000円 |
@@ -123,6 +128,7 @@
 | 2027-03-31 | [古賀市温室効果ガス排出量可視化システム導入費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYfwMAH) | — | 福岡県 | 150,000円 |
 | 2027-03-31 | [地上基幹放送ネットワーク整備等事業（令和７年度補正予算及び令和８年度当初予算）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXORMA5) | — | 全国 | — |
 | 2027-03-31 | [小郡市企業立地優遇制度](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTAMA1) | — | 福岡県 | — |
+| 2027-03-31 | [四日市市中小企業脱炭素経営支援事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000004CHdtUAG) | — | 三重県 | — |
 | 2027-03-31 | [深谷市起業家支援事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXqMMAX) | — | 埼玉県 | 200,000円 |
 | 2027-03-31 | [【令和８年度】医療機関等におけるマイナンバーカード利活用推進事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbHxMAL) | — | 東京都 | 141,000円 |
 | 2027-03-31 | [【長野県茅野市】インターンシップ等促進事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY1uMAH) | — | 長野県 | — |
