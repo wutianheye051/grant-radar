@@ -1,18 +1,20 @@
 # 受付中の公募一覧
 
-最終更新: 2026-11-16 03:29 (UTC)  
+最終更新: 2026-11-17 05:28 (UTC)  
 件数: 155  
-前回からの差分: 新規 0 / 更新 0 / 掲載終了 211
+前回からの差分: 新規 1 / 更新 2 / 掲載終了 212
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
+
+## 新着
+
+- [「ポスト５Ｇ情報通信システム基盤強化研究開発事業／記録レス介護実現のための介護特化モデル等に関する研究開発（委託）」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003qLZhUAM)（〜2026-12-16）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-11-16 | [令和８年度展示会出展助成事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkTMAX) | — | 東京都 | 1,500,000円 |
-| 2026-11-17 | [「GX分野のディープテック・スタートアップへの事業開発支援事業（GX_UPP事業）」の第3回公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003j5GLUAY) | — | 全国 | — |
 | 2026-11-18 | [令和8年度製品開発着手支援助成事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaSdMAL) | — | 東京都 | 1,000,000円 |
 | 2026-11-20 | [「グリーンイノベーション基金事業／次世代型地熱技術の開発」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkJMAX) | — | 全国 | — |
 | 2026-11-20 | [令和７年度（補正予算）地域脱炭素実現に向けた具体的施策実装支援事業（四次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3OMAT) | — | 全国 | — |
@@ -23,6 +25,8 @@
 | 2026-11-25 | [「再生可能エネルギー技術の多様化に関する動向調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003tibNUAQ) | — | 全国 | — |
 | 2026-11-25 | [「太陽光発電導入拡大等技術開発事業」の第3回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe82MAD) | — | 全国 | — |
 | 2026-11-25 | [「２０２６年度　ＮＥＤＯ先導研究プログラムにおける成果把握・要因分析調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003tEv3UAE) | — | 全国 | — |
+| 2026-11-25 | [【農林水産省】中山間地域所得確保推進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYDCMA5) | — | 全国 | 5,000,000円 |
+| 2026-11-26 | [「ポスト5G情報通信システム基盤強化研究開発事業（社会課題解決に向けた量子コンピュータ次世代機開発・実証の加速）」（g12-2：部素材）の追加公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003CYIjUAO) | — | 全国 | — |
 | 2026-11-27 | [【事前着手】令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（二次公募）（事業Ⅱ/紙パルプ・化学・セメント）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003myubUAA) | — | 全国 | — |
 | 2026-11-27 | [令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（二次公募）（事業Ⅱ/紙パルプ・化学・セメント）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003mzyjUAA) | — | 全国 | — |
 | 2026-11-27 | [令和７年度補正 ディマンドリスポンスの拡大に向けたIoT化推進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY5GMAX) | — | 全国 | 20,000,000円 |
@@ -46,7 +50,6 @@
 | 2026-11-30 | [令和８年度課題解決型製品・サービス等の販路拡大助成](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY36MAH) | — | 東京都 | 1,500,000円 |
 | 2026-11-30 | [観光関連事業者のDX・経営力強化支援事業補助金（令和８年度第２回募集）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeYeMAL) | — | 東京都 | 30,000,000円 |
 | 2026-12-01 | [令和８年度海外商標対策支援助成事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYR2MAP) | — | 東京都 | 5,000,000円 |
-| 2026-12-01 | [【農林水産省】中山間地域所得確保推進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYDCMA5) | — | 全国 | 5,000,000円 |
 | 2026-12-03 | [令和８年度ゼロエミッション船等の導入支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbyjMAD) | — | 全国 | — |
 | 2026-12-11 | [【事前着手】令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（事業Ⅰ/鉄鋼）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003zgNCUAY) | — | 全国 | — |
 | 2026-12-11 | [令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（事業Ⅰ/鉄鋼）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003znYLUAY) | — | 全国 | — |
@@ -56,6 +59,7 @@
 | 2026-12-15 | [【令和８年度】二酸化炭素排出抑制対策事業費等補助金（低炭素型建材活用新築ZEB支援事業）（三次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003lu8IUAQ) | — | 全国 | 500,000,000円 |
 | 2026-12-15 | [小規模事業者持続化補助金＜一般型 災害支援枠（令和８年熊本地震）＞２次公募【商工会議所地区】](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003iibVUAQ) | — | 熊本県 | 2,000,000円 |
 | 2026-12-15 | [小規模事業者持続化補助金＜創業型＞ 第４回受付締切](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003kEuHUAU) | — | 全国 | 2,000,000円 |
+| 2026-12-16 | [「ポスト５Ｇ情報通信システム基盤強化研究開発事業／記録レス介護実現のための介護特化モデル等に関する研究開発（委託）」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003qLZhUAM) | — | 全国 | — |
 | 2026-12-17 | [中小企業人材確保のための奨学金返還支援事業【令和８年度企業登録】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX1KMAX) | — | 東京都 | — |
 | 2026-12-18 | [INPIT事業再編計画支援事業補助金（令和８年度）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYBxMAP) | INPIT事業再編計画支援事業補助金 | 全国 | 6,500,000円 |
 | 2026-12-23 | [交通システムの省CO2 化に向けた設備整備事業（鉄道事業等におけるネットワーク型低炭素化促進事業）（三次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003cAFxUAM) | — | 全国 | — |
