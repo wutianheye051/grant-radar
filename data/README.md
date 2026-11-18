@@ -1,15 +1,16 @@
 # 受付中の公募一覧
 
-最終更新: 2026-11-17 05:28 (UTC)  
-件数: 155  
-前回からの差分: 新規 1 / 更新 2 / 掲載終了 212
+最終更新: 2026-11-18 04:54 (UTC)  
+件数: 157  
+前回からの差分: 新規 2 / 更新 0 / 掲載終了 212
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
 
 ## 新着
 
-- [「ポスト５Ｇ情報通信システム基盤強化研究開発事業／記録レス介護実現のための介護特化モデル等に関する研究開発（委託）」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003qLZhUAM)（〜2026-12-16）
+- [「次世代バイオものづくり製造基盤技術に関する調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000049aA1UAI)（〜2026-12-04）
+- [「自動車用内燃機関技術のグローバル動向調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000042PWHUA2)（〜2026-12-03）
 
 ## すべて
 
@@ -50,7 +51,9 @@
 | 2026-11-30 | [令和８年度課題解決型製品・サービス等の販路拡大助成](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY36MAH) | — | 東京都 | 1,500,000円 |
 | 2026-11-30 | [観光関連事業者のDX・経営力強化支援事業補助金（令和８年度第２回募集）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeYeMAL) | — | 東京都 | 30,000,000円 |
 | 2026-12-01 | [令和８年度海外商標対策支援助成事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYR2MAP) | — | 東京都 | 5,000,000円 |
+| 2026-12-03 | [「自動車用内燃機関技術のグローバル動向調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000042PWHUA2) | — | 全国 | — |
 | 2026-12-03 | [令和８年度ゼロエミッション船等の導入支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbyjMAD) | — | 全国 | — |
+| 2026-12-04 | [「次世代バイオものづくり製造基盤技術に関する調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000049aA1UAI) | — | 全国 | — |
 | 2026-12-11 | [【事前着手】令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（事業Ⅰ/鉄鋼）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003zgNCUAY) | — | 全国 | — |
 | 2026-12-11 | [令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（事業Ⅰ/鉄鋼）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003znYLUAY) | — | 全国 | — |
 | 2026-12-14 | [GX地域共創補助金2026](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003dVevUAE) | — | 全国 | 25,000,000,000円 |

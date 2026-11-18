@@ -456,6 +456,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WfQ0000042PWHUA2",
+    "code": "S-00010024",
+    "title": "「自動車用内燃機関技術のグローバル動向調査」の公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-11-18T01:00:00Z",
+    "accepts_until": "2026-12-03T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000042PWHUA2"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDbyjMAD",
     "code": "S-00009407",
     "title": "令和８年度ゼロエミッション船等の導入支援事業",
@@ -466,6 +479,19 @@
     "accepts_from": "2026-08-24T05:00:00Z",
     "accepts_until": "2026-12-03T03:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbyjMAD"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ0000049aA1UAI",
+    "code": "S-00010046",
+    "title": "「次世代バイオものづくり製造基盤技術に関する調査」の公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-11-18T01:00:00Z",
+    "accepts_until": "2026-12-04T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000049aA1UAI"
   },
   {
     "source": "jgrants",
