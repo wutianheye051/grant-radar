@@ -1,19 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDaSdMAL",
-    "code": "S-00009303",
-    "title": "令和8年度製品開発着手支援助成事業",
-    "institution": null,
-    "target_area": "東京都",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 1000000,
-    "accepts_from": "2026-10-27T15:00:00Z",
-    "accepts_until": "2026-11-18T08:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaSdMAL"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDXkJMAX",
     "code": "S-00008191",
     "title": "「グリーンイノベーション基金事業／次世代型地熱技術の開発」の公募",

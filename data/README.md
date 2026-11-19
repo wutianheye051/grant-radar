@@ -1,22 +1,16 @@
 # 受付中の公募一覧
 
-最終更新: 2026-11-18 04:54 (UTC)  
-件数: 157  
-前回からの差分: 新規 2 / 更新 0 / 掲載終了 212
+最終更新: 2026-11-19 04:47 (UTC)  
+件数: 156  
+前回からの差分: 新規 0 / 更新 0 / 掲載終了 213
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
-
-## 新着
-
-- [「次世代バイオものづくり製造基盤技術に関する調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000049aA1UAI)（〜2026-12-04）
-- [「自動車用内燃機関技術のグローバル動向調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000042PWHUA2)（〜2026-12-03）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-11-18 | [令和8年度製品開発着手支援助成事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaSdMAL) | — | 東京都 | 1,000,000円 |
 | 2026-11-20 | [「グリーンイノベーション基金事業／次世代型地熱技術の開発」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkJMAX) | — | 全国 | — |
 | 2026-11-20 | [令和７年度（補正予算）地域脱炭素実現に向けた具体的施策実装支援事業（四次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3OMAT) | — | 全国 | — |
 | 2026-11-20 | [令和８年度地域脱炭素実現に向けた具体的施策実装支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3YMAT) | — | 全国 | — |
