@@ -1,19 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDXkJMAX",
-    "code": "S-00008191",
-    "title": "「グリーンイノベーション基金事業／次世代型地熱技術の開発」の公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-08-28T01:00:00Z",
-    "accepts_until": "2026-11-20T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkJMAX"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDd3OMAT",
     "code": "S-00009465",
     "title": "令和７年度（補正予算）地域脱炭素実現に向けた具体的施策実装支援事業（四次公募）",
@@ -378,16 +365,16 @@
   },
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDderMAD",
-    "code": "S-00009553",
-    "title": "令和8年度SDS電子化補助金",
+    "external_id": "a0WJ200000CDWQuMAP",
+    "code": "S-00007620",
+    "title": "令和６年度病院勤務者勤務環境改善事業・救急医療体制強化事業【仕入控除税額報告】",
     "institution": null,
-    "target_area": "全国",
+    "target_area": "東京都",
     "target_employees": "従業員数の制約なし",
-    "max_amount": 1000000,
-    "accepts_from": "2026-08-01T01:00:00Z",
+    "max_amount": null,
+    "accepts_from": "2025-10-29T00:00:00Z",
     "accepts_until": "2026-11-30T14:59:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDderMAD"
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDWQuMAP"
   },
   {
     "source": "jgrants",
@@ -440,6 +427,19 @@
     "accepts_from": "2026-04-10T00:00:00Z",
     "accepts_until": "2026-12-01T08:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYR2MAP"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ0000047V4oUAE",
+    "code": "S-00010040",
+    "title": "「ナトリウムイオン電池に関する技術（特許）動向調査」の公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-11-20T01:00:00Z",
+    "accepts_until": "2026-12-03T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000047V4oUAE"
   },
   {
     "source": "jgrants",
@@ -625,6 +625,32 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WfQ000003wLYbUAM",
+    "code": "S-00010005",
+    "title": "令和８年度　宿泊事業者向け省力化推進事業補助金",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 8000000,
+    "accepts_from": "2026-11-19T15:00:00Z",
+    "accepts_until": "2026-12-18T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003wLYbUAM"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ0000043Od4UAE",
+    "code": "S-00010028",
+    "title": "「ポスト5G情報通信システム基盤強化研究開発事業（社会課題解決に向けた量子コンピュータ次世代機開発・実証の加速）」（b-2：人材育成）の追加公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-11-20T01:00:00Z",
+    "accepts_until": "2026-12-22T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000043Od4UAE"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WfQ000003cAFxUAM",
     "code": "S-00009905",
     "title": "交通システムの省CO2 化に向けた設備整備事業（鉄道事業等におけるネットワーク型低炭素化促進事業）（三次公募）",
@@ -739,6 +765,19 @@
     "accepts_from": "2026-04-16T15:00:00Z",
     "accepts_until": "2026-12-25T14:59:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXjyMAH"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDderMAD",
+    "code": "S-00009553",
+    "title": "令和8年度SDS電子化補助金",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 1000000,
+    "accepts_from": "2026-08-01T01:00:00Z",
+    "accepts_until": "2026-12-25T14:59:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDderMAD"
   },
   {
     "source": "jgrants",
