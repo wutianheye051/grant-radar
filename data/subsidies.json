@@ -1,58 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDd3OMAT",
-    "code": "S-00009465",
-    "title": "令和７年度（補正予算）地域脱炭素実現に向けた具体的施策実装支援事業（四次公募）",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-07-13T01:00:00Z",
-    "accepts_until": "2026-11-20T08:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3OMAT"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDd3YMAT",
-    "code": "S-00009467",
-    "title": "令和８年度地域脱炭素実現に向けた具体的施策実装支援事業",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-07-13T01:00:00Z",
-    "accepts_until": "2026-11-20T08:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3YMAT"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WfQ000003ENsfUAG",
-    "code": "S-00009846",
-    "title": "【三次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-09-25T00:00:00Z",
-    "accepts_until": "2026-11-20T14:59:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ENsfUAG"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDYbNMAX",
-    "code": "S-00008860",
-    "title": "エイジフレンドリー補助金",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 1000000,
-    "accepts_from": "2026-05-20T00:00:00Z",
-    "accepts_until": "2026-11-20T15:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYbNMAX"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WfQ000003rLvpUAE",
     "code": "S-00009991",
     "title": "第１４回（令和８年度第３回）躍進的な事業推進のための設備投資支援事業",

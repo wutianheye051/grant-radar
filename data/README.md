@@ -1,27 +1,16 @@
 # 受付中の公募一覧
 
-最終更新: 2026-11-20 04:38 (UTC)  
-件数: 159  
-前回からの差分: 新規 4 / 更新 1 / 掲載終了 216
+最終更新: 2026-11-21 04:32 (UTC)  
+件数: 155  
+前回からの差分: 新規 0 / 更新 0 / 掲載終了 220
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
-
-## 新着
-
-- [「ポスト5G情報通信システム基盤強化研究開発事業（社会課題解決に向けた量子コンピュータ次世代機開発・実証の加速）」（b-2：人材育成）の追加公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000043Od4UAE)（〜2026-12-22）
-- [令和８年度　宿泊事業者向け省力化推進事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003wLYbUAM)（〜2026-12-18）
-- [令和６年度病院勤務者勤務環境改善事業・救急医療体制強化事業【仕入控除税額報告】](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDWQuMAP)（〜2026-11-30）
-- [「ナトリウムイオン電池に関する技術（特許）動向調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000047V4oUAE)（〜2026-12-03）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-11-20 | [令和７年度（補正予算）地域脱炭素実現に向けた具体的施策実装支援事業（四次公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3OMAT) | — | 全国 | — |
-| 2026-11-20 | [令和８年度地域脱炭素実現に向けた具体的施策実装支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDd3YMAT) | — | 全国 | — |
-| 2026-11-20 | [【三次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ENsfUAG) | — | 全国 | — |
-| 2026-11-20 | [エイジフレンドリー補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYbNMAX) | — | 全国 | 1,000,000円 |
 | 2026-11-24 | [第１４回（令和８年度第３回）躍進的な事業推進のための設備投資支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003rLvpUAE) | — | 茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県 | 200,000,000円 |
 | 2026-11-25 | [「再生可能エネルギー技術の多様化に関する動向調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003tibNUAQ) | — | 全国 | — |
 | 2026-11-25 | [「太陽光発電導入拡大等技術開発事業」の第3回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe82MAD) | — | 全国 | — |
