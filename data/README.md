@@ -1,11 +1,17 @@
 # 受付中の公募一覧
 
-最終更新: 2026-11-21 04:32 (UTC)  
-件数: 155  
-前回からの差分: 新規 0 / 更新 0 / 掲載終了 220
+最終更新: 2026-11-22 03:46 (UTC)  
+件数: 158  
+前回からの差分: 新規 3 / 更新 0 / 掲載終了 220
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
+
+## 新着
+
+- [【さいたま市】令和８年度さいたま市創エネ・蓄エネ設備導入補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUVMA5)（〜2027-03-01）
+- [【さいたま市】令和８年度さいたま市重点対策加速化事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUUMA5)（〜2027-02-01）
+- [【さいたま市】令和８年度さいたま市電気自動車等普及促進対策補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUTMA5)（〜2027-03-19）
 
 ## すべて
 
@@ -89,6 +95,7 @@
 | 2027-01-31 | [令和8年度_受動喫煙防止対策助成金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeRiMAL) | — | 全国 | 1,000,000円 |
 | 2027-01-31 | [岡崎ものづくり支援補助金（依頼試験事業）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYW3MAP) | — | 愛知県 | 500,000円 |
 | 2027-01-31 | [岡崎ものづくり支援補助金（共同研究事業）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYW2MAP) | — | 愛知県 | 500,000円 |
+| 2027-02-01 | [【さいたま市】令和８年度さいたま市重点対策加速化事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUUMA5) | — | 埼玉県 | — |
 | 2027-02-01 | [【大阪府和泉市】再エネ・省エネ機器設置促進事業補助金（事業者用）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYvPMAX) | — | 大阪府 | — |
 | 2027-02-26 | [【堺市】余剰電力等活用型太陽光発電設備整備事業（堺エネルギー地産地消プロジェクト推進事業補助金）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYCmMAP) | — | 大阪府 | — |
 | 2027-02-26 | [小樽市省エネルギー診断補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbyyMAD) | — | 北海道 | 50,000円 |
@@ -100,8 +107,10 @@
 | 2027-02-28 | [令和６年度補正予算　商用車等の電動化促進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDL8JMAX) | — | 全国 | 29,500,000,000円 |
 | 2027-02-28 | [令和８年度スキルアップ支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXEmMAP) | 中小企業人材スキルアップ支援事業 | 東京都 | 2,500,000円 |
 | 2027-02-28 | [令和８年度資格取得サポート助成金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXMiMAP) | 中小企業人材スキルアップ支援事業 | 東京都 | 1,000,000円 |
+| 2027-03-01 | [【さいたま市】令和８年度さいたま市創エネ・蓄エネ設備導入補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUVMA5) | — | 埼玉県 | — |
 | 2027-03-01 | [川越市中小企業者等物価高騰対策経営改善支援金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY6GMAX) | — | 埼玉県 | 100,000円 |
 | 2027-03-17 | [【長野県茅野市】受注及び販路開拓支援事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY1kMAH) | — | 長野県 | — |
+| 2027-03-19 | [【さいたま市】令和８年度さいたま市電気自動車等普及促進対策補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUTMA5) | — | 埼玉県 | — |
 | 2027-03-23 | [【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（21次締切）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDX4vMAH) | — | 全国 | 40,000,000円 |
 | 2027-03-31 | [【飯塚市】令和8年度海外展開支援事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXk8MAH) | — | 福岡県 | 100,000円 |
 | 2027-03-31 | [民放ラジオ難聴解消支援事業（令和８年度公募）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXENMA5) | — | 全国 | — |

@@ -1015,6 +1015,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDYUUMA5",
+    "code": "S-00008728",
+    "title": "【さいたま市】令和８年度さいたま市重点対策加速化事業補助金",
+    "institution": null,
+    "target_area": "埼玉県",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2025-12-31T15:00:00Z",
+    "accepts_until": "2027-02-01T08:15:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUUMA5"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDYvPMAX",
     "code": "S-00009139",
     "title": "【大阪府和泉市】再エネ・省エネ機器設置促進事業補助金（事業者用）",
@@ -1158,6 +1171,19 @@
   },
   {
     "source": "jgrants",
+    "external_id": "a0WJ200000CDYUVMA5",
+    "code": "S-00008729",
+    "title": "【さいたま市】令和８年度さいたま市創エネ・蓄エネ設備導入補助金",
+    "institution": null,
+    "target_area": "埼玉県",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2025-12-31T15:00:00Z",
+    "accepts_until": "2027-03-01T08:15:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUVMA5"
+  },
+  {
+    "source": "jgrants",
     "external_id": "a0WJ200000CDY6GMAX",
     "code": "S-00008447",
     "title": "川越市中小企業者等物価高騰対策経営改善支援金",
@@ -1181,6 +1207,19 @@
     "accepts_from": "2026-03-31T15:00:00Z",
     "accepts_until": "2027-03-17T14:59:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY1kMAH"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDYUTMA5",
+    "code": "S-00008727",
+    "title": "【さいたま市】令和８年度さいたま市電気自動車等普及促進対策補助金",
+    "institution": null,
+    "target_area": "埼玉県",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2025-12-31T15:00:00Z",
+    "accepts_until": "2027-03-19T08:15:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUTMA5"
   },
   {
     "source": "jgrants",
