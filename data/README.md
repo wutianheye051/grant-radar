@@ -1,17 +1,11 @@
 # 受付中の公募一覧
 
-最終更新: 2026-11-22 03:46 (UTC)  
+最終更新: 2026-11-23 04:24 (UTC)  
 件数: 158  
-前回からの差分: 新規 3 / 更新 0 / 掲載終了 220
+前回からの差分: 新規 0 / 更新 0 / 掲載終了 220
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
-
-## 新着
-
-- [【さいたま市】令和８年度さいたま市創エネ・蓄エネ設備導入補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUVMA5)（〜2027-03-01）
-- [【さいたま市】令和８年度さいたま市重点対策加速化事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUUMA5)（〜2027-02-01）
-- [【さいたま市】令和８年度さいたま市電気自動車等普及促進対策補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUTMA5)（〜2027-03-19）
 
 ## すべて
 
