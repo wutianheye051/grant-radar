@@ -1,17 +1,20 @@
 # 受付中の公募一覧
 
-最終更新: 2026-11-23 04:24 (UTC)  
+最終更新: 2026-11-24 07:20 (UTC)  
 件数: 158  
-前回からの差分: 新規 0 / 更新 0 / 掲載終了 220
+前回からの差分: 新規 1 / 更新 0 / 掲載終了 221
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
+
+## 新着
+
+- [令和8年度第3回 事業承継を契機とした成長支援事業(販路開拓コース)](https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000041oIDUAY)（〜2026-12-25）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-11-24 | [第１４回（令和８年度第３回）躍進的な事業推進のための設備投資支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003rLvpUAE) | — | 茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県 | 200,000,000円 |
 | 2026-11-25 | [「再生可能エネルギー技術の多様化に関する動向調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003tibNUAQ) | — | 全国 | — |
 | 2026-11-25 | [「太陽光発電導入拡大等技術開発事業」の第3回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe82MAD) | — | 全国 | — |
 | 2026-11-25 | [「２０２６年度　ＮＥＤＯ先導研究プログラムにおける成果把握・要因分析調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003tEv3UAE) | — | 全国 | — |
@@ -62,6 +65,7 @@
 | 2026-12-24 | [令和８年度 脱炭素成長型経済構造移行推進対策費補助金 （業務用建築物の脱炭素改修加速化事業）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDa1bMAD) | — | 全国 | 1,000,000,000円 |
 | 2026-12-25 | [【福岡県宗像市】令和8年度 宗像市がんばる中小企業者応援補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDddbMAD) | — | 福岡県 | — |
 | 2026-12-25 | [【福岡県宗像市】令和8年度 食のまち宗像推進補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDddZMAT) | — | 福岡県 | — |
+| 2026-12-25 | [令和8年度第3回 事業承継を契機とした成長支援事業(販路開拓コース)](https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000041oIDUAY) | — | 東京都 | 3,000,000円 |
 | 2026-12-25 | [【山形県】令和8年度地域主導型再生可能エネルギー導入支援事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDddXMAT) | — | 山形県 | 240,000円 |
 | 2026-12-25 | [【山形県】令和8年度山形県再生可能エネルギー(小水力発電)事業可能性調査事業費補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDddWMAT) | — | 山形県 | 750,000円 |
 | 2026-12-25 | [【福井県】令和８年度 Ｖ２Ｈ充放電設備設置支援事業補助金](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXjxMAH) | — | 福井県 | 100,000円 |

@@ -1,19 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WfQ000003rLvpUAE",
-    "code": "S-00009991",
-    "title": "第１４回（令和８年度第３回）躍進的な事業推進のための設備投資支援事業",
-    "institution": null,
-    "target_area": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 200000000,
-    "accepts_from": "2026-10-23T00:00:00Z",
-    "accepts_until": "2026-11-24T04:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003rLvpUAE"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WfQ000003tibNUAQ",
     "code": "S-00009999",
     "title": "「再生可能エネルギー技術の多様化に関する動向調査」の公募",
@@ -661,6 +648,19 @@
     "accepts_from": "2026-06-01T00:00:00Z",
     "accepts_until": "2026-12-25T02:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDddZMAT"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WfQ0000041oIDUAY",
+    "code": "S-00010020",
+    "title": "令和8年度第3回 事業承継を契機とした成長支援事業(販路開拓コース)",
+    "institution": null,
+    "target_area": "東京都",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": 3000000,
+    "accepts_from": "2026-11-24T00:00:00Z",
+    "accepts_until": "2026-12-25T07:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000041oIDUAY"
   },
   {
     "source": "jgrants",
