@@ -1,23 +1,16 @@
 # 受付中の公募一覧
 
-最終更新: 2026-11-24 07:20 (UTC)  
-件数: 158  
-前回からの差分: 新規 1 / 更新 0 / 掲載終了 221
+最終更新: 2026-11-25 05:52 (UTC)  
+件数: 156  
+前回からの差分: 新規 0 / 更新 1 / 掲載終了 223
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
-
-## 新着
-
-- [令和8年度第3回 事業承継を契機とした成長支援事業(販路開拓コース)](https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000041oIDUAY)（〜2026-12-25）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-11-25 | [「再生可能エネルギー技術の多様化に関する動向調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003tibNUAQ) | — | 全国 | — |
-| 2026-11-25 | [「太陽光発電導入拡大等技術開発事業」の第3回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe82MAD) | — | 全国 | — |
-| 2026-11-25 | [「２０２６年度　ＮＥＤＯ先導研究プログラムにおける成果把握・要因分析調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003tEv3UAE) | — | 全国 | — |
 | 2026-11-25 | [【農林水産省】中山間地域所得確保推進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYDCMA5) | — | 全国 | 5,000,000円 |
 | 2026-11-26 | [「ポスト5G情報通信システム基盤強化研究開発事業（社会課題解決に向けた量子コンピュータ次世代機開発・実証の加速）」（g12-2：部素材）の追加公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003CYIjUAO) | — | 全国 | — |
 | 2026-11-27 | [【事前着手】令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（二次公募）（事業Ⅱ/紙パルプ・化学・セメント）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003myubUAA) | — | 全国 | — |
@@ -47,6 +40,7 @@
 | 2026-12-03 | [「自動車用内燃機関技術のグローバル動向調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000042PWHUA2) | — | 全国 | — |
 | 2026-12-03 | [令和８年度ゼロエミッション船等の導入支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDbyjMAD) | — | 全国 | — |
 | 2026-12-04 | [「次世代バイオものづくり製造基盤技術に関する調査」の公募](https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000049aA1UAI) | — | 全国 | — |
+| 2026-12-08 | [「太陽光発電導入拡大等技術開発事業」の第3回公募](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe82MAD) | — | 全国 | — |
 | 2026-12-11 | [【事前着手】令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（事業Ⅰ/鉄鋼）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003zgNCUAY) | — | 全国 | — |
 | 2026-12-11 | [令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（事業Ⅰ/鉄鋼）](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003znYLUAY) | — | 全国 | — |
 | 2026-12-14 | [GX地域共創補助金2026](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003dVevUAE) | — | 全国 | 25,000,000,000円 |

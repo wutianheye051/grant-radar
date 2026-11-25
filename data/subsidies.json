@@ -1,45 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WfQ000003tibNUAQ",
-    "code": "S-00009999",
-    "title": "「再生可能エネルギー技術の多様化に関する動向調査」の公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-11-05T01:00:00Z",
-    "accepts_until": "2026-11-25T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003tibNUAQ"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WJ200000CDe82MAD",
-    "code": "S-00009732",
-    "title": "「太陽光発電導入拡大等技術開発事業」の第3回公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-10-19T01:00:00Z",
-    "accepts_until": "2026-11-25T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe82MAD"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WfQ000003tEv3UAE",
-    "code": "S-00009998",
-    "title": "「２０２６年度　ＮＥＤＯ先導研究プログラムにおける成果把握・要因分析調査」の公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-11-02T01:00:00Z",
-    "accepts_until": "2026-11-25T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003tEv3UAE"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDYDCMA5",
     "code": "S-00008580",
     "title": "【農林水産省】中山間地域所得確保推進事業",
@@ -414,6 +375,19 @@
     "accepts_from": "2026-11-18T01:00:00Z",
     "accepts_until": "2026-12-04T03:00:00Z",
     "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000049aA1UAI"
+  },
+  {
+    "source": "jgrants",
+    "external_id": "a0WJ200000CDe82MAD",
+    "code": "S-00009732",
+    "title": "「太陽光発電導入拡大等技術開発事業」の第3回公募",
+    "institution": null,
+    "target_area": "全国",
+    "target_employees": "従業員数の制約なし",
+    "max_amount": null,
+    "accepts_from": "2026-10-19T01:00:00Z",
+    "accepts_until": "2026-12-08T03:00:00Z",
+    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe82MAD"
   },
   {
     "source": "jgrants",
