@@ -1,32 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WJ200000CDYDCMA5",
-    "code": "S-00008580",
-    "title": "【農林水産省】中山間地域所得確保推進事業",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": 5000000,
-    "accepts_from": "2025-12-16T00:00:00Z",
-    "accepts_until": "2026-11-25T08:15:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYDCMA5"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WfQ000003CYIjUAO",
-    "code": "S-00009829",
-    "title": "「ポスト5G情報通信システム基盤強化研究開発事業（社会課題解決に向けた量子コンピュータ次世代機開発・実証の加速）」（g12-2：部素材）の追加公募",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-10-14T01:00:00Z",
-    "accepts_until": "2026-11-26T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003CYIjUAO"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WfQ000003myubUAA",
     "code": "S-00009965",
     "title": "【事前着手】令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（二次公募）（事業Ⅱ/紙パルプ・化学・セメント）",
