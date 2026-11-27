@@ -1,32 +1,6 @@
 [
   {
     "source": "jgrants",
-    "external_id": "a0WfQ000003myubUAA",
-    "code": "S-00009965",
-    "title": "【事前着手】令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（二次公募）（事業Ⅱ/紙パルプ・化学・セメント）",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-10-22T03:00:00Z",
-    "accepts_until": "2026-11-27T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003myubUAA"
-  },
-  {
-    "source": "jgrants",
-    "external_id": "a0WfQ000003mzyjUAA",
-    "code": "S-00009966",
-    "title": "令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（二次公募）（事業Ⅱ/紙パルプ・化学・セメント）",
-    "institution": null,
-    "target_area": "全国",
-    "target_employees": "従業員数の制約なし",
-    "max_amount": null,
-    "accepts_from": "2026-10-22T03:00:00Z",
-    "accepts_until": "2026-11-27T03:00:00Z",
-    "url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003mzyjUAA"
-  },
-  {
-    "source": "jgrants",
     "external_id": "a0WJ200000CDY5GMAX",
     "code": "S-00008435",
     "title": "令和７年度補正 ディマンドリスポンスの拡大に向けたIoT化推進事業",
