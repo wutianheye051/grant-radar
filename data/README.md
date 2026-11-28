@@ -1,17 +1,20 @@
 # 受付中の公募一覧
 
-最終更新: 2026-11-27 05:38 (UTC)  
+最終更新: 2026-11-28 05:15 (UTC)  
 件数: 152  
-前回からの差分: 新規 0 / 更新 0 / 掲載終了 227
+前回からの差分: 新規 1 / 更新 0 / 掲載終了 228
 
 > このファイルは自動生成されています。
 > 出典: [jGrants 補助金電子申請システム](https://www.jgrants-portal.go.jp/)（[公開API](https://developers.digital.go.jp/documents/jgrants/api/) 経由で取得）
+
+## 新着
+
+- [東京都生産性向上・職場環境整備等支援事業補助金　消費税仕入控除税額報告](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000004MP0fUAG)（〜2027-05-31）
 
 ## すべて
 
 | 受付終了 | 件名 | 実施機関 | 対象地域 | 上限額 |
 |---|---|---|---|---|
-| 2026-11-27 | [令和７年度補正 ディマンドリスポンスの拡大に向けたIoT化推進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY5GMAX) | — | 全国 | 20,000,000円 |
 | 2026-11-28 | [【令和８年度】二酸化炭素排出抑制対策事業費等補助金（地域再エネ水素ステーション保守点検等支援事業）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZzQMAX) | — | 全国 | 2,200,000円 |
 | 2026-11-30 | [令和８年度二酸化炭素排出抑制対策事業費等補助金（運輸部門等の脱炭素化に向けた先進的システム社会実装促進事業のうち、農業機械の電動化促進事業）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDa1gMAD) | — | 全国 | 72,000,000円 |
 | 2026-11-30 | [【第３回】中東情勢による原材料価格高騰に伴う経営基盤安定化緊急対策事業](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ohEXUAY) | — | 東京都 | 20,000,000円 |
@@ -142,6 +145,7 @@
 | 2027-05-31 | [令和８年度　医療分野における業務効率化・職場環境改善支援事業](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003l6UrUAI) | — | 東京都 | — |
 | 2027-05-31 | [令和８年度　病院勤務者勤務環境改善事業・救急医療体制強化事業](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003MWE2UAO) | — | 東京都 | — |
 | 2027-05-31 | [令和８年度病院勤務者勤務環境改善事業・救急医療体制強化事業](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003DRDZUA4) | — | 東京都 | — |
+| 2027-05-31 | [東京都生産性向上・職場環境整備等支援事業補助金　消費税仕入控除税額報告](https://www.jgrants-portal.go.jp/subsidy/a0WfQ000004MP0fUAG) | — | 東京都 | — |
 | 2027-06-30 | [【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（22次締切）](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYimMAH) | — | 全国 | — |
 | 2027-08-31 | [令和8年度診療所診療情報デジタル推進事業](https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY8hMAH) | — | 東京都 | — |
 | 2028-01-01 | [令和6年度　ES（社員満足度）向上による若手人材確保・定着事業助成金～１年目申請用～](https://www.jgrants-portal.go.jp/subsidy/a0WJ2000000pSPQMA2) | — | 東京都 | 3,000,000円 |
